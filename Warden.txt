@@ -1,0 +1,69 @@
+									Animal Companions
+Feral Guardian
+	Eternal Guardian
+	Wild Guardian
+Dive
+	Cutting Dive
+	Screaming Cliff Racer
+Scorch
+	Deep Fissure
+	Subterranean Assault
+Swarm
+	Fetcher Infection
+	Growing Swarm
+Betty Netch
+	Blue Betty
+	Bull Netch
+Falcon's Swiftness
+	Bird of Prey
+	Deceptive Predator
+Bond with Nature
+Savage Beast
+Flourish
+Advanced Species
+									Green Balance
+Secluded Grove
+	Enchanted Forest
+	Healing Thicket
+Fungal Growth
+	Enchanted Growth
+	Soothing Spores
+Healing Seed
+	Budding Seeds
+	Corrupting Pollen
+Living Vines
+	Leeching Vines
+	Living Trellis
+Lotus Flower
+	Green Lotus
+	Lotus Blossom
+Nature's Grasp
+	Bursting Vines
+	Nature's Embrace
+Accelerated Growth
+Nature's Gift
+Emerald Moss
+Maturation
+									Winter's Embrace
+Sleet Storm
+	Northern Storm
+	Permafrost
+Frost Cloak
+	Expansive Frost Cloak
+	Ice Fortress
+Impaling Shards
+	Gripping Shards
+	Winter's Revenge
+Arctic Wind
+	Arctic Blast
+	Polar Wind
+Crystallized Shield
+	Crystallized Slab
+	Shimmering Shield
+Frozen Gate
+	Frozen Device
+	Frozen Retreat
+Glacial Presence
+Frozen Armor
+Icy Aura
+Piercing Cold

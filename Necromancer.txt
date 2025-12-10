@@ -1,0 +1,69 @@
+									Bone Tyrant
+Bone Goliath Transformation
+	Pummeling Goliath
+	Ravenous Goliath
+Death Scythe
+	Hungry Scythe
+	Ruinous Scythe
+Bone Armor
+	Beckoning Armor
+	Summoner's Armor
+Bitter Harvest
+	Deaden Pain
+	Necrotic Potency
+Bone Totem
+	Agony Totem
+	Remote Totem
+Grave Grasp
+	Empowering Grasp
+	Ghostly Embrace
+Death Gleaning
+Disdain Harm
+Health Avarice
+Last Gasp
+									Grave Lord
+Frozen Colossus
+	Glacial Colossus
+	Pestilent Colossus
+Flame Skull
+	Ricochet Skull
+	Venom Skull
+Sacrificial Bones
+	Blighted Blastbones
+	Grave Lord's Sacrifice
+Boneyard
+	Avid Boneyard
+	Unnerving Boneyard
+Skeletal Mage
+	Skeletal Arcanist
+	Skeletal Archer
+Shocking Siphon
+	Detonating Siphon
+	Mystic Siphon
+Reusable Parts
+Death Knell
+Dismember
+Rapid Rot
+									Living Death
+Reanimate
+	Animate Blastbones
+	Renewing Animation
+Render Flesh
+	Blood Sacrifice
+	Resistant Flesh
+Expunge
+	Expunge and Modify
+	Hexproof
+Life amid Death
+	Enduring Undeath
+	Renewing Undeath
+Spirit Mender
+	Intensive Mender
+	Spirit Guardian
+Restoring Tether
+	Braided Tether
+	Mortal Coil
+Curative Curse
+Near-Death Experience
+Corpse Consumption
+Undead Confederate
