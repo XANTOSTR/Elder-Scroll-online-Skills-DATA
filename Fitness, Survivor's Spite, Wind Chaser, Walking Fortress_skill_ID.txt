@@ -1,0 +1,129 @@
+{{8290981-0-37542:}}Defiance
+{{61854549-0-77:}}Refreshing Stride
+{{61854549-0-107:}}Spirit Mastery
+{{87370069-0-18985:}}JUGGERNAUT
+{{87722757-0-42:}}Wind Chaser
+{{87722757-0-44:}}Walking Fortress
+{{87722757-0-53:}}Survivor's Spite
+{{96069573-0-6622:}}Sprinter
+{{96069573-0-10253:}}Sprinter
+{{162946485-0-8748:}}Bastion
+{{162946485-0-17927:}}Bastion
+{{162946485-0-18294:}}Bastion
+{{198758357-0-4130:}}Juggernaut
+{{198758357-0-18383:}}Juggernaut
+{{198758357-0-29804:}}Juggernaut
+{{198758357-0-32653:}}Fortification
+{{198758357-0-32654:}}Fortification
+{{198758357-0-32655:}}Fortification
+{{198758357-0-32706:}}Fortification
+{{198758357-0-45546:}}Juggernaut
+{{198758357-0-59286:}}Unchained
+{{198758357-0-59948:}}Bastion
+{{198758357-0-63863:}}Tumbling
+{{198758357-0-64077:}}Sprinter
+{{198758357-0-98316:}}Unchained
+{{198758357-0-141991:}}Siphoning Spells
+{{198758357-0-141992:}}Siphoning Spells
+{{198758357-0-141993:}}Bloody Renewal
+{{198758357-0-141994:}}Bloody Renewal
+{{198758357-0-141995:}}Strategic Reserve
+{{198758357-0-142034:}}Boundless Vitality
+{{198758357-0-142035:}}Fortified
+{{198758357-0-142074:}}Rejuvenation
+{{198758357-0-142077:}}Tumbling
+{{198758357-0-142079:}}Sprinter
+{{198758357-0-142080:}}Tireless Guardian
+{{198758357-0-142081:}}Savage Defense
+{{198758357-0-142082:}}Defiance
+{{198758357-0-142083:}}Hasty
+{{198758357-0-142086:}}Fortification
+{{198758357-0-142088:}}Nimble Protector
+{{198758357-0-142089:}}Piercing Gaze
+{{198758357-0-142090:}}Bastion
+{{198758357-0-142091:}}Bashing Brutality
+{{198758357-0-142092:}}Expert Evasion
+{{198758357-0-142093:}}Expert Evasion
+{{198758357-0-142094:}}Slippery
+{{198758357-0-142095:}}Slippery
+{{198758357-0-142096:}}Mystic Tenacity
+{{198758357-0-142097:}}Peace of Mind
+{{198758357-0-142099:}}Hardened
+{{198758357-0-142100:}}Spirit Mastery
+{{198758357-0-142102:}}Survival Instincts
+{{198758357-0-142109:}}Tempered Soul
+{{198758357-0-142110:}}Juggernaut
+{{198758357-0-142111:}}On Guard
+{{198758357-0-142113:}}Arcane Alacrity
+{{198758357-0-142115:}}Rousing Speed
+{{198758357-0-145804:}}Slippery
+{{198758357-0-147889:}}Hero's Vigor
+{{198758357-0-149282:}}Unchained
+{{198758357-0-149311:}}Hero's Vigor
+{{198758357-0-149624:}}Defiance
+{{198758357-0-151113:}}Expert Evasion
+{{198758357-0-153066:}}Rejuvenation
+{{198758357-0-154755:}}Rejuvenation
+{{198758357-0-155328:}}On Guard
+{{198758357-0-160044:}}Celerity
+{{198758357-0-160045:}}Thrill of the Hunt
+{{198758357-0-160048:}}Refreshing Stride
+{{198758357-0-160052:}}Refreshing Stride
+{{198758357-0-160053:}}Refreshing Stride
+{{198758357-0-160054:}}Refreshing Stride
+{{198758357-0-160057:}}Sustained by Suffering
+{{198758357-0-160065:}}Pain's Refuge
+{{198758357-0-160072:}}Relentlessness
+{{198758357-0-160162:}}Bracing Anchor
+{{198758357-0-160163:}}Bracing Anchor
+{{198758357-0-160164:}}Bracing Anchor
+{{198758357-0-160165:}}Bracing Anchor
+{{198758357-0-160166:}}Bracing Anchor
+{{198758357-0-160190:}}Ward Master
+{{198758357-0-160197:}}Ward Master
+{{198758357-0-160198:}}Ward Master
+{{198758357-0-160199:}}Soothing Shield
+{{198758357-0-160200:}}Soothing Shield
+{{198758357-0-160201:}}Soothing Shield
+{{198758357-0-192235:}}Piercing Gaze
+{{198758357-0-192236:}}Piercing Gaze
+{{198758357-0-192237:}}Piercing Gaze
+{{198758357-0-192238:}}Piercing Gaze
+{{198758357-0-192239:}}Piercing Gaze
+{{198758357-0-200205:}}Fortified
+{{198758357-0-200231:}}Fortified
+{{198758357-0-200707:}}Bastion
+{{198758357-0-203189:}}Fortification
+{{198758357-0-208091:}}Piercing Gaze
+{{198758357-0-208092:}}Piercing Gaze
+{{198758357-0-208093:}}Piercing Gaze
+{{198758357-0-208094:}}Piercing Gaze
+{{198758357-0-208095:}}Piercing Gaze
+{{198758357-0-208096:}}Piercing Gaze
+{{198758357-0-208097:}}Piercing Gaze
+{{198758357-0-208103:}}Piercing Gaze
+{{198758357-0-208104:}}Piercing Gaze
+{{198758357-0-208196:}}Fortification
+{{198758357-0-208459:}}Piercing Gaze
+{{198758357-0-208460:}}Piercing Gaze
+{{198758357-0-208462:}}Piercing Gaze
+{{198758357-0-208463:}}Piercing Gaze
+{{198758357-0-210676:}}Fortification
+{{198758357-0-210678:}}Fortification
+{{198758357-0-212401:}}Piercing Gaze
+{{198758357-0-212402:}}Piercing Gaze
+{{198758357-0-212403:}}Piercing Gaze
+{{198758357-0-217390:}}Piercing Gaze
+{{198758357-0-217391:}}Piercing Gaze
+{{198758357-0-217392:}}Piercing Gaze
+{{198758357-0-222373:}}Piercing Gaze
+{{198758357-0-222374:}}Piercing Gaze
+{{198758357-0-222375:}}Piercing Gaze
+{{198758357-0-222376:}}Piercing Gaze
+{{198758357-0-222378:}}Piercing Gaze
+{{198758357-0-222823:}}Piercing Gaze
+{{198758357-0-240065:}}Slippery
+{{198758357-0-248700:}}Spirit Mastery
+{{198758357-0-250081:}}Fortified
+{{198758357-0-250082:}}Fortified
+{{242841733-0-54859:}}Rejuvenation
