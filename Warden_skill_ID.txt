@@ -1,0 +1,520 @@
+{{8290981-0-21302:}}Betty Netch
+{{8290981-0-21303:}}Bull Netch
+{{8290981-0-23382:}}Bull Netch
+{{8290981-0-23383:}}Betty Netch
+{{8290981-0-23469:}}Bull Netch
+{{8290981-0-23470:}}Betty Netch
+{{8290981-0-23655:}}Bull Netch
+{{8290981-0-23656:}}Betty Netch
+{{8290981-0-25088:}}Bull Netch
+{{8290981-0-25398:}}Betty Netch
+{{8290981-0-25762:}}Bull Netch
+{{8290981-0-25763:}}Betty Netch
+{{8290981-0-27064:}}Betty Netch
+{{8290981-0-27065:}}Bull Netch
+{{8290981-0-37105:}}Betty Netch
+{{8290981-0-37106:}}Bull Netch
+{{8290981-0-37113:}}Betty Netch
+{{8290981-0-37114:}}Bull Netch
+{{8290981-0-44790:}}Betty Netch
+{{8290981-0-44791:}}Bull Netch
+{{8290981-0-53068:}}Bird of Prey
+{{8290981-0-55033:}}Bull Netch
+{{8290981-0-55034:}}Bull Netch
+{{8290981-0-55035:}}Bull Netch
+{{8290981-0-55038:}}Betty Netch
+{{8290981-0-55039:}}Betty Netch
+{{8290981-0-55040:}}Betty Netch
+{{8290981-0-56139:}}Bird of Prey
+{{8290981-0-58384:}}Bull Netch
+{{8290981-0-72264:}}Bird of Prey
+{{8290981-0-72889:}}Bird of Prey
+{{8290981-0-75292:}}Betty Netch
+{{8290981-0-75599:}}Feral Guardian
+{{8290981-0-76313:}}Bull Netch
+{{8290981-0-76832:}}Wild Guardian
+{{8290981-0-77368:}}Eternal Guardian
+{{8290981-0-85727:}}Bull Netch
+{{8290981-0-85759:}}Betty Netch
+{{17915077-0-398:}}Secluded Grove
+{{17915077-0-399:}}Healing Seed
+{{17915077-0-400:}}Fungal Growth
+{{17915077-0-401:}}Lotus Flower
+{{17915077-0-402:}}Living Vines
+{{17915077-0-403:}}Nature's Grasp
+{{17915077-0-405:}}Feral Guardian
+{{17915077-0-406:}}Dive
+{{17915077-0-407:}}Swarm
+{{17915077-0-408:}}Scorch
+{{17915077-0-409:}}Falcon's Swiftness
+{{17915077-0-410:}}Betty Netch
+{{17915077-0-411:}}Sleet Storm
+{{17915077-0-412:}}Frost Cloak
+{{17915077-0-413:}}Crystallized Shield
+{{17915077-0-414:}}Arctic Wind
+{{17915077-0-415:}}Impaling Shards
+{{17915077-0-416:}}Frozen Gate
+{{17915077-0-885:}}Dive
+{{17915077-0-886:}}Scorch
+{{17915077-0-887:}}Swarm
+{{17915077-0-888:}}Betty Netch
+{{17915077-0-889:}}Falcon's Swiftness
+{{17915077-0-890:}}Feral Guardian
+{{17915077-0-891:}}Frost Cloak
+{{17915077-0-892:}}Impaling Shards
+{{17915077-0-893:}}Arctic Wind
+{{17915077-0-894:}}Crystallized Shield
+{{17915077-0-895:}}Frozen Gate
+{{17915077-0-896:}}Sleet Storm
+{{17915077-0-897:}}Fungal Growth
+{{17915077-0-898:}}Healing Seed
+{{17915077-0-899:}}Living Vines
+{{17915077-0-900:}}Lotus Flower
+{{17915077-0-901:}}Nature's Grasp
+{{17915077-0-902:}}Secluded Grove
+{{26811173-0-445:}}Healing Seed
+{{26811173-0-523:}}Frozen Gate
+{{38727365-0-211:}}Permafrost
+{{68561141-0-306:}}Frozen Retreat
+{{70307621-0-3332:}}Dive
+{{96962005-0-127:}}Animal Companions
+{{96962005-0-128:}}Green Balance
+{{96962005-0-129:}}Winter's Embrace
+{{108643301-0-127:}}Animal Companions
+{{108643301-0-128:}}Green Balance
+{{108643301-0-129:}}Winter's Embrace
+{{154419989-0-65:}}Feral Guardian
+{{154419989-0-91:}}Feral Guardian
+{{154419989-0-114:}}Dive
+{{154419989-1-65:}}Eternal Guardian
+{{154419989-1-91:}}Eternal Guardian
+{{154419989-1-114:}}Cutting Dive
+{{154419989-2-65:}}Wild Guardian
+{{154419989-2-91:}}Wild Guardian
+{{154419989-2-114:}}Screaming Cliff Racer
+{{198758357-0-5441:}}Dive
+{{198758357-0-50556:}}Permafrost
+{{198758357-0-56575:}}Nature's Grasp
+{{198758357-0-65584:}}Scorch
+{{198758357-0-65587:}}Scorch
+{{198758357-0-65589:}}Scorch
+{{198758357-0-65591:}}Scorch
+{{198758357-0-65593:}}Scorch
+{{198758357-0-65595:}}Scorch
+{{198758357-0-71101:}}Permafrost
+{{198758357-0-73172:}}Swarm
+{{198758357-0-73173:}}Swarm
+{{198758357-0-73174:}}Swarm
+{{198758357-0-73175:}}Swarm
+{{198758357-0-73176:}}Swarm
+{{198758357-0-73193:}}Swarm
+{{198758357-0-74837:}}Dive
+{{198758357-0-78339:}}Swarm
+{{198758357-0-78350:}}Swarm
+{{198758357-0-78351:}}Swarm
+{{198758357-0-78352:}}Swarm
+{{198758357-0-78353:}}Swarm
+{{198758357-0-78354:}}Swarm
+{{198758357-0-84359:}}Dive
+{{198758357-0-85395:}}Dive
+{{198758357-0-85398:}}Dive
+{{198758357-0-85532:}}Secluded Grove
+{{198758357-0-85533:}}Secluded Grove
+{{198758357-0-85534:}}Secluded Grove
+{{198758357-0-85536:}}Fungal Growth
+{{198758357-0-85539:}}Lotus Flower
+{{198758357-0-85550:}}Lotus Flower
+{{198758357-0-85552:}}Living Vines
+{{198758357-0-85559:}}Living Vines
+{{198758357-0-85564:}}Nature's Grasp
+{{198758357-0-85578:}}Healing Seed
+{{198758357-0-85582:}}Healing Seed
+{{198758357-0-85585:}}Healing Seed
+{{198758357-0-85804:}}Enchanted Forest
+{{198758357-0-85807:}}Healing Thicket
+{{198758357-0-85840:}}Budding Seeds
+{{198758357-0-85841:}}Budding Seeds
+{{198758357-0-85842:}}Budding Seeds
+{{198758357-0-85845:}}Corrupting Pollen
+{{198758357-0-85846:}}Corrupting Pollen
+{{198758357-0-85847:}}Corrupting Pollen
+{{198758357-0-85850:}}Leeching Vines
+{{198758357-0-85851:}}Living Trellis
+{{198758357-0-85854:}}Green Lotus
+{{198758357-0-85855:}}Lotus Blossom
+{{198758357-0-85858:}}Nature's Embrace
+{{198758357-0-85859:}}Bursting Vines
+{{198758357-0-85860:}}Bursting Vines
+{{198758357-0-85862:}}Enchanted Growth
+{{198758357-0-85863:}}Soothing Spores
+{{198758357-0-85876:}}Emerald Moss
+{{198758357-0-85877:}}Emerald Moss
+{{198758357-0-85878:}}Nature's Gift
+{{198758357-0-85879:}}Nature's Gift
+{{198758357-0-85880:}}Maturation
+{{198758357-0-85881:}}Maturation
+{{198758357-0-85882:}}Accelerated Growth
+{{198758357-0-85883:}}Accelerated Growth
+{{198758357-0-85922:}}Budding Seeds
+{{198758357-0-85982:}}Feral Guardian
+{{198758357-0-85986:}}Eternal Guardian
+{{198758357-0-85990:}}Wild Guardian
+{{198758357-0-85995:}}Dive
+{{198758357-0-85999:}}Cutting Dive
+{{198758357-0-86003:}}Screaming Cliff Racer
+{{198758357-0-86009:}}Scorch
+{{198758357-0-86015:}}Deep Fissure
+{{198758357-0-86019:}}Subterranean Assault
+{{198758357-0-86023:}}Swarm
+{{198758357-0-86027:}}Fetcher Infection
+{{198758357-0-86031:}}Growing Swarm
+{{198758357-0-86037:}}Falcon's Swiftness
+{{198758357-0-86041:}}Deceptive Predator
+{{198758357-0-86045:}}Bird of Prey
+{{198758357-0-86050:}}Betty Netch
+{{198758357-0-86054:}}Blue Betty
+{{198758357-0-86058:}}Bull Netch
+{{198758357-0-86062:}}Savage Beast
+{{198758357-0-86063:}}Savage Beast
+{{198758357-0-86064:}}Bond with Nature
+{{198758357-0-86065:}}Bond with Nature
+{{198758357-0-86066:}}Flourish
+{{198758357-0-86067:}}Flourish
+{{198758357-0-86068:}}Advanced Species
+{{198758357-0-86069:}}Advanced Species
+{{198758357-0-86074:}}Feral Guardian
+{{198758357-0-86103:}}Bull Netch
+{{198758357-0-86106:}}Betty Netch
+{{198758357-0-86109:}}Sleet Storm
+{{198758357-0-86113:}}Northern Storm
+{{198758357-0-86117:}}Permafrost
+{{198758357-0-86122:}}Frost Cloak
+{{198758357-0-86126:}}Expansive Frost Cloak
+{{198758357-0-86130:}}Ice Fortress
+{{198758357-0-86135:}}Crystallized Shield
+{{198758357-0-86139:}}Crystallized Slab
+{{198758357-0-86143:}}Shimmering Shield
+{{198758357-0-86148:}}Arctic Wind
+{{198758357-0-86152:}}Polar Wind
+{{198758357-0-86156:}}Arctic Blast
+{{198758357-0-86161:}}Impaling Shards
+{{198758357-0-86165:}}Gripping Shards
+{{198758357-0-86169:}}Winter's Revenge
+{{198758357-0-86175:}}Frozen Gate
+{{198758357-0-86179:}}Frozen Device
+{{198758357-0-86183:}}Frozen Retreat
+{{198758357-0-86189:}}Frozen Armor
+{{198758357-0-86190:}}Frozen Armor
+{{198758357-0-86191:}}Glacial Presence
+{{198758357-0-86192:}}Glacial Presence
+{{198758357-0-86193:}}Icy Aura
+{{198758357-0-86194:}}Icy Aura
+{{198758357-0-86195:}}Piercing Cold
+{{198758357-0-86196:}}Piercing Cold
+{{198758357-0-86238:}}Impaling Shards
+{{198758357-0-86247:}}Sleet Storm
+{{198758357-0-86250:}}Sleet Storm
+{{198758357-0-86256:}}Frozen Gate
+{{198758357-0-86258:}}Frozen Gate
+{{198758357-0-86264:}}Frozen Gate
+{{198758357-0-86356:}}Nature's Grasp
+{{198758357-0-86357:}}Enchanted Forest
+{{198758357-0-87058:}}Green Lotus
+{{198758357-0-87074:}}Nature's Embrace
+{{198758357-0-87224:}}Crystallized Shield
+{{198758357-0-87225:}}Crystallized Shield
+{{198758357-0-87226:}}Crystallized Shield
+{{198758357-0-87227:}}Crystallized Shield
+{{198758357-0-87443:}}Gripping Shards
+{{198758357-0-87448:}}Gripping Shards
+{{198758357-0-87560:}}Frozen Gate
+{{198758357-0-87597:}}Frozen Gate
+{{198758357-0-87663:}}Screaming Cliff Racer
+{{198758357-0-87687:}}Fetcher Infection
+{{198758357-0-87875:}}Betty Netch
+{{198758357-0-87933:}}Blue Betty
+{{198758357-0-87938:}}Soothing Spores
+{{198758357-0-88371:}}Dive
+{{198758357-0-88393:}}Dive
+{{198758357-0-88478:}}Swarm
+{{198758357-0-88512:}}Savage Beast
+{{198758357-0-88513:}}Savage Beast
+{{198758357-0-88657:}}Feral Guardian
+{{198758357-0-88712:}}Leeching Vines
+{{198758357-0-88721:}}Living Trellis
+{{198758357-0-88723:}}Living Trellis
+{{198758357-0-88726:}}Nature's Embrace
+{{198758357-0-88729:}}Nature's Embrace
+{{198758357-0-88739:}}Bursting Vines
+{{198758357-0-88747:}}Enchanted Forest
+{{198758357-0-88748:}}Enchanted Forest
+{{198758357-0-88750:}}Healing Thicket
+{{198758357-0-88767:}}Crystallized Slab
+{{198758357-0-88768:}}Crystallized Slab
+{{198758357-0-88769:}}Crystallized Slab
+{{198758357-0-88771:}}Shimmering Shield
+{{198758357-0-88773:}}Shimmering Shield
+{{198758357-0-88774:}}Shimmering Shield
+{{198758357-0-88776:}}Polar Wind
+{{198758357-0-88783:}}Impaling Shards
+{{198758357-0-88791:}}Gripping Shards
+{{198758357-0-88801:}}Winter's Revenge
+{{198758357-0-88802:}}Winter's Revenge
+{{198758357-0-88858:}}Northern Storm
+{{198758357-0-88860:}}Northern Storm
+{{198758357-0-88861:}}Permafrost
+{{198758357-0-88863:}}Permafrost
+{{198758357-0-88988:}}Bond with Nature
+{{198758357-0-88994:}}Winter's Revenge
+{{198758357-0-89106:}}Blue Betty
+{{198758357-0-89109:}}Bull Netch
+{{198758357-0-89166:}}Eternal Guardian
+{{198758357-0-89207:}}Wild Guardian
+{{198758357-0-89812:}}Frozen Gate
+{{198758357-0-90266:}}Nature's Grasp
+{{198758357-0-90319:}}Dive
+{{198758357-0-90320:}}Dive
+{{198758357-0-90833:}}Arctic Wind
+{{198758357-0-90834:}}Arctic Blast
+{{198758357-0-90835:}}Polar Wind
+{{198758357-0-91224:}}Gripping Shards
+{{198758357-0-91225:}}Gripping Shards
+{{198758357-0-91227:}}Gripping Shards
+{{198758357-0-91228:}}Gripping Shards
+{{198758357-0-91229:}}Nature's Embrace
+{{198758357-0-91242:}}Nature's Embrace
+{{198758357-0-91245:}}Deep Fissure
+{{198758357-0-91246:}}Deep Fissure
+{{198758357-0-91248:}}Deep Fissure
+{{198758357-0-91250:}}Deep Fissure
+{{198758357-0-91416:}}Fetcher Infection
+{{198758357-0-91501:}}Fetcher Infection
+{{198758357-0-91819:}}Healing Thicket
+{{198758357-0-91890:}}Flourish
+{{198758357-0-91944:}}Flourish
+{{198758357-0-92030:}}Frozen Device
+{{198758357-0-92031:}}Frozen Device
+{{198758357-0-92032:}}Frozen Device
+{{198758357-0-92034:}}Frozen Device
+{{198758357-0-92038:}}Frozen Device
+{{198758357-0-92039:}}Frozen Device
+{{198758357-0-92051:}}Frozen Retreat
+{{198758357-0-92052:}}Frozen Retreat
+{{198758357-0-92053:}}Frozen Retreat
+{{198758357-0-92055:}}Frozen Retreat
+{{198758357-0-92058:}}Frozen Retreat
+{{198758357-0-92060:}}Frozen Retreat
+{{198758357-0-92061:}}Frozen Retreat
+{{198758357-0-92062:}}Frozen Retreat
+{{198758357-0-92069:}}Crystallized Shield
+{{198758357-0-92085:}}Dive
+{{198758357-0-92129:}}Dive
+{{198758357-0-92169:}}Crystallized Slab
+{{198758357-0-92171:}}Shimmering Shield
+{{198758357-0-92214:}}Budding Seeds
+{{198758357-0-92215:}}Budding Seeds
+{{198758357-0-93054:}}Nature's Gift
+{{198758357-0-93073:}}Nature's Gift
+{{198758357-0-93091:}}Swarm
+{{198758357-0-93175:}}Crystallized Slab
+{{198758357-0-93418:}}Scorch
+{{198758357-0-93422:}}Scorch
+{{198758357-0-93425:}}Scorch
+{{198758357-0-93536:}}Budding Seeds
+{{198758357-0-94409:}}Scorch
+{{198758357-0-94410:}}Scorch
+{{198758357-0-94411:}}Scorch
+{{198758357-0-94412:}}Scorch
+{{198758357-0-94421:}}Deep Fissure
+{{198758357-0-94422:}}Deep Fissure
+{{198758357-0-94423:}}Deep Fissure
+{{198758357-0-94424:}}Deep Fissure
+{{198758357-0-94440:}}Subterranean Assault
+{{198758357-0-94441:}}Subterranean Assault
+{{198758357-0-94442:}}Subterranean Assault
+{{198758357-0-94445:}}Subterranean Assault
+{{198758357-0-94558:}}Lotus Flower
+{{198758357-0-94559:}}Lotus Flower
+{{198758357-0-94571:}}Green Lotus
+{{198758357-0-94572:}}Green Lotus
+{{198758357-0-96497:}}Budding Seeds
+{{198758357-0-96807:}}Impaling Shards
+{{198758357-0-96808:}}Impaling Shards
+{{198758357-0-96809:}}Impaling Shards
+{{198758357-0-96810:}}Impaling Shards
+{{198758357-0-96811:}}Impaling Shards
+{{198758357-0-96812:}}Impaling Shards
+{{198758357-0-96813:}}Impaling Shards
+{{198758357-0-96817:}}Impaling Shards
+{{198758357-0-96819:}}Impaling Shards
+{{198758357-0-96821:}}Impaling Shards
+{{198758357-0-96838:}}Impaling Shards
+{{198758357-0-96839:}}Impaling Shards
+{{198758357-0-96840:}}Impaling Shards
+{{198758357-0-96841:}}Impaling Shards
+{{198758357-0-96842:}}Impaling Shards
+{{198758357-0-96843:}}Impaling Shards
+{{198758357-0-96844:}}Impaling Shards
+{{198758357-0-96845:}}Impaling Shards
+{{198758357-0-96846:}}Impaling Shards
+{{198758357-0-96847:}}Impaling Shards
+{{198758357-0-99065:}}Impaling Shards
+{{198758357-0-99066:}}Impaling Shards
+{{198758357-0-99067:}}Impaling Shards
+{{198758357-0-99068:}}Impaling Shards
+{{198758357-0-100519:}}Frozen Gate
+{{198758357-0-100522:}}Frozen Device
+{{198758357-0-100526:}}Frozen Retreat
+{{198758357-0-101703:}}Swarm
+{{198758357-0-101904:}}Fetcher Infection
+{{198758357-0-101944:}}Growing Swarm
+{{198758357-0-104829:}}Impaling Shards
+{{198758357-0-104830:}}Impaling Shards
+{{198758357-0-104831:}}Impaling Shards
+{{198758357-0-104832:}}Impaling Shards
+{{198758357-0-104833:}}Impaling Shards
+{{198758357-0-104834:}}Impaling Shards
+{{198758357-0-104835:}}Impaling Shards
+{{198758357-0-104837:}}Impaling Shards
+{{198758357-0-104838:}}Impaling Shards
+{{198758357-0-104839:}}Impaling Shards
+{{198758357-0-104840:}}Impaling Shards
+{{198758357-0-104841:}}Impaling Shards
+{{198758357-0-104842:}}Impaling Shards
+{{198758357-0-104843:}}Impaling Shards
+{{198758357-0-104844:}}Impaling Shards
+{{198758357-0-104845:}}Impaling Shards
+{{198758357-0-104847:}}Impaling Shards
+{{198758357-0-104848:}}Impaling Shards
+{{198758357-0-104849:}}Impaling Shards
+{{198758357-0-104850:}}Impaling Shards
+{{198758357-0-104851:}}Impaling Shards
+{{198758357-0-104852:}}Impaling Shards
+{{198758357-0-104853:}}Impaling Shards
+{{198758357-0-104854:}}Impaling Shards
+{{198758357-0-104856:}}Impaling Shards
+{{198758357-0-108948:}}Frozen Gate
+{{198758357-0-108949:}}Frozen Device
+{{198758357-0-108950:}}Frozen Retreat
+{{198758357-0-109982:}}Eternal Guardian
+{{198758357-0-109983:}}Eternal Guardian
+{{198758357-0-109990:}}Eternal Guardian
+{{198758357-0-110002:}}Eternal Guardian
+{{198758357-0-110006:}}Eternal Guardian
+{{198758357-0-110384:}}Eternal Guardian
+{{198758357-0-110401:}}Eternal Guardian
+{{198758357-0-114853:}}Bull Netch
+{{198758357-0-114854:}}Blue Betty
+{{198758357-0-129434:}}Budding Seeds
+{{198758357-0-130140:}}Cutting Dive
+{{198758357-0-130170:}}Growing Swarm
+{{198758357-0-130406:}}Arctic Blast
+{{198758357-0-130409:}}Arctic Blast
+{{198758357-0-131306:}}Feral Guardian
+{{198758357-0-131307:}}Eternal Guardian
+{{198758357-0-131308:}}Wild Guardian
+{{198758357-0-131345:}}Betty Netch
+{{198758357-0-131351:}}Bull Netch
+{{198758357-0-131441:}}Cutting Dive
+{{198758357-0-132429:}}Northern Storm
+{{198758357-0-134679:}}Glacial Presence
+{{198758357-0-134680:}}Glacial Presence
+{{198758357-0-134978:}}Scorch
+{{198758357-0-146919:}}Subterranean Assault
+{{198758357-0-146920:}}Subterranean Assault
+{{198758357-0-149686:}}Swarm
+{{198758357-0-150314:}}Scorch
+{{198758357-0-159574:}}Bond with Nature
+{{198758357-0-168105:}}Growing Swarm
+{{198758357-0-169203:}}Nature's Embrace
+{{198758357-0-175672:}}Crystallized Slab
+{{198758357-0-175974:}}Fungal Growth
+{{198758357-0-175975:}}Fungal Growth
+{{198758357-0-176422:}}Polar Wind
+{{198758357-0-176426:}}Arctic Wind
+{{198758357-0-176826:}}Fungal Growth
+{{198758357-0-176827:}}Fungal Growth
+{{198758357-0-176828:}}Fungal Growth
+{{198758357-0-176903:}}Fungal Growth
+{{198758357-0-176904:}}Fungal Growth
+{{198758357-0-176907:}}Fungal Growth
+{{198758357-0-176908:}}Fungal Growth
+{{198758357-0-176909:}}Fungal Growth
+{{198758357-0-177288:}}Falcon's Swiftness
+{{198758357-0-177289:}}Deceptive Predator
+{{198758357-0-177290:}}Bird of Prey
+{{198758357-0-178016:}}Subterranean Assault
+{{198758357-0-178020:}}Scorch
+{{198758357-0-178022:}}Scorch
+{{198758357-0-178028:}}Deep Fissure
+{{198758357-0-178029:}}Deep Fissure
+{{198758357-0-178330:}}Screaming Cliff Racer
+{{198758357-0-179531:}}Healing Seed
+{{198758357-0-181330:}}Scorch
+{{198758357-0-181331:}}Deep Fissure
+{{198758357-0-182107:}}Winter's Revenge
+{{198758357-0-182701:}}Dive
+{{198758357-0-182703:}}Dive
+{{198758357-0-184276:}}Arctic Blast
+{{198758357-0-186487:}}Betty Netch
+{{198758357-0-186600:}}Living Vines
+{{198758357-0-187512:}}Living Vines
+{{198758357-0-187758:}}Crystallized Shield
+{{198758357-0-187759:}}Crystallized Shield
+{{198758357-0-187869:}}Betty Netch
+{{198758357-0-196867:}}Dive
+{{198758357-0-196868:}}Dive
+{{198758357-0-198845:}}Arctic Blast
+{{198758357-0-201503:}}Scorch
+{{198758357-0-202666:}}Scorch
+{{198758357-0-203104:}}Dive
+{{198758357-0-203105:}}Dive
+{{198758357-0-203106:}}Dive
+{{198758357-0-203107:}}Dive
+{{198758357-0-203108:}}Dive
+{{198758357-0-203109:}}Dive
+{{198758357-0-203152:}}Scorch
+{{198758357-0-205242:}}Dive
+{{198758357-0-208392:}}Feral Guardian
+{{198758357-0-208393:}}Feral Guardian
+{{198758357-0-208394:}}Feral Guardian
+{{198758357-0-208395:}}Feral Guardian
+{{198758357-0-208396:}}Feral Guardian
+{{198758357-0-208397:}}Feral Guardian
+{{198758357-0-208398:}}Feral Guardian
+{{198758357-0-208399:}}Feral Guardian
+{{198758357-0-208412:}}Dive
+{{198758357-0-208413:}}Dive
+{{198758357-0-210143:}}Scorch
+{{198758357-0-210160:}}Green Balance
+{{198758357-0-214715:}}Scorch
+{{198758357-0-214728:}}Scorch
+{{198758357-0-214736:}}Scorch
+{{198758357-0-214747:}}Scorch
+{{198758357-0-215266:}}Swarm
+{{198758357-0-215278:}}Dive
+{{198758357-0-215283:}}Dive
+{{198758357-0-216849:}}Impaling Shards
+{{198758357-0-218884:}}Scorch
+{{198758357-0-218893:}}Scorch
+{{198758357-0-223538:}}Betty Netch
+{{198758357-0-223540:}}Blue Betty
+{{198758357-0-223541:}}Bull Netch
+{{198758357-0-226810:}}Arctic Blast
+{{198758357-0-228521:}}Piercing Cold
+{{198758357-0-228522:}}Piercing Cold
+{{198758357-0-228523:}}Piercing Cold
+{{198758357-0-228524:}}Piercing Cold
+{{198758357-0-228525:}}Piercing Cold
+{{198758357-0-228526:}}Piercing Cold
+{{198758357-0-228852:}}Impaling Shards
+{{198758357-0-234639:}}Scorch
+{{198758357-0-234640:}}Scorch
+{{198758357-0-236704:}}Scorch
+{{222921557-0-91:}}Feral Guardian
+{{222921557-0-114:}}Dive
+{{242841733-0-138771:}}Permafrost
+{{244845717-0-91:}}Eternal Guardian
+{{244845717-0-114:}}Cutting Dive
+{{244874389-0-91:}}Wild Guardian
+{{244874389-0-114:}}Screaming Cliff Racer

@@ -1,0 +1,987 @@
+{{17915077-0-7:}}Dragon Leap
+{{17915077-0-20:}}Magma Armor
+{{17915077-0-26:}}Fiery Grip
+{{17915077-0-28:}}Lava Whip
+{{17915077-0-29:}}Spiked Armor
+{{17915077-0-30:}}Searing Strike
+{{17915077-0-71:}}Dark Talons
+{{17915077-0-72:}}Molten Weapons
+{{17915077-0-73:}}Stonefist
+{{17915077-0-74:}}Ash Cloud
+{{17915077-0-75:}}Petrify
+{{17915077-0-77:}}Dragon Blood
+{{17915077-0-78:}}Obsidian Shield
+{{17915077-0-79:}}Inhale
+{{17915077-0-80:}}Protective Scale
+{{17915077-0-81:}}Dragonknight Standard
+{{17915077-0-83:}}Fiery Breath
+{{17915077-0-84:}}Inferno
+{{17915077-0-813:}}Lava Whip
+{{17915077-0-814:}}Searing Strike
+{{17915077-0-815:}}Fiery Breath
+{{17915077-0-816:}}Fiery Grip
+{{17915077-0-817:}}Inferno
+{{17915077-0-818:}}Dragonknight Standard
+{{17915077-0-819:}}Spiked Armor
+{{17915077-0-820:}}Dark Talons
+{{17915077-0-821:}}Dragon Blood
+{{17915077-0-822:}}Protective Scale
+{{17915077-0-823:}}Inhale
+{{17915077-0-824:}}Dragon Leap
+{{17915077-0-825:}}Stonefist
+{{17915077-0-826:}}Molten Weapons
+{{17915077-0-827:}}Obsidian Shield
+{{17915077-0-828:}}Petrify
+{{17915077-0-829:}}Ash Cloud
+{{17915077-0-830:}}Magma Armor
+{{26811173-0-843:}}Inferno
+{{68561141-0-237:}}Combustion
+{{74865733-0-24753:}}Inhale
+{{87370069-0-31214:}}Obsidian Shard
+{{87370069-0-31374:}}Obsidian Shard
+{{87370069-0-31375:}}Obsidian Shard
+{{87370069-0-31596:}}Obsidian Shard
+{{96962005-0-35:}}Ardent Flame
+{{96962005-0-36:}}Draconic Power
+{{96962005-0-37:}}Earthen Heart
+{{108643301-0-35:}}Ardent Flame
+{{108643301-0-36:}}Draconic Power
+{{108643301-0-37:}}Earthen Heart
+{{154419989-0-115:}}Dragon Leap
+{{154419989-1-115:}}Take Flight
+{{154419989-2-115:}}Ferocious Leap
+{{198758357-0-3463:}}Combustion
+{{198758357-0-4771:}}Fiery Breath
+{{198758357-0-4772:}}Fiery Breath
+{{198758357-0-10947:}}Fiery Breath
+{{198758357-0-15957:}}Magma Armor
+{{198758357-0-15959:}}Magma Armor
+{{198758357-0-15960:}}Magma Armor
+{{198758357-0-15998:}}Green Dragon Blood
+{{198758357-0-16001:}}Green Dragon Blood
+{{198758357-0-17874:}}Magma Shell
+{{198758357-0-17875:}}Magma Shell
+{{198758357-0-17876:}}Magma Shell
+{{198758357-0-17878:}}Corrosive Armor
+{{198758357-0-17879:}}Corrosive Armor
+{{198758357-0-17880:}}Corrosive Armor
+{{198758357-0-17881:}}Corrosive Armor
+{{198758357-0-20245:}}Dark Talons
+{{198758357-0-20251:}}Choking Talons
+{{198758357-0-20252:}}Burning Talons
+{{198758357-0-20253:}}Burning Talons
+{{198758357-0-20319:}}Spiked Armor
+{{198758357-0-20320:}}Spiked Armor
+{{198758357-0-20323:}}Volatile Armor
+{{198758357-0-20324:}}Volatile Armor
+{{198758357-0-20326:}}Volatile Armor
+{{198758357-0-20328:}}Hardened Armor
+{{198758357-0-20329:}}Hardened Armor
+{{198758357-0-20492:}}Fiery Grip
+{{198758357-0-20493:}}Fiery Grip
+{{198758357-0-20494:}}Fiery Grip
+{{198758357-0-20496:}}Unrelenting Grip
+{{198758357-0-20499:}}Chains of Devastation
+{{198758357-0-20527:}}Dark Talons
+{{198758357-0-20528:}}Choking Talons
+{{198758357-0-20657:}}Searing Strike
+{{198758357-0-20660:}}Burning Embers
+{{198758357-0-20668:}}Venomous Claw
+{{198758357-0-20779:}}Cinder Storm
+{{198758357-0-20780:}}Cinder Storm
+{{198758357-0-20789:}}Eruption
+{{198758357-0-20805:}}Molten Whip
+{{198758357-0-20816:}}Flame Lash
+{{198758357-0-20917:}}Fiery Breath
+{{198758357-0-20930:}}Engulfing Flames
+{{198758357-0-20944:}}Noxious Breath
+{{198758357-0-21007:}}Protective Scale
+{{198758357-0-21014:}}Protective Plate
+{{198758357-0-21017:}}Dragon Fire Scale
+{{198758357-0-23806:}}Lava Whip
+{{198758357-0-25954:}}Inferno
+{{198758357-0-25955:}}Inferno
+{{198758357-0-26319:}}Combustion
+{{198758357-0-28786:}}Inferno
+{{198758357-0-28915:}}Inferno
+{{198758357-0-28967:}}Inferno
+{{198758357-0-28969:}}Inferno
+{{198758357-0-28988:}}Dragonknight Standard
+{{198758357-0-28995:}}Dragonknight Standard
+{{198758357-0-29004:}}Dragon Blood
+{{198758357-0-29010:}}Dragon Blood
+{{198758357-0-29012:}}Dragon Leap
+{{198758357-0-29014:}}Dragon Leap
+{{198758357-0-29016:}}Dragon Leap
+{{198758357-0-29032:}}Stonefist
+{{198758357-0-29037:}}Petrify
+{{198758357-0-29043:}}Molten Weapons
+{{198758357-0-29059:}}Ash Cloud
+{{198758357-0-29071:}}Obsidian Shield
+{{198758357-0-29126:}}Ash Cloud
+{{198758357-0-29224:}}Igneous Shield
+{{198758357-0-29225:}}Igneous Shield
+{{198758357-0-29424:}}Combustion
+{{198758357-0-29430:}}Warmth
+{{198758357-0-29439:}}Searing Heat
+{{198758357-0-29442:}}Spiked Armor
+{{198758357-0-29445:}}Magma Armor
+{{198758357-0-29449:}}Lava Whip
+{{198758357-0-29451:}}World in Ruin
+{{198758357-0-29455:}}Iron Skin
+{{198758357-0-29457:}}Burning Heart
+{{198758357-0-29460:}}Elder Dragon
+{{198758357-0-29462:}}Scaled Armor
+{{198758357-0-29463:}}Battle Roar
+{{198758357-0-29465:}}Battle Roar
+{{198758357-0-29466:}}Battle Roar
+{{198758357-0-29467:}}Battle Roar
+{{198758357-0-29468:}}Eternal Mountain
+{{198758357-0-29473:}}Mountain's Blessing
+{{198758357-0-29474:}}Mountain's Blessing
+{{198758357-0-29475:}}Helping Hands
+{{198758357-0-29476:}}Helping Hands
+{{198758357-0-29597:}}Combustion
+{{198758357-0-29994:}}Inferno
+{{198758357-0-31102:}}Fiery Breath
+{{198758357-0-31103:}}Noxious Breath
+{{198758357-0-31104:}}Engulfing Flames
+{{198758357-0-31808:}}Hardened Armor
+{{198758357-0-31810:}}Venomous Claw
+{{198758357-0-31815:}}Burning Embers
+{{198758357-0-31816:}}Stone Giant
+{{198758357-0-31820:}}Obsidian Shard
+{{198758357-0-31837:}}Inhale
+{{198758357-0-31841:}}Inhale
+{{198758357-0-31842:}}Inhale
+{{198758357-0-31874:}}Igneous Weapons
+{{198758357-0-31888:}}Molten Armaments
+{{198758357-0-31898:}}Burning Talons
+{{198758357-0-32447:}}Dragon Blood
+{{198758357-0-32673:}}Fragmented Shield
+{{198758357-0-32678:}}Shattering Rocks
+{{198758357-0-32684:}}Shattering Rocks
+{{198758357-0-32685:}}Fossilize
+{{198758357-0-32710:}}Eruption
+{{198758357-0-32711:}}Eruption
+{{198758357-0-32712:}}Eruption
+{{198758357-0-32714:}}Eruption
+{{198758357-0-32715:}}Ferocious Leap
+{{198758357-0-32716:}}Ferocious Leap
+{{198758357-0-32717:}}Ferocious Leap
+{{198758357-0-32719:}}Take Flight
+{{198758357-0-32720:}}Take Flight
+{{198758357-0-32721:}}Take Flight
+{{198758357-0-32722:}}Coagulating Blood
+{{198758357-0-32723:}}Coagulating Blood
+{{198758357-0-32744:}}Green Dragon Blood
+{{198758357-0-32745:}}Green Dragon Blood
+{{198758357-0-32753:}}Dragon Fire Scale
+{{198758357-0-32785:}}Draw Essence
+{{198758357-0-32786:}}Draw Essence
+{{198758357-0-32787:}}Draw Essence
+{{198758357-0-32788:}}Draw Essence
+{{198758357-0-32789:}}Draw Essence
+{{198758357-0-32792:}}Deep Breath
+{{198758357-0-32794:}}Deep Breath
+{{198758357-0-32795:}}Deep Breath
+{{198758357-0-32796:}}Deep Breath
+{{198758357-0-32797:}}Deep Breath
+{{198758357-0-32805:}}Deep Breath
+{{198758357-0-32821:}}Engulfing Flames
+{{198758357-0-32853:}}Flames of Oblivion
+{{198758357-0-32881:}}Cauterize
+{{198758357-0-32947:}}Standard of Might
+{{198758357-0-32948:}}Standard of Might
+{{198758357-0-32950:}}Standard of Might
+{{198758357-0-32956:}}Standard of Might
+{{198758357-0-32957:}}Standard of Might
+{{198758357-0-32958:}}Shifting Standard
+{{198758357-0-32960:}}Shifting Standard
+{{198758357-0-32962:}}Shifting Standard
+{{198758357-0-32963:}}Shifting Standard
+{{198758357-0-32964:}}Shifting Standard
+{{198758357-0-32966:}}Shifting Standard
+{{198758357-0-32967:}}Shifting Standard
+{{198758357-0-33142:}}Ash Cloud
+{{198758357-0-34238:}}Protective Scale
+{{198758357-0-34646:}}Lava Whip
+{{198758357-0-34647:}}Lava Whip
+{{198758357-0-34704:}}Dark Talons
+{{198758357-0-34706:}}Dark Talons
+{{198758357-0-34742:}}Fiery Breath
+{{198758357-0-34791:}}Cinder Storm
+{{198758357-0-34797:}}Fiery Breath
+{{198758357-0-34948:}}Burning Embers
+{{198758357-0-34949:}}Burning Embers
+{{198758357-0-34950:}}Burning Embers
+{{198758357-0-37151:}}Lava Whip
+{{198758357-0-38756:}}Combustion
+{{198758357-0-38757:}}Combustion
+{{198758357-0-39300:}}Combustion
+{{198758357-0-39301:}}Combustion
+{{198758357-0-42030:}}Combustion
+{{198758357-0-43237:}}Inferno
+{{198758357-0-43238:}}Inferno
+{{198758357-0-43239:}}Inferno
+{{198758357-0-44223:}}Inhale
+{{198758357-0-44224:}}Inhale
+{{198758357-0-44225:}}Inhale
+{{198758357-0-44226:}}Inhale
+{{198758357-0-44227:}}Dragonknight Standard
+{{198758357-0-44228:}}Dragonknight Standard
+{{198758357-0-44363:}}Searing Strike
+{{198758357-0-44369:}}Venomous Claw
+{{198758357-0-44373:}}Burning Embers
+{{198758357-0-44922:}}Iron Skin
+{{198758357-0-44933:}}Burning Heart
+{{198758357-0-44951:}}Elder Dragon
+{{198758357-0-44953:}}Scaled Armor
+{{198758357-0-44984:}}Battle Roar
+{{198758357-0-44986:}}Battle Roar
+{{198758357-0-44987:}}Battle Roar
+{{198758357-0-44988:}}Battle Roar
+{{198758357-0-44996:}}Eternal Mountain
+{{198758357-0-45001:}}Mountain's Blessing
+{{198758357-0-45005:}}Mountain's Blessing
+{{198758357-0-45009:}}Helping Hands
+{{198758357-0-45010:}}Helping Hands
+{{198758357-0-45011:}}Combustion
+{{198758357-0-45012:}}Warmth
+{{198758357-0-45023:}}Searing Heat
+{{198758357-0-45027:}}Searing Heat
+{{198758357-0-45029:}}World in Ruin
+{{198758357-0-47005:}}Dragon Blood
+{{198758357-0-48119:}}Fiery Grip
+{{198758357-0-48120:}}Fiery Grip
+{{198758357-0-48122:}}Fiery Grip
+{{198758357-0-48124:}}Fiery Grip
+{{198758357-0-50215:}}Combustion
+{{198758357-0-50216:}}Combustion
+{{198758357-0-50343:}}Combustion
+{{198758357-0-50344:}}Combustion
+{{198758357-0-50680:}}Combustion
+{{198758357-0-50681:}}Combustion
+{{198758357-0-50682:}}Combustion
+{{198758357-0-51261:}}Combustion
+{{198758357-0-51268:}}Combustion
+{{198758357-0-51272:}}Combustion
+{{198758357-0-51352:}}Petrify
+{{198758357-0-51353:}}Petrify
+{{198758357-0-51354:}}Petrify
+{{198758357-0-51365:}}Petrify
+{{198758357-0-51488:}}Combustion
+{{198758357-0-51489:}}Combustion
+{{198758357-0-52204:}}Inferno
+{{198758357-0-52205:}}Inferno
+{{198758357-0-52206:}}Inferno
+{{198758357-0-52436:}}Dragonknight Standard
+{{198758357-0-52437:}}Dragonknight Standard
+{{198758357-0-52438:}}Dragonknight Standard
+{{198758357-0-52439:}}Dragonknight Standard
+{{198758357-0-52782:}}Inferno
+{{198758357-0-52783:}}Inferno
+{{198758357-0-52784:}}Inferno
+{{198758357-0-52885:}}Engulfing Flames
+{{198758357-0-52886:}}Engulfing Flames
+{{198758357-0-52887:}}Engulfing Flames
+{{198758357-0-52891:}}Flames of Oblivion
+{{198758357-0-52892:}}Flames of Oblivion
+{{198758357-0-52897:}}Standard of Might
+{{198758357-0-52898:}}Standard of Might
+{{198758357-0-52899:}}Standard of Might
+{{198758357-0-52901:}}Standard of Might
+{{198758357-0-52902:}}Dragonknight Standard
+{{198758357-0-52903:}}Standard of Might
+{{198758357-0-53199:}}Fiery Grip
+{{198758357-0-53235:}}Inferno
+{{198758357-0-53977:}}Burning Embers
+{{198758357-0-53978:}}Burning Embers
+{{198758357-0-54053:}}Stone Giant
+{{198758357-0-54054:}}Stone Giant
+{{198758357-0-54055:}}Stone Giant
+{{198758357-0-54056:}}Molten Armaments
+{{198758357-0-54057:}}Molten Weapons
+{{198758357-0-54065:}}Igneous Shield
+{{198758357-0-54066:}}Obsidian Shield
+{{198758357-0-54067:}}Fossilize
+{{198758357-0-54068:}}Fossilize
+{{198758357-0-54069:}}Fossilize
+{{198758357-0-54070:}}Fossilize
+{{198758357-0-54071:}}Fossilize
+{{198758357-0-54072:}}Fossilize
+{{198758357-0-54073:}}Fossilize
+{{198758357-0-54074:}}Fossilize
+{{198758357-0-54075:}}Fossilize
+{{198758357-0-54076:}}Petrify
+{{198758357-0-54077:}}Cinder Storm
+{{198758357-0-54080:}}Cinder Storm
+{{198758357-0-54081:}}Cinder Storm
+{{198758357-0-54083:}}Corrosive Armor
+{{198758357-0-54084:}}Corrosive Armor
+{{198758357-0-54085:}}Corrosive Armor
+{{198758357-0-54086:}}Corrosive Armor
+{{198758357-0-54145:}}Fiery Grip
+{{198758357-0-54146:}}Fiery Grip
+{{198758357-0-54918:}}Petrify
+{{198758357-0-54931:}}Fossilize
+{{198758357-0-55320:}}Fiery Breath
+{{198758357-0-55321:}}Fiery Breath
+{{198758357-0-55326:}}Fiery Breath
+{{198758357-0-55327:}}Fiery Breath
+{{198758357-0-55333:}}Fiery Breath
+{{198758357-0-55334:}}Fiery Breath
+{{198758357-0-55335:}}Fiery Breath
+{{198758357-0-55336:}}Fiery Breath
+{{198758357-0-55337:}}Fiery Breath
+{{198758357-0-55338:}}Fiery Breath
+{{198758357-0-55363:}}Fiery Breath
+{{198758357-0-55364:}}Fiery Breath
+{{198758357-0-55411:}}Eruption
+{{198758357-0-56086:}}Fiery Breath
+{{198758357-0-56087:}}Fiery Breath
+{{198758357-0-56088:}}Fiery Breath
+{{198758357-0-56092:}}Fiery Breath
+{{198758357-0-56093:}}Fiery Breath
+{{198758357-0-56398:}}Fiery Breath
+{{198758357-0-56399:}}Fiery Breath
+{{198758357-0-56400:}}Fiery Breath
+{{198758357-0-56401:}}Fiery Breath
+{{198758357-0-56776:}}Inferno
+{{198758357-0-56778:}}Inferno
+{{198758357-0-56867:}}Inferno
+{{198758357-0-56876:}}Inferno
+{{198758357-0-56946:}}Dragon Fire Scale
+{{198758357-0-56947:}}Dragon Fire Scale
+{{198758357-0-57119:}}Burning Embers
+{{198758357-0-61078:}}Molten Armaments
+{{198758357-0-61080:}}Molten Weapons
+{{198758357-0-61083:}}Corrosive Armor
+{{198758357-0-61084:}}Corrosive Armor
+{{198758357-0-61085:}}Corrosive Armor
+{{198758357-0-61086:}}Corrosive Armor
+{{198758357-0-61087:}}Engulfing Flames
+{{198758357-0-61088:}}Engulfing Flames
+{{198758357-0-61089:}}Engulfing Flames
+{{198758357-0-61090:}}Standard of Might
+{{198758357-0-61091:}}Standard of Might
+{{198758357-0-61092:}}Standard of Might
+{{198758357-0-61093:}}Standard of Might
+{{198758357-0-61094:}}Standard of Might
+{{198758357-0-61095:}}Dragonknight Standard
+{{198758357-0-61106:}}Cinder Storm
+{{198758357-0-61107:}}Cinder Storm
+{{198758357-0-61111:}}Cinder Storm
+{{198758357-0-61116:}}Flames of Oblivion
+{{198758357-0-61117:}}Flames of Oblivion
+{{198758357-0-61772:}}Ash Cloud
+{{198758357-0-61785:}}Fossilize
+{{198758357-0-61814:}}Ferocious Leap
+{{198758357-0-61945:}}Flames of Oblivion
+{{198758357-0-62001:}}Unrelenting Grip
+{{198758357-0-62004:}}Unrelenting Grip
+{{198758357-0-62023:}}Chains of Devastation
+{{198758357-0-65355:}}Hardened Armor
+{{198758357-0-66146:}}Dragon Leap
+{{198758357-0-66172:}}Dragon Leap
+{{198758357-0-66173:}}Dragon Leap
+{{198758357-0-67400:}}Combustion
+{{198758357-0-67401:}}Combustion
+{{198758357-0-67402:}}Combustion
+{{198758357-0-68763:}}Obsidian Shard
+{{198758357-0-70052:}}Flame Lash
+{{198758357-0-70246:}}Dragonknight Standard
+{{198758357-0-70247:}}Dragonknight Standard
+{{198758357-0-70248:}}Dragonknight Standard
+{{198758357-0-70249:}}Dragonknight Standard
+{{198758357-0-70419:}}Dark Talons
+{{198758357-0-70420:}}Dark Talons
+{{198758357-0-70422:}}Fiery Breath
+{{198758357-0-70423:}}Fiery Breath
+{{198758357-0-70735:}}Shifting Standard
+{{198758357-0-71624:}}Combustion
+{{198758357-0-71625:}}Combustion
+{{198758357-0-71626:}}Combustion
+{{198758357-0-71849:}}Inferno
+{{198758357-0-71852:}}Inferno
+{{198758357-0-71854:}}Inferno
+{{198758357-0-71858:}}Standard of Might
+{{198758357-0-71859:}}Standard of Might
+{{198758357-0-71860:}}Standard of Might
+{{198758357-0-71861:}}Dragonknight Standard
+{{198758357-0-71862:}}Standard of Might
+{{198758357-0-71863:}}Standard of Might
+{{198758357-0-71864:}}Engulfing Flames
+{{198758357-0-71865:}}Engulfing Flames
+{{198758357-0-71866:}}Engulfing Flames
+{{198758357-0-71874:}}Flame Lash
+{{198758357-0-72265:}}Engulfing Flames
+{{198758357-0-72266:}}Engulfing Flames
+{{198758357-0-72267:}}Engulfing Flames
+{{198758357-0-72272:}}Fiery Grip
+{{198758357-0-72273:}}Fiery Grip
+{{198758357-0-72275:}}Flame Lash
+{{198758357-0-72280:}}Molten Armaments
+{{198758357-0-72284:}}Molten Armaments
+{{198758357-0-72691:}}Standard of Might
+{{198758357-0-73002:}}Combustion
+{{198758357-0-73003:}}Combustion
+{{198758357-0-73952:}}Engulfing Flames
+{{198758357-0-73953:}}Engulfing Flames
+{{198758357-0-74472:}}Dark Talons
+{{198758357-0-74480:}}Fiery Grip
+{{198758357-0-74483:}}Fiery Grip
+{{198758357-0-74484:}}Fiery Grip
+{{198758357-0-74485:}}Fiery Grip
+{{198758357-0-74762:}}Dragon Leap
+{{198758357-0-74827:}}Fiery Grip
+{{198758357-0-76323:}}Standard of Might
+{{198758357-0-76429:}}Cauterize
+{{198758357-0-76483:}}Magma Shell
+{{198758357-0-77105:}}Unrelenting Grip
+{{198758357-0-82318:}}Dragonknight Standard
+{{198758357-0-82319:}}Dragonknight Standard
+{{198758357-0-82320:}}Dragonknight Standard
+{{198758357-0-82321:}}Dragonknight Standard
+{{198758357-0-82781:}}Inferno
+{{198758357-0-82783:}}Inferno
+{{198758357-0-83396:}}Combustion
+{{198758357-0-83397:}}Combustion
+{{198758357-0-83398:}}Combustion
+{{198758357-0-85422:}}Volatile Armor
+{{198758357-0-85431:}}Combustion
+{{198758357-0-85432:}}Combustion
+{{198758357-0-85434:}}Combustion
+{{198758357-0-87445:}}Searing Heat
+{{198758357-0-87446:}}Searing Heat
+{{198758357-0-87447:}}Searing Heat
+{{198758357-0-87450:}}Searing Heat
+{{198758357-0-87451:}}Searing Heat
+{{198758357-0-87462:}}Searing Heat
+{{198758357-0-87466:}}Searing Heat
+{{198758357-0-87467:}}Searing Heat
+{{198758357-0-87468:}}Searing Heat
+{{198758357-0-87704:}}Searing Heat
+{{198758357-0-87705:}}Searing Heat
+{{198758357-0-87706:}}Searing Heat
+{{198758357-0-87707:}}Searing Heat
+{{198758357-0-87708:}}Searing Heat
+{{198758357-0-87709:}}Searing Heat
+{{198758357-0-87710:}}Searing Heat
+{{198758357-0-88247:}}Eruption
+{{198758357-0-89717:}}Searing Heat
+{{198758357-0-89718:}}Searing Heat
+{{198758357-0-89719:}}Searing Heat
+{{198758357-0-89723:}}Searing Heat
+{{198758357-0-89724:}}Searing Heat
+{{198758357-0-89725:}}Searing Heat
+{{198758357-0-89728:}}Searing Heat
+{{198758357-0-89729:}}Searing Heat
+{{198758357-0-89730:}}Searing Heat
+{{198758357-0-89961:}}Searing Heat
+{{198758357-0-90093:}}Searing Heat
+{{198758357-0-91165:}}Choking Talons
+{{198758357-0-91166:}}Choking Talons
+{{198758357-0-91167:}}Choking Talons
+{{198758357-0-91168:}}Noxious Breath
+{{198758357-0-91169:}}Fiery Breath
+{{198758357-0-91170:}}Lava Whip
+{{198758357-0-91171:}}Lava Whip
+{{198758357-0-91252:}}Stonefist
+{{198758357-0-93146:}}Lava Whip
+{{198758357-0-93147:}}Lava Whip
+{{198758357-0-93405:}}Fiery Breath
+{{198758357-0-93406:}}Fiery Breath
+{{198758357-0-93407:}}Dark Talons
+{{198758357-0-93408:}}Dark Talons
+{{198758357-0-93409:}}Dark Talons
+{{198758357-0-94756:}}Searing Heat
+{{198758357-0-95039:}}Combustion
+{{198758357-0-95040:}}Combustion
+{{198758357-0-96784:}}Lava Whip
+{{198758357-0-98618:}}Engulfing Flames
+{{198758357-0-98619:}}Engulfing Flames
+{{198758357-0-98620:}}Engulfing Flames
+{{198758357-0-99523:}}Dragonknight Standard
+{{198758357-0-99525:}}Dragonknight Standard
+{{198758357-0-99770:}}Dragon Leap
+{{198758357-0-99772:}}Dragon Leap
+{{198758357-0-99773:}}Dragon Leap
+{{198758357-0-99974:}}Eruption
+{{198758357-0-100938:}}Venomous Claw
+{{198758357-0-100940:}}Venomous Claw
+{{198758357-0-100982:}}Corrosive Armor
+{{198758357-0-100983:}}Corrosive Armor
+{{198758357-0-100984:}}Corrosive Armor
+{{198758357-0-100985:}}Corrosive Armor
+{{198758357-0-100986:}}Noxious Breath
+{{198758357-0-100987:}}Noxious Breath
+{{198758357-0-102644:}}Petrify
+{{198758357-0-104902:}}Standard of Might
+{{198758357-0-104904:}}Standard of Might
+{{198758357-0-104905:}}Standard of Might
+{{198758357-0-104906:}}Dragonknight Standard
+{{198758357-0-104907:}}Dragonknight Standard
+{{198758357-0-104908:}}Standard of Might
+{{198758357-0-104909:}}Standard of Might
+{{198758357-0-104910:}}Standard of Might
+{{198758357-0-105574:}}Lava Whip
+{{198758357-0-105762:}}Fiery Breath
+{{198758357-0-105763:}}Fiery Breath
+{{198758357-0-105764:}}Dark Talons
+{{198758357-0-105765:}}Dark Talons
+{{198758357-0-105766:}}Dark Talons
+{{198758357-0-106713:}}Lava Whip
+{{198758357-0-107641:}}Standard of Might
+{{198758357-0-107643:}}Standard of Might
+{{198758357-0-107644:}}Standard of Might
+{{198758357-0-107859:}}Standard of Might
+{{198758357-0-107907:}}Lava Whip
+{{198758357-0-108060:}}Eruption
+{{198758357-0-108798:}}Protective Plate
+{{198758357-0-108803:}}Combustion
+{{198758357-0-108804:}}Combustion
+{{198758357-0-108806:}}Combustion
+{{198758357-0-108809:}}Combustion
+{{198758357-0-108811:}}Shattering Rocks
+{{198758357-0-108815:}}Combustion
+{{198758357-0-108816:}}Combustion
+{{198758357-0-108817:}}Combustion
+{{198758357-0-108818:}}Combustion
+{{198758357-0-109314:}}Eruption
+{{198758357-0-109315:}}Eruption
+{{198758357-0-109316:}}Eruption
+{{198758357-0-109317:}}Eruption
+{{198758357-0-109681:}}Combustion
+{{198758357-0-110814:}}Lava Whip
+{{198758357-0-111161:}}Lava Whip
+{{198758357-0-111162:}}Lava Whip
+{{198758357-0-112302:}}Combustion
+{{198758357-0-112304:}}Combustion
+{{198758357-0-112324:}}Combustion
+{{198758357-0-112326:}}Combustion
+{{198758357-0-112327:}}Combustion
+{{198758357-0-112329:}}Combustion
+{{198758357-0-112333:}}Combustion
+{{198758357-0-112376:}}Eruption
+{{198758357-0-112470:}}Combustion
+{{198758357-0-112471:}}Combustion
+{{198758357-0-112472:}}Combustion
+{{198758357-0-112473:}}Combustion
+{{198758357-0-112516:}}Eruption
+{{198758357-0-113768:}}Inferno
+{{198758357-0-113773:}}Inferno
+{{198758357-0-113774:}}Inferno
+{{198758357-0-115656:}}Combustion
+{{198758357-0-118628:}}Combustion
+{{198758357-0-118631:}}Combustion
+{{198758357-0-118635:}}Combustion
+{{198758357-0-118636:}}Combustion
+{{198758357-0-118928:}}Dragon Leap
+{{198758357-0-118936:}}Take Flight
+{{198758357-0-118938:}}Ferocious Leap
+{{198758357-0-120011:}}Engulfing Flames
+{{198758357-0-120567:}}Stonefist
+{{198758357-0-120570:}}Stonefist
+{{198758357-0-120571:}}Stonefist
+{{198758357-0-120947:}}Combustion
+{{198758357-0-120948:}}Combustion
+{{198758357-0-122407:}}Dragon Fire Scale
+{{198758357-0-123068:}}Searing Strike
+{{198758357-0-123072:}}Venomous Claw
+{{198758357-0-123073:}}Burning Embers
+{{198758357-0-123593:}}Fiery Grip
+{{198758357-0-124102:}}Draconic Power
+{{198758357-0-125122:}}Fiery Grip
+{{198758357-0-125734:}}Draconic Power
+{{198758357-0-125735:}}Draconic Power
+{{198758357-0-125786:}}Draconic Power
+{{198758357-0-125788:}}Draconic Power
+{{198758357-0-125850:}}Fiery Grip
+{{198758357-0-126165:}}Draconic Power
+{{198758357-0-126200:}}Fiery Grip
+{{198758357-0-126319:}}Draconic Power
+{{198758357-0-126697:}}Fiery Breath
+{{198758357-0-126698:}}Fiery Breath
+{{198758357-0-126699:}}Dark Talons
+{{198758357-0-126700:}}Dark Talons
+{{198758357-0-126701:}}Dark Talons
+{{198758357-0-126703:}}Dark Talons
+{{198758357-0-126704:}}Dark Talons
+{{198758357-0-128430:}}Fiery Grip
+{{198758357-0-128870:}}Draconic Power
+{{198758357-0-128877:}}Draconic Power
+{{198758357-0-129131:}}Draconic Power
+{{198758357-0-129358:}}Fiery Grip
+{{198758357-0-129415:}}Fiery Grip
+{{198758357-0-129526:}}Fiery Grip
+{{198758357-0-129527:}}Fiery Grip
+{{198758357-0-129723:}}Draconic Power
+{{198758357-0-129909:}}Draconic Power
+{{198758357-0-129942:}}Fiery Grip
+{{198758357-0-130747:}}Fiery Grip
+{{198758357-0-131120:}}Fiery Breath
+{{198758357-0-131197:}}Draconic Power
+{{198758357-0-131198:}}Draconic Power
+{{198758357-0-131258:}}Draconic Power
+{{198758357-0-131265:}}Draconic Power
+{{198758357-0-131285:}}Draconic Power
+{{198758357-0-131286:}}Draconic Power
+{{198758357-0-131293:}}Draconic Power
+{{198758357-0-131294:}}Draconic Power
+{{198758357-0-131295:}}Draconic Power
+{{198758357-0-133027:}}Stone Giant
+{{198758357-0-133037:}}Stonefist
+{{198758357-0-133046:}}Stonefist
+{{198758357-0-133504:}}Combustion
+{{198758357-0-133680:}}Combustion
+{{198758357-0-133681:}}Combustion
+{{198758357-0-134007:}}Fiery Grip
+{{198758357-0-134009:}}Stonefist
+{{198758357-0-134310:}}Stonefist
+{{198758357-0-134318:}}Combustion
+{{198758357-0-134340:}}Stone Giant
+{{198758357-0-134354:}}Stone Giant
+{{198758357-0-134355:}}Stone Giant
+{{198758357-0-134615:}}Combustion
+{{198758357-0-134936:}}Combustion
+{{198758357-0-135813:}}Fiery Grip
+{{198758357-0-135814:}}Fiery Grip
+{{198758357-0-135815:}}Fiery Grip
+{{198758357-0-139248:}}Petrify
+{{198758357-0-139249:}}Petrify
+{{198758357-0-139250:}}Petrify
+{{198758357-0-139251:}}Petrify
+{{198758357-0-140339:}}Fiery Breath
+{{198758357-0-140340:}}Fiery Breath
+{{198758357-0-140346:}}Combustion
+{{198758357-0-140499:}}Fiery Grip
+{{198758357-0-140693:}}Fiery Grip
+{{198758357-0-140695:}}Fiery Grip
+{{198758357-0-140696:}}Fiery Grip
+{{198758357-0-142480:}}Eruption
+{{198758357-0-143307:}}Eruption
+{{198758357-0-143310:}}Eruption
+{{198758357-0-144811:}}Eruption
+{{198758357-0-147082:}}Inferno
+{{198758357-0-147083:}}Inferno
+{{198758357-0-147085:}}Inferno
+{{198758357-0-147086:}}Inferno
+{{198758357-0-147480:}}Inferno
+{{198758357-0-147481:}}Inferno
+{{198758357-0-147485:}}Inferno
+{{198758357-0-147723:}}Fiery Breath
+{{198758357-0-147724:}}Fiery Breath
+{{198758357-0-148181:}}Inferno
+{{198758357-0-148183:}}Inferno
+{{198758357-0-148184:}}Inferno
+{{198758357-0-148185:}}Inferno
+{{198758357-0-148186:}}Inferno
+{{198758357-0-149365:}}Eruption
+{{198758357-0-149698:}}Eruption
+{{198758357-0-149703:}}Eruption
+{{198758357-0-150307:}}Eruption
+{{198758357-0-150750:}}Burning Heart
+{{198758357-0-151262:}}Fiery Grip
+{{198758357-0-151263:}}Fiery Grip
+{{198758357-0-151264:}}Fiery Grip
+{{198758357-0-151266:}}Fiery Grip
+{{198758357-0-152196:}}Fiery Breath
+{{198758357-0-152239:}}Fiery Grip
+{{198758357-0-152240:}}Fiery Grip
+{{198758357-0-152241:}}Fiery Grip
+{{198758357-0-152907:}}Eruption
+{{198758357-0-153523:}}Inferno
+{{198758357-0-153578:}}Inferno
+{{198758357-0-153606:}}Eruption
+{{198758357-0-153630:}}Inferno
+{{198758357-0-155055:}}Inferno
+{{198758357-0-155056:}}Inferno
+{{198758357-0-155060:}}Inferno
+{{198758357-0-155063:}}Fiery Grip
+{{198758357-0-155064:}}Fiery Grip
+{{198758357-0-155065:}}Fiery Grip
+{{198758357-0-155066:}}Fiery Grip
+{{198758357-0-155102:}}Fiery Breath
+{{198758357-0-155103:}}Fiery Breath
+{{198758357-0-155311:}}Eruption
+{{198758357-0-160949:}}Warmth
+{{198758357-0-163392:}}Inferno
+{{198758357-0-163393:}}Inferno
+{{198758357-0-163394:}}Inferno
+{{198758357-0-165849:}}Inferno
+{{198758357-0-165850:}}Inferno
+{{198758357-0-165851:}}Inferno
+{{198758357-0-165852:}}Inferno
+{{198758357-0-165853:}}Inferno
+{{198758357-0-166067:}}Eruption
+{{198758357-0-167373:}}Eruption
+{{198758357-0-168763:}}Dragonknight Standard
+{{198758357-0-168765:}}Dragonknight Standard
+{{198758357-0-168932:}}Eruption
+{{198758357-0-168990:}}Inferno
+{{198758357-0-170830:}}Petrify
+{{198758357-0-170837:}}Petrify
+{{198758357-0-170844:}}Petrify
+{{198758357-0-172736:}}Inferno
+{{198758357-0-172791:}}Inferno
+{{198758357-0-172794:}}Inferno
+{{198758357-0-172852:}}Petrify
+{{198758357-0-172903:}}Petrify
+{{198758357-0-173098:}}Petrify
+{{198758357-0-174702:}}Petrify
+{{198758357-0-178481:}}Inferno
+{{198758357-0-178482:}}Inferno
+{{198758357-0-178483:}}Inferno
+{{198758357-0-178510:}}Petrify
+{{198758357-0-178513:}}Petrify
+{{198758357-0-178780:}}Petrify
+{{198758357-0-178781:}}Petrify
+{{198758357-0-179179:}}Inferno
+{{198758357-0-179526:}}Obsidian Shield
+{{198758357-0-180529:}}Eruption
+{{198758357-0-181035:}}Eruption
+{{198758357-0-181351:}}Fiery Breath
+{{198758357-0-183778:}}Inferno
+{{198758357-0-183780:}}Inferno
+{{198758357-0-183781:}}Inferno
+{{198758357-0-183782:}}Inferno
+{{198758357-0-185038:}}Petrify
+{{198758357-0-185039:}}Petrify
+{{198758357-0-185041:}}Petrify
+{{198758357-0-185472:}}Fiery Breath
+{{198758357-0-185473:}}Fiery Breath
+{{198758357-0-185474:}}Fiery Breath
+{{198758357-0-185475:}}Fiery Breath
+{{198758357-0-185476:}}Fiery Breath
+{{198758357-0-185477:}}Fiery Breath
+{{198758357-0-185478:}}Fiery Breath
+{{198758357-0-185536:}}Fiery Breath
+{{198758357-0-185537:}}Fiery Breath
+{{198758357-0-185905:}}Petrify
+{{198758357-0-185906:}}Petrify
+{{198758357-0-185907:}}Petrify
+{{198758357-0-186010:}}Petrify
+{{198758357-0-186011:}}Petrify
+{{198758357-0-186065:}}Dark Talons
+{{198758357-0-186066:}}Dark Talons
+{{198758357-0-186067:}}Dark Talons
+{{198758357-0-186947:}}Inferno
+{{198758357-0-186948:}}Inferno
+{{198758357-0-186949:}}Inferno
+{{198758357-0-186950:}}Inferno
+{{198758357-0-186951:}}Inferno
+{{198758357-0-186952:}}Inferno
+{{198758357-0-186953:}}Inferno
+{{198758357-0-186954:}}Inferno
+{{198758357-0-187412:}}Eruption
+{{198758357-0-187587:}}Eruption
+{{198758357-0-187623:}}Petrify
+{{198758357-0-188014:}}Fiery Breath
+{{198758357-0-188015:}}Fiery Breath
+{{198758357-0-188017:}}Lava Whip
+{{198758357-0-188150:}}Petrify
+{{198758357-0-189057:}}Petrify
+{{198758357-0-189403:}}Eruption
+{{198758357-0-189845:}}Petrify
+{{198758357-0-190216:}}Noxious Breath
+{{198758357-0-190218:}}Noxious Breath
+{{198758357-0-191524:}}Eruption
+{{198758357-0-192348:}}Burning Embers
+{{198758357-0-192349:}}Burning Embers
+{{198758357-0-192350:}}Burning Embers
+{{198758357-0-192612:}}Eruption
+{{198758357-0-196724:}}Dark Talons
+{{198758357-0-196725:}}Dark Talons
+{{198758357-0-196726:}}Dark Talons
+{{198758357-0-196727:}}Dragonknight Standard
+{{198758357-0-196729:}}Dragonknight Standard
+{{198758357-0-198098:}}Petrify
+{{198758357-0-198275:}}Fiery Breath
+{{198758357-0-198611:}}Inferno
+{{198758357-0-198613:}}Inferno
+{{198758357-0-198614:}}Inferno
+{{198758357-0-198615:}}Inferno
+{{198758357-0-198616:}}Inferno
+{{198758357-0-198617:}}Inferno
+{{198758357-0-198618:}}Inferno
+{{198758357-0-198819:}}Inferno
+{{198758357-0-198820:}}Inferno
+{{198758357-0-198821:}}Inferno
+{{198758357-0-198822:}}Inferno
+{{198758357-0-198823:}}Inferno
+{{198758357-0-198825:}}Inferno
+{{198758357-0-198826:}}Inferno
+{{198758357-0-198827:}}Inferno
+{{198758357-0-198828:}}Inferno
+{{198758357-0-198829:}}Inferno
+{{198758357-0-198830:}}Inferno
+{{198758357-0-199143:}}Inferno
+{{198758357-0-199533:}}Inferno
+{{198758357-0-199535:}}Inferno
+{{198758357-0-199584:}}Combustion
+{{198758357-0-199585:}}Combustion
+{{198758357-0-199586:}}Combustion
+{{198758357-0-199587:}}Combustion
+{{198758357-0-199588:}}Combustion
+{{198758357-0-199589:}}Combustion
+{{198758357-0-199590:}}Combustion
+{{198758357-0-199591:}}Combustion
+{{198758357-0-199592:}}Combustion
+{{198758357-0-199593:}}Combustion
+{{198758357-0-199594:}}Combustion
+{{198758357-0-199595:}}Combustion
+{{198758357-0-202395:}}Fiery Breath
+{{198758357-0-202396:}}Fiery Breath
+{{198758357-0-203339:}}Green Dragon Blood
+{{198758357-0-204180:}}Combustion
+{{198758357-0-206660:}}Searing Heat
+{{198758357-0-206661:}}Searing Heat
+{{198758357-0-208169:}}Eruption
+{{198758357-0-209007:}}Eruption
+{{198758357-0-209016:}}Eruption
+{{198758357-0-210483:}}Inferno
+{{198758357-0-210484:}}Inferno
+{{198758357-0-210485:}}Inferno
+{{198758357-0-210486:}}Inferno
+{{198758357-0-211497:}}Combustion
+{{198758357-0-212561:}}Lava Whip
+{{198758357-0-212563:}}Fiery Breath
+{{198758357-0-212605:}}Dragonknight Standard
+{{198758357-0-212607:}}Dragonknight Standard
+{{198758357-0-212895:}}Corrosive Armor
+{{198758357-0-221219:}}Dragonknight Standard
+{{198758357-0-221220:}}Dragonknight Standard
+{{198758357-0-221221:}}Dark Talons
+{{198758357-0-221222:}}Dark Talons
+{{198758357-0-221223:}}Dark Talons
+{{198758357-0-221711:}}Combustion
+{{198758357-0-221720:}}Combustion
+{{198758357-0-221721:}}Combustion
+{{198758357-0-221831:}}Combustion
+{{198758357-0-221969:}}Fiery Grip
+{{198758357-0-221970:}}Fiery Grip
+{{198758357-0-221971:}}Fiery Grip
+{{198758357-0-222729:}}Fiery Grip
+{{198758357-0-222730:}}Fiery Grip
+{{198758357-0-222732:}}Fiery Grip
+{{198758357-0-223007:}}Fiery Grip
+{{198758357-0-223012:}}Combustion
+{{198758357-0-223013:}}Combustion
+{{198758357-0-223014:}}Combustion
+{{198758357-0-223706:}}Ash Cloud
+{{198758357-0-223708:}}Hardened Armor
+{{198758357-0-223710:}}Hardened Armor
+{{198758357-0-223711:}}Hardened Armor
+{{198758357-0-223712:}}Ash Cloud
+{{198758357-0-223713:}}Ash Cloud
+{{198758357-0-223714:}}Ash Cloud
+{{198758357-0-223889:}}Combustion
+{{198758357-0-223891:}}Combustion
+{{198758357-0-223893:}}Combustion
+{{198758357-0-226975:}}Combustion
+{{198758357-0-226979:}}Combustion
+{{198758357-0-226985:}}Combustion
+{{198758357-0-226987:}}Combustion
+{{198758357-0-227006:}}Combustion
+{{198758357-0-227248:}}Fiery Grip
+{{198758357-0-227249:}}Fiery Grip
+{{198758357-0-227250:}}Fiery Grip
+{{198758357-0-227252:}}Fiery Grip
+{{198758357-0-229484:}}Eruption
+{{198758357-0-230308:}}Dragonknight Standard
+{{198758357-0-230309:}}Dark Talons
+{{198758357-0-230313:}}Dragonknight Standard
+{{198758357-0-230316:}}Dark Talons
+{{198758357-0-230317:}}Dark Talons
+{{198758357-0-230336:}}Fiery Breath
+{{198758357-0-230337:}}Fiery Breath
+{{198758357-0-230460:}}Dragon Leap
+{{198758357-0-230463:}}Dragon Leap
+{{198758357-0-234602:}}Fiery Breath
+{{198758357-0-234603:}}Fiery Breath
+{{198758357-0-234606:}}Fiery Breath
+{{198758357-0-234607:}}Fiery Breath
+{{198758357-0-235414:}}Fiery Breath
+{{198758357-0-235415:}}Fiery Breath
+{{198758357-0-235420:}}Dark Talons
+{{198758357-0-235421:}}Dark Talons
+{{198758357-0-235422:}}Dark Talons
+{{198758357-0-236737:}}Fiery Breath
+{{198758357-0-236774:}}Fiery Breath
+{{198758357-0-237637:}}Dark Talons
+{{198758357-0-240871:}}Fiery Breath
+{{198758357-0-241578:}}Fiery Breath
+{{198758357-0-241579:}}Fiery Breath
+{{198758357-0-242064:}}Dragonknight Standard
+{{198758357-0-242066:}}Dark Talons
+{{198758357-0-242073:}}Dark Talons
+{{198758357-0-242074:}}Dark Talons
+{{198758357-0-242920:}}Fiery Breath
+{{198758357-0-242921:}}Fiery Breath
+{{198758357-0-242922:}}Lava Whip
+{{198758357-0-242923:}}Lava Whip
+{{198758357-0-243556:}}Fiery Breath
+{{198758357-0-243742:}}Warmth
+{{198758357-0-244611:}}Dragonknight Standard
+{{198758357-0-246314:}}Dragonknight Standard
+{{198758357-0-246316:}}Dragonknight Standard
+{{198758357-0-248551:}}Fiery Breath
+{{198758357-0-248552:}}Fiery Breath
+{{198758357-0-248568:}}Fiery Breath
+{{198758357-0-248808:}}Fiery Breath
+{{198758357-0-248809:}}Fiery Breath
+{{198758357-0-248810:}}Fiery Breath
+{{198758357-0-250030:}}Fiery Breath
+{{198758357-0-250031:}}Fiery Breath
+{{198758357-0-253760:}}Petrify
+{{198758357-0-253765:}}Petrify
+{{198758357-0-255991:}}Burning Talons
+{{198758357-0-255992:}}Choking Talons
+{{198758357-0-255993:}}Coagulating Blood
+{{198758357-0-255994:}}Green Dragon Blood
+{{198758357-0-255995:}}Ferocious Leap
+{{198758357-0-255996:}}Take Flight
+{{198758357-0-255997:}}Deep Breath
+{{198758357-0-255998:}}Draw Essence
+{{198758357-0-255999:}}Dragon Fire Scale
+{{198758357-0-256000:}}Protective Plate
+{{198758357-0-256001:}}Volatile Armor
+{{198758357-0-256002:}}Hardened Armor
+{{198758357-0-256003:}}Burning Talons
+{{198758357-0-256004:}}Burning Talons
+{{198758357-0-256008:}}Choking Talons
+{{198758357-0-256013:}}Coagulating Blood
+{{198758357-0-256015:}}Green Dragon Blood
+{{198758357-0-256019:}}Green Dragon Blood
+{{198758357-0-256020:}}Ferocious Leap
+{{198758357-0-256021:}}Ferocious Leap
+{{198758357-0-256024:}}Ferocious Leap
+{{198758357-0-256026:}}Ferocious Leap
+{{198758357-0-256027:}}Take Flight
+{{198758357-0-256028:}}Take Flight
+{{198758357-0-256032:}}Take Flight
+{{198758357-0-256033:}}Deep Breath
+{{198758357-0-256034:}}Deep Breath
+{{198758357-0-256035:}}Deep Breath
+{{198758357-0-256036:}}Deep Breath
+{{198758357-0-256037:}}Deep Breath
+{{198758357-0-256038:}}Draw Essence
+{{198758357-0-256039:}}Draw Essence
+{{198758357-0-256040:}}Draw Essence
+{{198758357-0-256041:}}Draw Essence
+{{198758357-0-256042:}}Dragon Fire Scale
+{{198758357-0-256043:}}Dragon Fire Scale
+{{198758357-0-256044:}}Protective Plate
+{{198758357-0-256045:}}Volatile Armor
+{{198758357-0-256046:}}Volatile Armor
+{{198758357-0-256048:}}Volatile Armor
+{{198758357-0-256049:}}Hardened Armor
+{{198758357-0-256050:}}Hardened Armor
+{{206046340-0-100988:}}Noxious Breath
+{{206046340-0-167888:}}Noxious Breath
+{{206046340-0-190219:}}Noxious Breath
+{{222921557-0-115:}}Dragon Leap
+{{232566869-0-5:}}Elder Dragon
+{{244845717-0-115:}}Take Flight
+{{244874389-0-115:}}Ferocious Leap

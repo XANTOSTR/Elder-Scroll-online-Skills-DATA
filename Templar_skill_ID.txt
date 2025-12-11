@@ -1,0 +1,552 @@
+{{17915077-0-25:}}Focused Charge
+{{17915077-0-27:}}Radial Sweep
+{{17915077-0-31:}}Nova
+{{17915077-0-33:}}Rune Focus
+{{17915077-0-36:}}Solar Flare
+{{17915077-0-38:}}Sun Fire
+{{17915077-0-39:}}Rushed Ceremony
+{{17915077-0-40:}}Piercing Javelin
+{{17915077-0-41:}}Restoring Aura
+{{17915077-0-42:}}Spear Shards
+{{17915077-0-43:}}Puncturing Strikes
+{{17915077-0-44:}}Backlash
+{{17915077-0-45:}}Cleansing Ritual
+{{17915077-0-46:}}Eclipse
+{{17915077-0-47:}}Healing Ritual
+{{17915077-0-48:}}Rite of Passage
+{{17915077-0-49:}}Sun Shield
+{{17915077-0-66:}}Radiant Destruction
+{{17915077-0-881:}}Restoring Aura
+{{17915077-0-882:}}Cleansing Ritual
+{{17915077-0-883:}}Rune Focus
+{{26811173-0-107:}}Nova
+{{74865733-0-34427:}}Illuminate
+{{96962005-0-22:}}Aedric Spear
+{{96962005-0-27:}}Dawn's Wrath
+{{96962005-0-28:}}Restoring Light
+{{108643301-0-22:}}Aedric Spear
+{{108643301-0-27:}}Dawn's Wrath
+{{108643301-0-28:}}Restoring Light
+{{148355781-0-68342:}}Prism
+{{154419989-0-160:}}Puncturing Strikes
+{{154419989-1-160:}}Biting Jabs
+{{154419989-2-160:}}Puncturing Sweep
+{{198758357-0-13538:}}Focused Charge
+{{198758357-0-13701:}}Focused Charge
+{{198758357-0-14924:}}Focused Charge
+{{198758357-0-15540:}}Toppling Charge
+{{198758357-0-15544:}}Toppling Charge
+{{198758357-0-15546:}}Toppling Charge
+{{198758357-0-21726:}}Sun Fire
+{{198758357-0-21728:}}Sun Fire
+{{198758357-0-21729:}}Vampire's Bane
+{{198758357-0-21731:}}Vampire's Bane
+{{198758357-0-21732:}}Reflective Light
+{{198758357-0-21733:}}Reflective Light
+{{198758357-0-21734:}}Reflective Light
+{{198758357-0-21752:}}Nova
+{{198758357-0-21753:}}Nova
+{{198758357-0-21755:}}Solar Prison
+{{198758357-0-21756:}}Solar Prison
+{{198758357-0-21757:}}Solar Prison
+{{198758357-0-21758:}}Solar Disturbance
+{{198758357-0-21759:}}Solar Disturbance
+{{198758357-0-21761:}}Backlash
+{{198758357-0-21763:}}Power of the Light
+{{198758357-0-21765:}}Purifying Light
+{{198758357-0-21767:}}Power of the Light
+{{198758357-0-21776:}}Eclipse
+{{198758357-0-21907:}}Purifying Light
+{{198758357-0-21908:}}Purifying Light
+{{198758357-0-21960:}}Focused Charge
+{{198758357-0-21976:}}Nova
+{{198758357-0-21995:}}Nova
+{{198758357-0-22000:}}Solar Disturbance
+{{198758357-0-22001:}}Solar Disturbance
+{{198758357-0-22002:}}Solar Prison
+{{198758357-0-22003:}}Solar Prison
+{{198758357-0-22004:}}Unstable Core
+{{198758357-0-22006:}}Living Dark
+{{198758357-0-22057:}}Solar Flare
+{{198758357-0-22095:}}Solar Barrage
+{{198758357-0-22110:}}Dark Flare
+{{198758357-0-22138:}}Radial Sweep
+{{198758357-0-22139:}}Crescent Sweep
+{{198758357-0-22143:}}Crescent Sweep
+{{198758357-0-22144:}}Everlasting Sweep
+{{198758357-0-22149:}}Focused Charge
+{{198758357-0-22155:}}Focused Charge
+{{198758357-0-22161:}}Explosive Charge
+{{198758357-0-22165:}}Explosive Charge
+{{198758357-0-22178:}}Sun Shield
+{{198758357-0-22179:}}Sun Shield
+{{198758357-0-22180:}}Blazing Shield
+{{198758357-0-22181:}}Blazing Shield
+{{198758357-0-22182:}}Radiant Ward
+{{198758357-0-22183:}}Radiant Ward
+{{198758357-0-22184:}}Blazing Shield
+{{198758357-0-22185:}}Blazing Shield
+{{198758357-0-22223:}}Rite of Passage
+{{198758357-0-22225:}}Rite of Passage
+{{198758357-0-22226:}}Practiced Incantation
+{{198758357-0-22228:}}Practiced Incantation
+{{198758357-0-22229:}}Remembrance
+{{198758357-0-22231:}}Remembrance
+{{198758357-0-22234:}}Rune Focus
+{{198758357-0-22237:}}Restoring Focus
+{{198758357-0-22240:}}Channeled Focus
+{{198758357-0-22250:}}Rushed Ceremony
+{{198758357-0-22253:}}Honor the Dead
+{{198758357-0-22256:}}Breath of Life
+{{198758357-0-22259:}}Ritual of Retribution
+{{198758357-0-22260:}}Ritual of Retribution
+{{198758357-0-22262:}}Extended Ritual
+{{198758357-0-22263:}}Extended Ritual
+{{198758357-0-22265:}}Cleansing Ritual
+{{198758357-0-22266:}}Cleansing Ritual
+{{198758357-0-22304:}}Healing Ritual
+{{198758357-0-22314:}}Hasty Prayer
+{{198758357-0-22327:}}Ritual of Rebirth
+{{198758357-0-22643:}}Backlash
+{{198758357-0-22644:}}Backlash
+{{198758357-0-22645:}}Backlash
+{{198758357-0-23223:}}Focused Charge
+{{198758357-0-25797:}}Power of the Light
+{{198758357-0-25799:}}Power of the Light
+{{198758357-0-25800:}}Purifying Light
+{{198758357-0-25802:}}Purifying Light
+{{198758357-0-26114:}}Puncturing Strikes
+{{198758357-0-26116:}}Puncturing Strikes
+{{198758357-0-26158:}}Piercing Javelin
+{{198758357-0-26162:}}Piercing Javelin
+{{198758357-0-26188:}}Spear Shards
+{{198758357-0-26190:}}Spear Shards
+{{198758357-0-26192:}}Spear Shards
+{{198758357-0-26209:}}Restoring Aura
+{{198758357-0-26286:}}Cleansing Ritual
+{{198758357-0-26290:}}Cleansing Ritual
+{{198758357-0-26299:}}Ritual of Retribution
+{{198758357-0-26303:}}Extended Ritual
+{{198758357-0-26304:}}Extended Ritual
+{{198758357-0-26381:}}Remembrance
+{{198758357-0-26383:}}Practiced Incantation
+{{198758357-0-26411:}}Backlash
+{{198758357-0-26431:}}Backlash
+{{198758357-0-26792:}}Biting Jabs
+{{198758357-0-26794:}}Biting Jabs
+{{198758357-0-26797:}}Puncturing Sweep
+{{198758357-0-26799:}}Puncturing Sweep
+{{198758357-0-26800:}}Aurora Javelin
+{{198758357-0-26801:}}Aurora Javelin
+{{198758357-0-26802:}}Aurora Javelin
+{{198758357-0-26804:}}Binding Javelin
+{{198758357-0-26807:}}Radiant Aura
+{{198758357-0-26821:}}Repentance
+{{198758357-0-26823:}}Repentance
+{{198758357-0-26824:}}Repentance
+{{198758357-0-26827:}}Spear Shards
+{{198758357-0-26858:}}Luminous Shards
+{{198758357-0-26859:}}Luminous Shards
+{{198758357-0-26860:}}Luminous Shards
+{{198758357-0-26863:}}Luminous Shards
+{{198758357-0-26869:}}Blazing Spear
+{{198758357-0-26871:}}Blazing Spear
+{{198758357-0-26874:}}Blazing Spear
+{{198758357-0-26878:}}Blazing Spear
+{{198758357-0-26879:}}Blazing Spear
+{{198758357-0-26880:}}Blazing Spear
+{{198758357-0-27544:}}Purifying Light
+{{198758357-0-27567:}}Power of the Light
+{{198758357-0-27568:}}Power of the Light
+{{198758357-0-27794:}}Puncturing Strikes
+{{198758357-0-27795:}}Piercing Javelin
+{{198758357-0-27796:}}Focused Charge
+{{198758357-0-27797:}}Spear Shards
+{{198758357-0-27800:}}Sun Shield
+{{198758357-0-27801:}}Sun Fire
+{{198758357-0-27802:}}Solar Flare
+{{198758357-0-27803:}}Nova
+{{198758357-0-27804:}}Backlash
+{{198758357-0-27805:}}Eclipse
+{{198758357-0-27806:}}Healing Ritual
+{{198758357-0-27807:}}Restoring Aura
+{{198758357-0-27808:}}Cleansing Ritual
+{{198758357-0-27809:}}Rite of Passage
+{{198758357-0-27810:}}Rune Focus
+{{198758357-0-27811:}}Rushed Ceremony
+{{198758357-0-31565:}}Balanced Warrior
+{{198758357-0-31566:}}Balanced Warrior
+{{198758357-0-31698:}}Piercing Spear
+{{198758357-0-31700:}}Piercing Spear
+{{198758357-0-31708:}}Spear Wall
+{{198758357-0-31718:}}Burning Light
+{{198758357-0-31721:}}Restoring Spirit
+{{198758357-0-31739:}}Enduring Rays
+{{198758357-0-31743:}}Illuminate
+{{198758357-0-31744:}}Prism
+{{198758357-0-31746:}}Prism
+{{198758357-0-31747:}}Master Ritualist
+{{198758357-0-31748:}}Master Ritualist
+{{198758357-0-31749:}}Master Ritualist
+{{198758357-0-31750:}}Master Ritualist
+{{198758357-0-31751:}}Mending
+{{198758357-0-31757:}}Sacred Ground
+{{198758357-0-31759:}}Sacred Ground
+{{198758357-0-31760:}}Light Weaver
+{{198758357-0-32081:}}Nova
+{{198758357-0-32099:}}Binding Javelin
+{{198758357-0-32975:}}Eclipse
+{{198758357-0-32978:}}Eclipse
+{{198758357-0-33049:}}Eclipse
+{{198758357-0-33050:}}Eclipse
+{{198758357-0-33087:}}Purifying Light
+{{198758357-0-33516:}}Rune Focus
+{{198758357-0-33524:}}Channeled Focus
+{{198758357-0-33528:}}Restoring Focus
+{{198758357-0-33530:}}Eclipse
+{{198758357-0-33531:}}Eclipse
+{{198758357-0-34552:}}Blazing Shield
+{{198758357-0-35632:}}Honor the Dead
+{{198758357-0-37009:}}Channeled Focus
+{{198758357-0-37409:}}Piercing Javelin
+{{198758357-0-37414:}}Aurora Javelin
+{{198758357-0-38548:}}Spear Shards
+{{198758357-0-38553:}}Spear Shards
+{{198758357-0-40249:}}Spear Shards
+{{198758357-0-40263:}}Spear Shards
+{{198758357-0-40428:}}Nova
+{{198758357-0-41022:}}Nova
+{{198758357-0-44046:}}Piercing Spear
+{{198758357-0-44047:}}Piercing Spear
+{{198758357-0-44328:}}Rite of Passage
+{{198758357-0-44329:}}Rite of Passage
+{{198758357-0-44330:}}Rite of Passage
+{{198758357-0-44391:}}Breath of Life
+{{198758357-0-44426:}}Puncturing Strikes
+{{198758357-0-44432:}}Biting Jabs
+{{198758357-0-44436:}}Puncturing Sweep
+{{198758357-0-44445:}}Blazing Spear
+{{198758357-0-44721:}}Spear Wall
+{{198758357-0-44730:}}Burning Light
+{{198758357-0-44732:}}Balanced Warrior
+{{198758357-0-44733:}}Balanced Warrior
+{{198758357-0-44803:}}Focused Charge
+{{198758357-0-45202:}}Master Ritualist
+{{198758357-0-45203:}}Master Ritualist
+{{198758357-0-45204:}}Master Ritualist
+{{198758357-0-45205:}}Master Ritualist
+{{198758357-0-45206:}}Mending
+{{198758357-0-45207:}}Sacred Ground
+{{198758357-0-45208:}}Light Weaver
+{{198758357-0-45212:}}Restoring Spirit
+{{198758357-0-45214:}}Enduring Rays
+{{198758357-0-45215:}}Illuminate
+{{198758357-0-45216:}}Prism
+{{198758357-0-45217:}}Prism
+{{198758357-0-45987:}}Focused Charge
+{{198758357-0-46236:}}Rune Focus
+{{198758357-0-46270:}}Rune Focus
+{{198758357-0-46272:}}Rune Focus
+{{198758357-0-48542:}}Focused Charge
+{{198758357-0-48549:}}Focused Charge
+{{198758357-0-48551:}}Focused Charge
+{{198758357-0-48553:}}Focused Charge
+{{198758357-0-48556:}}Focused Charge
+{{198758357-0-48559:}}Focused Charge
+{{198758357-0-48932:}}Backlash
+{{198758357-0-48933:}}Backlash
+{{198758357-0-49091:}}Blazing Shield
+{{198758357-0-49204:}}Focused Charge
+{{198758357-0-49205:}}Focused Charge
+{{198758357-0-49212:}}Explosive Charge
+{{198758357-0-49213:}}Explosive Charge
+{{198758357-0-50202:}}Nova
+{{198758357-0-50205:}}Nova
+{{198758357-0-50714:}}Focused Charge
+{{198758357-0-50998:}}Rite of Passage
+{{198758357-0-52806:}}Unstable Core
+{{198758357-0-52808:}}Unstable Core
+{{198758357-0-52904:}}Vampire's Bane
+{{198758357-0-52905:}}Vampire's Bane
+{{198758357-0-52906:}}Vampire's Bane
+{{198758357-0-52907:}}Dark Flare
+{{198758357-0-52909:}}Dark Flare
+{{198758357-0-52911:}}Solar Flare
+{{198758357-0-52912:}}Purifying Light
+{{198758357-0-52914:}}Purifying Light
+{{198758357-0-52915:}}Purifying Light
+{{198758357-0-52916:}}Purifying Light
+{{198758357-0-52917:}}Purifying Light
+{{198758357-0-52918:}}Purifying Light
+{{198758357-0-52919:}}Purifying Light
+{{198758357-0-52920:}}Unstable Core
+{{198758357-0-52921:}}Unstable Core
+{{198758357-0-52927:}}Solar Disturbance
+{{198758357-0-52928:}}Solar Disturbance
+{{198758357-0-52929:}}Solar Disturbance
+{{198758357-0-52931:}}Solar Disturbance
+{{198758357-0-52933:}}Solar Disturbance
+{{198758357-0-52940:}}Focused Charge
+{{198758357-0-54118:}}Remembrance
+{{198758357-0-54119:}}Remembrance
+{{198758357-0-54121:}}Remembrance
+{{198758357-0-56344:}}Piercing Spear
+{{198758357-0-56384:}}Piercing Spear
+{{198758357-0-56822:}}Puncturing Sweep
+{{198758357-0-56823:}}Puncturing Sweep
+{{198758357-0-56824:}}Puncturing Sweep
+{{198758357-0-56825:}}Puncturing Sweep
+{{198758357-0-56827:}}Puncturing Sweep
+{{198758357-0-56878:}}Nova
+{{198758357-0-59179:}}Focused Charge
+{{198758357-0-59182:}}Focused Charge
+{{198758357-0-61522:}}Nova
+{{198758357-0-62550:}}Radial Sweep
+{{198758357-0-62593:}}Radial Sweep
+{{198758357-0-62598:}}Everlasting Sweep
+{{198758357-0-62599:}}Everlasting Sweep
+{{198758357-0-62606:}}Crescent Sweep
+{{198758357-0-62607:}}Radial Sweep
+{{198758357-0-63029:}}Radiant Destruction
+{{198758357-0-63044:}}Radiant Glory
+{{198758357-0-63046:}}Radiant Oppression
+{{198758357-0-63083:}}Living Dark
+{{198758357-0-63398:}}Backlash
+{{198758357-0-63573:}}Eclipse
+{{198758357-0-63952:}}Radiant Destruction
+{{198758357-0-63956:}}Radiant Glory
+{{198758357-0-63961:}}Radiant Oppression
+{{198758357-0-66002:}}Rite of Passage
+{{198758357-0-66003:}}Rite of Passage
+{{198758357-0-66004:}}Rite of Passage
+{{198758357-0-66264:}}Focused Charge
+{{198758357-0-66267:}}Focused Charge
+{{198758357-0-66764:}}Focused Charge
+{{198758357-0-66859:}}Focused Charge
+{{198758357-0-68449:}}Explosive Charge
+{{198758357-0-68452:}}Explosive Charge
+{{198758357-0-68453:}}Explosive Charge
+{{198758357-0-68581:}}Purifying Light
+{{198758357-0-69118:}}Radiant Glory
+{{198758357-0-70190:}}Focused Charge
+{{198758357-0-70887:}}Explosive Charge
+{{198758357-0-70888:}}Explosive Charge
+{{198758357-0-70889:}}Explosive Charge
+{{198758357-0-70890:}}Explosive Charge
+{{198758357-0-71747:}}Focused Charge
+{{198758357-0-75396:}}Unstable Core
+{{198758357-0-75397:}}Unstable Core
+{{198758357-0-76908:}}Puncturing Strikes
+{{198758357-0-76912:}}Biting Jabs
+{{198758357-0-76916:}}Puncturing Sweep
+{{198758357-0-80153:}}Burning Light
+{{198758357-0-80170:}}Burning Light
+{{198758357-0-80172:}}Ritual of Retribution
+{{198758357-0-80645:}}Focused Charge
+{{198758357-0-81117:}}Explosive Charge
+{{198758357-0-81119:}}Explosive Charge
+{{198758357-0-81120:}}Explosive Charge
+{{198758357-0-83039:}}Focused Charge
+{{198758357-0-83040:}}Focused Charge
+{{198758357-0-84175:}}Focused Charge
+{{198758357-0-84176:}}Focused Charge
+{{198758357-0-88456:}}Ritual of Rebirth
+{{198758357-0-89821:}}Backlash
+{{198758357-0-89825:}}Purifying Light
+{{198758357-0-89828:}}Power of the Light
+{{198758357-0-91037:}}Blazing Shield
+{{198758357-0-91270:}}Puncturing Sweep
+{{198758357-0-91271:}}Puncturing Sweep
+{{198758357-0-91272:}}Puncturing Sweep
+{{198758357-0-91274:}}Puncturing Sweep
+{{198758357-0-91276:}}Radiant Destruction
+{{198758357-0-91277:}}Radiant Destruction
+{{198758357-0-91278:}}Radiant Destruction
+{{198758357-0-91279:}}Ritual of Retribution
+{{198758357-0-91282:}}Ritual of Retribution
+{{198758357-0-91283:}}Ritual of Retribution
+{{198758357-0-91284:}}Ritual of Retribution
+{{198758357-0-91286:}}Ritual of Retribution
+{{198758357-0-92257:}}Focused Charge
+{{198758357-0-95931:}}Spear Shards
+{{198758357-0-95932:}}Spear Shards
+{{198758357-0-95933:}}Spear Shards
+{{198758357-0-95955:}}Luminous Shards
+{{198758357-0-95956:}}Luminous Shards
+{{198758357-0-95957:}}Luminous Shards
+{{198758357-0-99314:}}Radiant Destruction
+{{198758357-0-99324:}}Radiant Glory
+{{198758357-0-99335:}}Radiant Oppression
+{{198758357-0-99583:}}Eclipse
+{{198758357-0-99584:}}Eclipse
+{{198758357-0-100218:}}Solar Barrage
+{{198758357-0-100223:}}Solar Barrage
+{{198758357-0-101455:}}Focused Charge
+{{198758357-0-101456:}}Focused Charge
+{{198758357-0-101458:}}Focused Charge
+{{198758357-0-101461:}}Focused Charge
+{{198758357-0-101468:}}Focused Charge
+{{198758357-0-105332:}}Focused Charge
+{{198758357-0-105333:}}Focused Charge
+{{198758357-0-106452:}}Focused Charge
+{{198758357-0-107680:}}Rite of Passage
+{{198758357-0-107681:}}Rite of Passage
+{{198758357-0-107682:}}Rite of Passage
+{{198758357-0-108269:}}Biting Jabs
+{{198758357-0-108270:}}Biting Jabs
+{{198758357-0-108271:}}Radiant Destruction
+{{198758357-0-108365:}}Biting Jabs
+{{198758357-0-108700:}}Rite of Passage
+{{198758357-0-111218:}}Illuminate
+{{198758357-0-112145:}}Rune Focus
+{{198758357-0-112166:}}Channeled Focus
+{{198758357-0-112167:}}Restoring Focus
+{{198758357-0-112977:}}Illuminate
+{{198758357-0-113533:}}Solar Flare
+{{198758357-0-113534:}}Solar Flare
+{{198758357-0-114467:}}Purifying Light
+{{198758357-0-114468:}}Purifying Light
+{{198758357-0-114469:}}Purifying Light
+{{198758357-0-114470:}}Purifying Light
+{{198758357-0-114471:}}Purifying Light
+{{198758357-0-114472:}}Purifying Light
+{{198758357-0-114473:}}Purifying Light
+{{198758357-0-114478:}}Radiant Destruction
+{{198758357-0-114479:}}Radiant Destruction
+{{198758357-0-114480:}}Radiant Destruction
+{{198758357-0-114842:}}Restoring Focus
+{{198758357-0-115476:}}Crescent Sweep
+{{198758357-0-119310:}}Blazing Shield
+{{198758357-0-121572:}}Spear Shards
+{{198758357-0-121628:}}Spear Shards
+{{198758357-0-121629:}}Spear Shards
+{{198758357-0-121630:}}Spear Shards
+{{198758357-0-122288:}}Everlasting Sweep
+{{198758357-0-123126:}}Focused Charge
+{{198758357-0-124700:}}Repentance
+{{198758357-0-127769:}}Eclipse
+{{198758357-0-127770:}}Eclipse
+{{198758357-0-127771:}}Eclipse
+{{198758357-0-127772:}}Eclipse
+{{198758357-0-127786:}}Unstable Core
+{{198758357-0-127787:}}Unstable Core
+{{198758357-0-127788:}}Unstable Core
+{{198758357-0-127789:}}Unstable Core
+{{198758357-0-127790:}}Unstable Core
+{{198758357-0-127791:}}Unstable Core
+{{198758357-0-127792:}}Unstable Core
+{{198758357-0-127793:}}Unstable Core
+{{198758357-0-127795:}}Living Dark
+{{198758357-0-129879:}}Unstable Core
+{{198758357-0-129880:}}Eclipse
+{{198758357-0-132754:}}Focused Charge
+{{198758357-0-139049:}}Focused Charge
+{{198758357-0-139342:}}Focused Charge
+{{198758357-0-140840:}}Focused Charge
+{{198758357-0-143432:}}Ritual of Retribution
+{{198758357-0-144021:}}Burning Light
+{{198758357-0-144022:}}Burning Light
+{{198758357-0-144023:}}Burning Light
+{{198758357-0-144028:}}Burning Light
+{{198758357-0-144029:}}Burning Light
+{{198758357-0-144030:}}Burning Light
+{{198758357-0-144134:}}Light Weaver
+{{198758357-0-144136:}}Light Weaver
+{{198758357-0-144137:}}Light Weaver
+{{198758357-0-149047:}}Solar Flare
+{{198758357-0-149048:}}Solar Flare
+{{198758357-0-149335:}}Nova
+{{198758357-0-149406:}}Focused Charge
+{{198758357-0-154437:}}Blazing Shield
+{{198758357-0-154438:}}Blazing Shield
+{{198758357-0-154439:}}Blazing Shield
+{{198758357-0-154445:}}Blazing Shield
+{{198758357-0-154446:}}Blazing Shield
+{{198758357-0-154447:}}Blazing Shield
+{{198758357-0-154449:}}Blazing Shield
+{{198758357-0-154450:}}Blazing Shield
+{{198758357-0-154451:}}Blazing Shield
+{{198758357-0-154455:}}Blazing Shield
+{{198758357-0-154460:}}Blazing Shield
+{{198758357-0-154577:}}Solar Flare
+{{198758357-0-154578:}}Solar Flare
+{{198758357-0-156933:}}Blazing Shield
+{{198758357-0-157074:}}Spear Shards
+{{198758357-0-160495:}}Explosive Charge
+{{198758357-0-160497:}}Explosive Charge
+{{198758357-0-160498:}}Explosive Charge
+{{198758357-0-160499:}}Explosive Charge
+{{198758357-0-162615:}}Backlash
+{{198758357-0-162803:}}Focused Charge
+{{198758357-0-163760:}}Backlash
+{{198758357-0-164141:}}Backlash
+{{198758357-0-164884:}}Backlash
+{{198758357-0-164968:}}Solar Flare
+{{198758357-0-166058:}}Backlash
+{{198758357-0-166289:}}Backlash
+{{198758357-0-166460:}}Puncturing Strikes
+{{198758357-0-166464:}}Puncturing Strikes
+{{198758357-0-166465:}}Puncturing Strikes
+{{198758357-0-166466:}}Puncturing Strikes
+{{198758357-0-166467:}}Puncturing Strikes
+{{198758357-0-168401:}}Focused Charge
+{{198758357-0-170546:}}Rite of Passage
+{{198758357-0-172823:}}Nova
+{{198758357-0-179088:}}Nova
+{{198758357-0-179090:}}Nova
+{{198758357-0-179092:}}Nova
+{{198758357-0-179202:}}Nova
+{{198758357-0-179207:}}Nova
+{{198758357-0-179525:}}Extended Ritual
+{{198758357-0-179534:}}Extended Ritual
+{{198758357-0-183184:}}Focused Charge
+{{198758357-0-185138:}}Focused Charge
+{{198758357-0-187582:}}Nova
+{{198758357-0-189302:}}Explosive Charge
+{{198758357-0-189307:}}Explosive Charge
+{{198758357-0-189308:}}Explosive Charge
+{{198758357-0-189309:}}Explosive Charge
+{{198758357-0-192607:}}Nova
+{{198758357-0-196782:}}Rite of Passage
+{{198758357-0-199895:}}Explosive Charge
+{{198758357-0-199896:}}Explosive Charge
+{{198758357-0-199897:}}Explosive Charge
+{{198758357-0-201734:}}Focused Charge
+{{198758357-0-201740:}}Focused Charge
+{{198758357-0-201741:}}Focused Charge
+{{198758357-0-202281:}}Spear Shards
+{{198758357-0-202282:}}Spear Shards
+{{198758357-0-211094:}}Radiant Glory
+{{198758357-0-211124:}}Rite of Passage
+{{198758357-0-211126:}}Rite of Passage
+{{198758357-0-211551:}}Dawn's Wrath
+{{198758357-0-212308:}}Focused Charge
+{{198758357-0-212317:}}Focused Charge
+{{198758357-0-212320:}}Focused Charge
+{{198758357-0-214666:}}Mending
+{{198758357-0-217111:}}Explosive Charge
+{{198758357-0-218899:}}Mending
+{{198758357-0-222475:}}Solar Flare
+{{198758357-0-222476:}}Solar Flare
+{{198758357-0-222477:}}Solar Flare
+{{198758357-0-222478:}}Solar Flare
+{{198758357-0-222479:}}Solar Flare
+{{198758357-0-222480:}}Solar Flare
+{{198758357-0-222481:}}Solar Flare
+{{198758357-0-222482:}}Solar Flare
+{{198758357-0-222483:}}Solar Flare
+{{198758357-0-222484:}}Solar Flare
+{{198758357-0-223477:}}Blazing Spear
+{{198758357-0-229067:}}Focused Charge
+{{198758357-0-229609:}}Backlash
+{{198758357-0-230266:}}Focused Charge
+{{198758357-0-234082:}}Focused Charge
+{{198758357-0-234359:}}Focused Charge
+{{198758357-0-242105:}}Backlash
+{{198758357-0-242297:}}Backlash
+{{198758357-0-243838:}}Light Weaver
+{{198758357-0-243841:}}Light Weaver
+{{198758357-0-251824:}}Focused Charge
+{{198758357-0-251825:}}Focused Charge
+{{242841733-0-64528:}}Cleansing Ritual
+{{244251267-0-141:}}mending

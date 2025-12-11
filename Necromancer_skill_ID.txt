@@ -1,0 +1,554 @@
+{{8290981-0-14274:}}Skeletal Archer
+{{8290981-0-14473:}}Skeletal Archer
+{{8290981-0-18984:}}Skeletal Archer
+{{8290981-0-21526:}}Skeletal Archer
+{{8290981-0-24341:}}Skeletal Archer
+{{8290981-0-26007:}}Skeletal Archer
+{{8290981-0-26474:}}Skeletal Archer
+{{8290981-0-28143:}}Skeletal Archer
+{{8290981-0-28190:}}Skeletal Archer
+{{8290981-0-29981:}}Skeletal Archer
+{{8290981-0-30466:}}Skeletal Archer
+{{8290981-0-33097:}}Skeletal Archer
+{{8290981-0-33563:}}Skeletal Archer
+{{8290981-0-33836:}}Skeletal Archer
+{{8290981-0-33910:}}Skeletal Archer
+{{8290981-0-34178:}}Skeletal Archer
+{{8290981-0-36364:}}Skeletal Archer
+{{8290981-0-39048:}}Skeletal Archer
+{{8290981-0-40764:}}Skeletal Archer
+{{8290981-0-41359:}}Skeletal Archer
+{{8290981-0-43280:}}Skeletal Mage
+{{8290981-0-43356:}}Skeletal Archer
+{{8290981-0-45413:}}Skeletal Archer
+{{8290981-0-45921:}}Skeletal Archer
+{{8290981-0-47773:}}Skeletal Archer
+{{8290981-0-48068:}}Skeletal Archer
+{{8290981-0-48711:}}Skeletal Archer
+{{8290981-0-49901:}}Skeletal Archer
+{{8290981-0-52622:}}Skeletal Archer
+{{8290981-0-55265:}}Skeletal Archer
+{{8290981-0-55385:}}Skeletal Archer
+{{8290981-0-55386:}}Skeletal Archer
+{{8290981-0-55570:}}Skeletal Archer
+{{8290981-0-56627:}}Skeletal Archer
+{{8290981-0-56912:}}Skeletal Archer
+{{8290981-0-57510:}}Skeletal Archer
+{{8290981-0-59534:}}Skeletal Archer
+{{8290981-0-61043:}}Skeletal Archer
+{{8290981-0-62673:}}Skeletal Archer
+{{8290981-0-72578:}}Skeletal Archer
+{{8290981-0-72635:}}Skeletal Archer
+{{8290981-0-72636:}}Skeletal Archer
+{{8290981-0-72715:}}Skeletal Archer
+{{8290981-0-73020:}}Skeletal Archer
+{{8290981-0-73117:}}Skeletal Archer
+{{8290981-0-73339:}}Skeletal Archer
+{{8290981-0-73343:}}Skeletal Mage
+{{8290981-0-73361:}}Skeletal Archer
+{{8290981-0-73378:}}Spirit Mender
+{{8290981-0-73485:}}Skeletal Archer
+{{8290981-0-73499:}}Spirit Mender
+{{8290981-0-87075:}}Skeletal Mage
+{{8290981-0-87666:}}Skeletal Mage
+{{8290981-0-88571:}}Spirit Mender
+{{8290981-0-89691:}}Intensive Mender
+{{8290981-0-89752:}}Spirit Guardian
+{{8290981-0-90544:}}Skeletal Mage
+{{8290981-0-90545:}}Skeletal Mage
+{{8290981-0-90747:}}Skeletal Archer
+{{8290981-0-90748:}}Skeletal Archer
+{{8290981-0-90749:}}Skeletal Archer
+{{8290981-0-122848:}}Grave Lord's Sacrifice
+{{8290981-0-122865:}}Skeletal Archer
+{{8290981-0-122866:}}Skeletal Mage
+{{17915077-0-441:}}Flame Skull
+{{17915077-0-442:}}Render Flesh
+{{17915077-0-443:}}Skeletal Mage
+{{17915077-0-444:}}Sacrificial Bones
+{{17915077-0-445:}}Bone Totem
+{{17915077-0-446:}}Death Scythe
+{{17915077-0-447:}}Grave Grasp
+{{17915077-0-448:}}Bone Armor
+{{17915077-0-449:}}Bitter Harvest
+{{17915077-0-450:}}Bone Goliath Transformation
+{{17915077-0-451:}}Boneyard
+{{17915077-0-453:}}Expunge
+{{17915077-0-454:}}Life amid Death
+{{17915077-0-455:}}Reanimate
+{{17915077-0-456:}}Spirit Mender
+{{17915077-0-457:}}Shocking Siphon
+{{17915077-0-458:}}Restoring Tether
+{{17915077-0-459:}}Frozen Colossus
+{{17915077-0-903:}}Flame Skull
+{{17915077-0-904:}}Sacrificial Bones
+{{17915077-0-905:}}Boneyard
+{{17915077-0-906:}}Skeletal Mage
+{{17915077-0-907:}}Detonating Siphon
+{{17915077-0-908:}}Frozen Colossus
+{{96962005-0-131:}}Grave Lord
+{{96962005-0-132:}}Bone Tyrant
+{{96962005-0-133:}}Living Death
+{{108643301-0-131:}}Grave Lord
+{{108643301-0-132:}}Bone Tyrant
+{{108643301-0-133:}}Living Death
+{{161754069-0-86:}}Blood Sacrifice
+{{172030117-2-3432:}}Blood Sacrifice
+{{198758357-0-98203:}}Expunge
+{{198758357-0-98761:}}Blood Sacrifice
+{{198758357-0-98763:}}Blood Sacrifice
+{{198758357-0-98813:}}Blood Sacrifice
+{{198758357-0-99942:}}Expunge
+{{198758357-0-99953:}}Expunge
+{{198758357-0-100551:}}Expunge
+{{198758357-0-100643:}}Expunge
+{{198758357-0-100644:}}Expunge
+{{198758357-0-114108:}}Flame Skull
+{{198758357-0-114131:}}Flame Skull
+{{198758357-0-114196:}}Render Flesh
+{{198758357-0-114317:}}Skeletal Mage
+{{198758357-0-114419:}}Sacrificial Bones
+{{198758357-0-114860:}}Sacrificial Bones
+{{198758357-0-114861:}}Sacrificial Bones
+{{198758357-0-114863:}}Sacrificial Bones
+{{198758357-0-115001:}}Bone Goliath Transformation
+{{198758357-0-115093:}}Bone Totem
+{{198758357-0-115095:}}Bone Totem
+{{198758357-0-115106:}}Bone Totem
+{{198758357-0-115107:}}Bone Totem
+{{198758357-0-115115:}}Death Scythe
+{{198758357-0-115130:}}Death Scythe
+{{198758357-0-115177:}}Grave Grasp
+{{198758357-0-115206:}}Bone Armor
+{{198758357-0-115238:}}Bitter Harvest
+{{198758357-0-115240:}}Bitter Harvest
+{{198758357-0-115244:}}Bitter Harvest
+{{198758357-0-115252:}}Boneyard
+{{198758357-0-115254:}}Boneyard
+{{198758357-0-115255:}}Boneyard
+{{198758357-0-115279:}}Boneyard
+{{198758357-0-115280:}}Boneyard
+{{198758357-0-115307:}}Expunge
+{{198758357-0-115315:}}Life amid Death
+{{198758357-0-115318:}}Life amid Death
+{{198758357-0-115326:}}Life amid Death
+{{198758357-0-115327:}}Life amid Death
+{{198758357-0-115385:}}Life amid Death
+{{198758357-0-115410:}}Reanimate
+{{198758357-0-115429:}}Reanimate
+{{198758357-0-115532:}}Life amid Death
+{{198758357-0-115544:}}Boneyard
+{{198758357-0-115710:}}Spirit Mender
+{{198758357-0-115732:}}Spirit Mender
+{{198758357-0-115924:}}Shocking Siphon
+{{198758357-0-115926:}}Restoring Tether
+{{198758357-0-116059:}}Boneyard
+{{198758357-0-116186:}}Reusable Parts
+{{198758357-0-116187:}}Reusable Parts
+{{198758357-0-116188:}}Reusable Parts
+{{198758357-0-116189:}}Reusable Parts
+{{198758357-0-116192:}}Dismember
+{{198758357-0-116194:}}Dismember
+{{198758357-0-116197:}}Death Knell
+{{198758357-0-116198:}}Death Knell
+{{198758357-0-116199:}}Rapid Rot
+{{198758357-0-116201:}}Rapid Rot
+{{198758357-0-116230:}}Death Gleaning
+{{198758357-0-116235:}}Death Gleaning
+{{198758357-0-116239:}}Disdain Harm
+{{198758357-0-116240:}}Disdain Harm
+{{198758357-0-116269:}}Health Avarice
+{{198758357-0-116270:}}Health Avarice
+{{198758357-0-116271:}}Last Gasp
+{{198758357-0-116272:}}Last Gasp
+{{198758357-0-116273:}}Near-Death Experience
+{{198758357-0-116275:}}Near-Death Experience
+{{198758357-0-116282:}}Undead Confederate
+{{198758357-0-116283:}}Undead Confederate
+{{198758357-0-116284:}}Corpse Consumption
+{{198758357-0-116285:}}Corpse Consumption
+{{198758357-0-116286:}}Curative Curse
+{{198758357-0-116287:}}Curative Curse
+{{198758357-0-116410:}}Shocking Siphon
+{{198758357-0-116411:}}Shocking Siphon
+{{198758357-0-116420:}}Shocking Siphon
+{{198758357-0-116442:}}Restoring Tether
+{{198758357-0-116443:}}Restoring Tether
+{{198758357-0-116444:}}Restoring Tether
+{{198758357-0-116445:}}Shocking Siphon
+{{198758357-0-116450:}}Restoring Tether
+{{198758357-0-117089:}}Boneyard
+{{198758357-0-117330:}}Sacrificial Bones
+{{198758357-0-117624:}}Venom Skull
+{{198758357-0-117625:}}Venom Skull
+{{198758357-0-117629:}}Venom Skull
+{{198758357-0-117637:}}Ricochet Skull
+{{198758357-0-117638:}}Ricochet Skull
+{{198758357-0-117690:}}Blighted Blastbones
+{{198758357-0-117691:}}Blighted Blastbones
+{{198758357-0-117692:}}Blighted Blastbones
+{{198758357-0-117693:}}Blighted Blastbones
+{{198758357-0-117714:}}Blighted Blastbones
+{{198758357-0-117749:}}Grave Lord's Sacrifice
+{{198758357-0-117750:}}Grave Lord's Sacrifice
+{{198758357-0-117751:}}Grave Lord's Sacrifice
+{{198758357-0-117755:}}Grave Lord's Sacrifice
+{{198758357-0-117756:}}Grave Lord's Sacrifice
+{{198758357-0-117757:}}Grave Lord's Sacrifice
+{{198758357-0-117758:}}Grave Lord's Sacrifice
+{{198758357-0-117759:}}Grave Lord's Sacrifice
+{{198758357-0-117773:}}Grave Lord's Sacrifice
+{{198758357-0-117805:}}Unnerving Boneyard
+{{198758357-0-117807:}}Unnerving Boneyard
+{{198758357-0-117808:}}Unnerving Boneyard
+{{198758357-0-117809:}}Unnerving Boneyard
+{{198758357-0-117810:}}Unnerving Boneyard
+{{198758357-0-117812:}}Unnerving Boneyard
+{{198758357-0-117813:}}Unnerving Boneyard
+{{198758357-0-117815:}}Unnerving Boneyard
+{{198758357-0-117850:}}Avid Boneyard
+{{198758357-0-117852:}}Avid Boneyard
+{{198758357-0-117853:}}Avid Boneyard
+{{198758357-0-117854:}}Avid Boneyard
+{{198758357-0-117855:}}Avid Boneyard
+{{198758357-0-117857:}}Avid Boneyard
+{{198758357-0-117858:}}Avid Boneyard
+{{198758357-0-117860:}}Avid Boneyard
+{{198758357-0-117871:}}Restoring Tether
+{{198758357-0-117883:}}Resistant Flesh
+{{198758357-0-117886:}}Resistant Flesh
+{{198758357-0-117888:}}Blood Sacrifice
+{{198758357-0-117891:}}Blood Sacrifice
+{{198758357-0-117894:}}Blood Sacrifice
+{{198758357-0-117897:}}Blood Sacrifice
+{{198758357-0-117919:}}Hexproof
+{{198758357-0-117940:}}Expunge and Modify
+{{198758357-0-117941:}}Expunge and Modify
+{{198758357-0-117942:}}Expunge and Modify
+{{198758357-0-117947:}}Expunge and Modify
+{{198758357-0-118008:}}Mystic Siphon
+{{198758357-0-118009:}}Mystic Siphon
+{{198758357-0-118011:}}Mystic Siphon
+{{198758357-0-118012:}}Mystic Siphon
+{{198758357-0-118013:}}Mystic Siphon
+{{198758357-0-118017:}}Renewing Undeath
+{{198758357-0-118018:}}Renewing Undeath
+{{198758357-0-118019:}}Renewing Undeath
+{{198758357-0-118020:}}Renewing Undeath
+{{198758357-0-118021:}}Renewing Undeath
+{{198758357-0-118022:}}Renewing Undeath
+{{198758357-0-118023:}}Renewing Undeath
+{{198758357-0-118024:}}Renewing Undeath
+{{198758357-0-118070:}}Braided Tether
+{{198758357-0-118071:}}Braided Tether
+{{198758357-0-118073:}}Braided Tether
+{{198758357-0-118075:}}Braided Tether
+{{198758357-0-118076:}}Braided Tether
+{{198758357-0-118122:}}Mortal Coil
+{{198758357-0-118123:}}Mortal Coil
+{{198758357-0-118125:}}Mortal Coil
+{{198758357-0-118126:}}Mortal Coil
+{{198758357-0-118127:}}Mortal Coil
+{{198758357-0-118128:}}Mortal Coil
+{{198758357-0-118223:}}Hungry Scythe
+{{198758357-0-118224:}}Hungry Scythe
+{{198758357-0-118226:}}Ruinous Scythe
+{{198758357-0-118227:}}Ruinous Scythe
+{{198758357-0-118237:}}Beckoning Armor
+{{198758357-0-118238:}}Beckoning Armor
+{{198758357-0-118241:}}Beckoning Armor
+{{198758357-0-118242:}}Beckoning Armor
+{{198758357-0-118244:}}Summoner's Armor
+{{198758357-0-118279:}}Ravenous Goliath
+{{198758357-0-118280:}}Ravenous Goliath
+{{198758357-0-118281:}}Ravenous Goliath
+{{198758357-0-118282:}}Ravenous Goliath
+{{198758357-0-118283:}}Ravenous Goliath
+{{198758357-0-118285:}}Ravenous Goliath
+{{198758357-0-118286:}}Ravenous Goliath
+{{198758357-0-118288:}}Ravenous Goliath
+{{198758357-0-118289:}}Ravenous Goliath
+{{198758357-0-118290:}}Ravenous Goliath
+{{198758357-0-118292:}}Ravenous Goliath
+{{198758357-0-118308:}}Ghostly Embrace
+{{198758357-0-118309:}}Ghostly Embrace
+{{198758357-0-118310:}}Ghostly Embrace
+{{198758357-0-118311:}}Ghostly Embrace
+{{198758357-0-118312:}}Ghostly Embrace
+{{198758357-0-118314:}}Ghostly Embrace
+{{198758357-0-118325:}}Ghostly Embrace
+{{198758357-0-118352:}}Empowering Grasp
+{{198758357-0-118354:}}Empowering Grasp
+{{198758357-0-118355:}}Empowering Grasp
+{{198758357-0-118356:}}Empowering Grasp
+{{198758357-0-118357:}}Empowering Grasp
+{{198758357-0-118367:}}Renewing Animation
+{{198758357-0-118369:}}Empowering Grasp
+{{198758357-0-118376:}}Renewing Animation
+{{198758357-0-118377:}}Renewing Animation
+{{198758357-0-118378:}}Renewing Animation
+{{198758357-0-118379:}}Animate Blastbones
+{{198758357-0-118380:}}Remote Totem
+{{198758357-0-118381:}}Remote Totem
+{{198758357-0-118383:}}Remote Totem
+{{198758357-0-118386:}}Remote Totem
+{{198758357-0-118391:}}Animate Blastbones
+{{198758357-0-118396:}}Animate Blastbones
+{{198758357-0-118397:}}Animate Blastbones
+{{198758357-0-118404:}}Agony Totem
+{{198758357-0-118405:}}Agony Totem
+{{198758357-0-118407:}}Agony Totem
+{{198758357-0-118411:}}Agony Totem
+{{198758357-0-118447:}}Animate Blastbones
+{{198758357-0-118448:}}Animate Blastbones
+{{198758357-0-118450:}}Animate Blastbones
+{{198758357-0-118623:}}Deaden Pain
+{{198758357-0-118624:}}Deaden Pain
+{{198758357-0-118639:}}Necrotic Potency
+{{198758357-0-118640:}}Necrotic Potency
+{{198758357-0-118664:}}Pummeling Goliath
+{{198758357-0-118665:}}Pummeling Goliath
+{{198758357-0-118666:}}Pummeling Goliath
+{{198758357-0-118667:}}Pummeling Goliath
+{{198758357-0-118670:}}Pummeling Goliath
+{{198758357-0-118671:}}Pummeling Goliath
+{{198758357-0-118672:}}Pummeling Goliath
+{{198758357-0-118680:}}Skeletal Archer
+{{198758357-0-118681:}}Skeletal Archer
+{{198758357-0-118726:}}Skeletal Arcanist
+{{198758357-0-118763:}}Detonating Siphon
+{{198758357-0-118764:}}Detonating Siphon
+{{198758357-0-118766:}}Detonating Siphon
+{{198758357-0-118767:}}Detonating Siphon
+{{198758357-0-118768:}}Detonating Siphon
+{{198758357-0-118809:}}Enduring Undeath
+{{198758357-0-118810:}}Enduring Undeath
+{{198758357-0-118811:}}Enduring Undeath
+{{198758357-0-118812:}}Enduring Undeath
+{{198758357-0-118813:}}Enduring Undeath
+{{198758357-0-118814:}}Enduring Undeath
+{{198758357-0-118817:}}Enduring Undeath
+{{198758357-0-118840:}}Intensive Mender
+{{198758357-0-118843:}}Intensive Mender
+{{198758357-0-118872:}}Summoner's Armor
+{{198758357-0-118912:}}Spirit Guardian
+{{198758357-0-118913:}}Spirit Guardian
+{{198758357-0-118916:}}Spirit Guardian
+{{198758357-0-119151:}}Death Knell
+{{198758357-0-119154:}}Death Knell
+{{198758357-0-119156:}}Death Gleaning
+{{198758357-0-119158:}}Death Gleaning
+{{198758357-0-119164:}}Death Gleaning
+{{198758357-0-119165:}}Death Gleaning
+{{198758357-0-119372:}}Bitter Harvest
+{{198758357-0-120611:}}Corpse Consumption
+{{198758357-0-120612:}}Corpse Consumption
+{{198758357-0-121512:}}Grave Grasp
+{{198758357-0-121513:}}Grave Grasp
+{{198758357-0-121514:}}Grave Grasp
+{{198758357-0-121515:}}Grave Grasp
+{{198758357-0-121516:}}Grave Grasp
+{{198758357-0-121518:}}Grave Grasp
+{{198758357-0-121796:}}Deaden Pain
+{{198758357-0-121797:}}Necrotic Potency
+{{198758357-0-122174:}}Frozen Colossus
+{{198758357-0-122178:}}Frozen Colossus
+{{198758357-0-122184:}}Frozen Colossus
+{{198758357-0-122380:}}Frozen Colossus
+{{198758357-0-122388:}}Glacial Colossus
+{{198758357-0-122390:}}Glacial Colossus
+{{198758357-0-122391:}}Glacial Colossus
+{{198758357-0-122392:}}Glacial Colossus
+{{198758357-0-122394:}}Glacial Colossus
+{{198758357-0-122395:}}Pestilent Colossus
+{{198758357-0-122396:}}Pestilent Colossus
+{{198758357-0-122398:}}Pestilent Colossus
+{{198758357-0-122399:}}Pestilent Colossus
+{{198758357-0-122400:}}Pestilent Colossus
+{{198758357-0-122401:}}Pestilent Colossus
+{{198758357-0-122595:}}Death Scythe
+{{198758357-0-122615:}}Hungry Scythe
+{{198758357-0-122625:}}Hungry Scythe
+{{198758357-0-122651:}}Ruinous Scythe
+{{198758357-0-122689:}}Ravenous Goliath
+{{198758357-0-122690:}}Ravenous Goliath
+{{198758357-0-122691:}}Pummeling Goliath
+{{198758357-0-122692:}}Pummeling Goliath
+{{198758357-0-122775:}}Skeletal Archer
+{{198758357-0-123082:}}Detonating Siphon
+{{198758357-0-123088:}}Detonating Siphon
+{{198758357-0-123233:}}Mortal Coil
+{{198758357-0-123683:}}Flame Skull
+{{198758357-0-123685:}}Flame Skull
+{{198758357-0-123686:}}Flame Skull
+{{198758357-0-123699:}}Venom Skull
+{{198758357-0-123704:}}Venom Skull
+{{198758357-0-123705:}}Venom Skull
+{{198758357-0-123718:}}Ricochet Skull
+{{198758357-0-123719:}}Ricochet Skull
+{{198758357-0-123722:}}Ricochet Skull
+{{198758357-0-123723:}}Ricochet Skull
+{{198758357-0-123725:}}Ricochet Skull
+{{198758357-0-123726:}}Ricochet Skull
+{{198758357-0-123727:}}Ricochet Skull
+{{198758357-0-123728:}}Ricochet Skull
+{{198758357-0-123729:}}Ricochet Skull
+{{198758357-0-123730:}}Ricochet Skull
+{{198758357-0-123903:}}Bone Armor
+{{198758357-0-123911:}}Bone Armor
+{{198758357-0-123927:}}Beckoning Armor
+{{198758357-0-123929:}}Bone Armor
+{{198758357-0-123964:}}Summoner's Armor
+{{198758357-0-123965:}}Bone Armor
+{{198758357-0-124003:}}Shocking Siphon
+{{198758357-0-124004:}}Restoring Tether
+{{198758357-0-124005:}}Expunge
+{{198758357-0-124006:}}Bitter Harvest
+{{198758357-0-124136:}}Bitter Harvest
+{{198758357-0-124141:}}Bitter Harvest
+{{198758357-0-124165:}}Deaden Pain
+{{198758357-0-124166:}}Necrotic Potency
+{{198758357-0-124192:}}Necrotic Potency
+{{198758357-0-124193:}}Necrotic Potency
+{{198758357-0-124895:}}Death Scythe
+{{198758357-0-124896:}}Death Scythe
+{{198758357-0-129759:}}Bone Goliath Transformation
+{{198758357-0-130464:}}Bone Goliath Transformation
+{{198758357-0-131717:}}Bone Goliath Transformation
+{{198758357-0-131820:}}Blood Sacrifice
+{{198758357-0-131821:}}Blood Sacrifice
+{{198758357-0-133086:}}Bone Goliath Transformation
+{{198758357-0-133159:}}Bone Armor
+{{198758357-0-133224:}}Glacial Colossus
+{{198758357-0-133225:}}Glacial Colossus
+{{198758357-0-133227:}}Glacial Colossus
+{{198758357-0-133236:}}Glacial Colossus
+{{198758357-0-135971:}}Glacial Colossus
+{{198758357-0-135974:}}Glacial Colossus
+{{198758357-0-135976:}}Glacial Colossus
+{{198758357-0-138414:}}Reanimate
+{{198758357-0-138415:}}Reanimate
+{{198758357-0-138416:}}Reanimate
+{{198758357-0-138417:}}Reanimate
+{{198758357-0-138418:}}Reanimate
+{{198758357-0-138419:}}Reanimate
+{{198758357-0-138420:}}Reanimate
+{{198758357-0-138421:}}Reanimate
+{{198758357-0-138422:}}Reanimate
+{{198758357-0-138674:}}Bone Goliath Transformation
+{{198758357-0-138690:}}Reanimate
+{{198758357-0-138820:}}Reanimate
+{{198758357-0-138821:}}Reanimate
+{{198758357-0-138882:}}Reanimate
+{{198758357-0-140929:}}Blood Sacrifice
+{{198758357-0-140935:}}Blood Sacrifice
+{{198758357-0-140937:}}Blood Sacrifice
+{{198758357-0-140938:}}Blood Sacrifice
+{{198758357-0-141014:}}Blood Sacrifice
+{{198758357-0-141081:}}Reanimate
+{{198758357-0-143915:}}Grave Grasp
+{{198758357-0-143916:}}Grave Grasp
+{{198758357-0-143917:}}Grave Grasp
+{{198758357-0-143918:}}Grave Grasp
+{{198758357-0-143944:}}Ghostly Embrace
+{{198758357-0-143945:}}Ghostly Embrace
+{{198758357-0-143946:}}Ghostly Embrace
+{{198758357-0-143948:}}Empowering Grasp
+{{198758357-0-143949:}}Empowering Grasp
+{{198758357-0-148124:}}Blighted Blastbones
+{{198758357-0-148153:}}Bone Goliath Transformation
+{{198758357-0-151816:}}Blighted Blastbones
+{{198758357-0-152065:}}Bone Goliath Transformation
+{{198758357-0-152067:}}Bone Goliath Transformation
+{{198758357-0-157427:}}Bone Totem
+{{198758357-0-168469:}}Beckoning Armor
+{{198758357-0-172023:}}Skeletal Mage
+{{198758357-0-172026:}}Skeletal Mage
+{{198758357-0-173652:}}Skeletal Mage
+{{198758357-0-176368:}}Mortal Coil
+{{198758357-0-179548:}}Spirit Guardian
+{{198758357-0-179611:}}Spirit Guardian
+{{198758357-0-179638:}}Spirit Guardian
+{{198758357-0-195349:}}Expunge
+{{198758357-0-195350:}}Expunge
+{{198758357-0-195351:}}Expunge
+{{198758357-0-213159:}}Detonating Siphon
+{{198758357-0-213161:}}Expunge
+{{198758357-0-213163:}}Restoring Tether
+{{198758357-0-213167:}}Grave Grasp
+{{198758357-0-213294:}}Detonating Siphon
+{{198758357-0-213301:}}Grave Grasp
+{{198758357-0-213302:}}Grave Grasp
+{{198758357-0-213303:}}Grave Grasp
+{{198758357-0-213305:}}Grave Grasp
+{{198758357-0-213306:}}Grave Grasp
+{{198758357-0-213310:}}Grave Grasp
+{{198758357-0-213950:}}Restoring Tether
+{{198758357-0-213952:}}Restoring Tether
+{{198758357-0-214086:}}Ricochet Skull
+{{198758357-0-214087:}}Ricochet Skull
+{{198758357-0-214088:}}Ricochet Skull
+{{198758357-0-214089:}}Ricochet Skull
+{{198758357-0-214090:}}Ricochet Skull
+{{198758357-0-214091:}}Ricochet Skull
+{{198758357-0-214625:}}Blighted Blastbones
+{{198758357-0-214686:}}Sacrificial Bones
+{{198758357-0-214687:}}Sacrificial Bones
+{{198758357-0-214700:}}Sacrificial Bones
+{{198758357-0-217159:}}Grave Lord's Sacrifice
+{{198758357-0-220098:}}Grave Lord's Sacrifice
+{{198758357-0-220099:}}Grave Lord's Sacrifice
+{{198758357-0-220100:}}Grave Lord's Sacrifice
+{{198758357-0-220101:}}Grave Lord's Sacrifice
+{{198758357-0-220102:}}Grave Lord's Sacrifice
+{{198758357-0-220103:}}Grave Lord's Sacrifice
+{{198758357-0-220104:}}Grave Lord's Sacrifice
+{{198758357-0-220105:}}Grave Lord's Sacrifice
+{{198758357-0-220106:}}Grave Lord's Sacrifice
+{{198758357-0-222696:}}Death Knell
+{{198758357-0-222851:}}Death Knell
+{{198758357-0-223040:}}Death Knell
+{{198758357-0-223531:}}Death Knell
+{{198758357-0-223919:}}Flame Skull
+{{198758357-0-223920:}}Render Flesh
+{{198758357-0-223921:}}Death Scythe
+{{198758357-0-223922:}}Death Scythe
+{{198758357-0-224408:}}Death Knell
+{{198758357-0-224409:}}Death Knell
+{{198758357-0-230706:}}Death Knell
+{{198758357-0-230708:}}Death Knell
+{{198758357-0-237558:}}Sacrificial Bones
+{{198758357-0-237561:}}Detonating Siphon
+{{198758357-0-237562:}}Frozen Colossus
+{{198758357-0-238371:}}Expunge
+{{198758357-0-240688:}}Reanimate
+{{198758357-0-240692:}}Reanimate
+{{198758357-0-242269:}}Bone Armor
+{{198758357-0-242607:}}Bone Armor
+{{198758357-0-242645:}}Bone Armor
+{{198758357-0-243041:}}Reanimate
+{{198758357-0-243103:}}Reanimate
+{{198758357-0-243106:}}Reanimate
+{{198758357-0-243372:}}Bone Armor
+{{198758357-0-243373:}}Bone Armor
+{{198758357-0-243374:}}Bone Armor
+{{198758357-0-244497:}}Reanimate
+{{198758357-0-244505:}}Reanimate
+{{198758357-0-244607:}}Reanimate
+{{198758357-0-244608:}}Reanimate
+{{198758357-0-244609:}}Reanimate
+{{198758357-0-244610:}}Reanimate
+{{198758357-0-244864:}}Bone Armor
+{{198758357-0-244865:}}Bone Armor
+{{198758357-0-248620:}}Bone Armor
+{{198758357-0-248847:}}Blighted Blastbones
+{{198758357-0-249259:}}Bone Armor
+{{198758357-0-249538:}}Reanimate
+{{198758357-0-249977:}}Reanimate
+{{198758357-0-250393:}}Reanimate
+{{198758357-0-250394:}}Reanimate
+{{198758357-0-250892:}}Bone Armor
+{{198758357-0-250968:}}Flame Skull
+{{198758357-0-250969:}}Flame Skull
+{{198758357-0-250970:}}Flame Skull
+{{224768149-0-70:}}Blood Sacrifice

@@ -1,0 +1,701 @@
+{{5759525-7-13:}}Executioner
+{{7949764-0-38321:}}Shadow
+{{7949764-0-58157:}}Ambush
+{{7949764-0-75983:}}Ambush
+{{8290981-0-35007:}}Manifestation of Terror
+{{8290981-0-52353:}}Dark Shade
+{{8290981-0-55094:}}Shadow
+{{8290981-0-72532:}}Shadow
+{{8290981-0-79685:}}Shadow
+{{17915077-0-86:}}Assassin's Blade
+{{17915077-0-87:}}Teleport Strike
+{{17915077-0-88:}}Blur
+{{17915077-0-89:}}Strife
+{{17915077-0-90:}}Malevolent Offering
+{{17915077-0-91:}}Soul Shred
+{{17915077-0-92:}}Veiled Strike
+{{17915077-0-93:}}Summon Shade
+{{17915077-0-94:}}Shadow Cloak
+{{17915077-0-95:}}Death Stroke
+{{17915077-0-96:}}Grim Focus
+{{17915077-0-97:}}Mark Target
+{{17915077-0-98:}}Consuming Darkness
+{{17915077-0-99:}}Path of Darkness
+{{17915077-0-100:}}Cripple
+{{17915077-0-101:}}Drain Power
+{{17915077-0-102:}}Siphoning Strikes
+{{17915077-0-103:}}Aspect of Terror
+{{52420949-0-4133:}}Soul Harvest
+{{52420949-0-4675:}}Consuming Darkness
+{{68561141-0-223:}}Impale
+{{96069573-0-58:}}Shadow
+{{96069573-0-234:}}Mirage
+{{96962005-0-38:}}Assassination
+{{96962005-0-39:}}Shadow
+{{96962005-0-40:}}Siphoning
+{{108643301-0-38:}}Assassination
+{{108643301-0-39:}}Shadow
+{{108643301-0-40:}}Siphoning
+{{154419989-0-155:}}Grim Focus
+{{154419989-1-155:}}Relentless Focus
+{{154419989-2-155:}}Merciless Resolve
+{{161754069-0-17:}}Ambush
+{{162946485-0-18994:}}Ambush
+{{162946485-0-22004:}}Ambush
+{{162946485-0-22009:}}Ambush
+{{168675493-0-401:}}Ambush
+{{168675493-0-778:}}Ambush
+{{168675493-0-1543:}}Ambush
+{{168675493-0-1868:}}Ambush
+{{168675493-0-2418:}}Consuming Darkness
+{{168675493-0-4087:}}Ambush
+{{168675493-0-4438:}}Ambush
+{{168675493-0-4455:}}Ambush
+{{168675493-0-5514:}}Ambush
+{{168675493-0-5699:}}Ambush
+{{168675493-0-5859:}}Ambush
+{{198758357-0-6224:}}Executioner
+{{198758357-0-7271:}}Ambush
+{{198758357-0-9004:}}Ambush
+{{198758357-0-10248:}}Ambush
+{{198758357-0-10770:}}Executioner
+{{198758357-0-10771:}}Executioner
+{{198758357-0-10772:}}Executioner
+{{198758357-0-14350:}}Aspect of Terror
+{{198758357-0-18076:}}Impale
+{{198758357-0-18342:}}Teleport Strike
+{{198758357-0-18346:}}Teleport Strike
+{{198758357-0-18866:}}Shadow Barrier
+{{198758357-0-23061:}}Impale
+{{198758357-0-25091:}}Soul Shred
+{{198758357-0-25093:}}Soul Shred
+{{198758357-0-25168:}}Soul Shred
+{{198758357-0-25169:}}Soul Shred
+{{198758357-0-25255:}}Veiled Strike
+{{198758357-0-25260:}}Surprise Attack
+{{198758357-0-25267:}}Concealed Weapon
+{{198758357-0-25352:}}Aspect of Terror
+{{198758357-0-25375:}}Shadow Cloak
+{{198758357-0-25376:}}Shadow Cloak
+{{198758357-0-25377:}}Dark Cloak
+{{198758357-0-25380:}}Shadowy Disguise
+{{198758357-0-25381:}}Shadowy Disguise
+{{198758357-0-25411:}}Consuming Darkness
+{{198758357-0-25412:}}Consuming Darkness
+{{198758357-0-25444:}}Consuming Darkness
+{{198758357-0-25484:}}Ambush
+{{198758357-0-25485:}}Ambush
+{{198758357-0-25493:}}Lotus Fan
+{{198758357-0-25494:}}Lotus Fan
+{{198758357-0-26038:}}Hemorrhage
+{{198758357-0-29006:}}Executioner
+{{198758357-0-31244:}}Consuming Darkness
+{{198758357-0-33195:}}Path of Darkness
+{{198758357-0-33197:}}Path of Darkness
+{{198758357-0-33198:}}Path of Darkness
+{{198758357-0-33211:}}Summon Shade
+{{198758357-0-33290:}}Summon Shade
+{{198758357-0-33291:}}Strife
+{{198758357-0-33292:}}Strife
+{{198758357-0-33308:}}Malevolent Offering
+{{198758357-0-33316:}}Drain Power
+{{198758357-0-33319:}}Siphoning Strikes
+{{198758357-0-33321:}}Siphoning Strikes
+{{198758357-0-33326:}}Cripple
+{{198758357-0-33327:}}Cripple
+{{198758357-0-33333:}}Cripple
+{{198758357-0-33357:}}Mark Target
+{{198758357-0-33372:}}Mark Target
+{{198758357-0-33373:}}Mark Target
+{{198758357-0-33375:}}Blur
+{{198758357-0-33386:}}Assassin's Blade
+{{198758357-0-33398:}}Death Stroke
+{{198758357-0-33408:}}Mark Target
+{{198758357-0-34255:}}Shadow
+{{198758357-0-34260:}}Shadow
+{{198758357-0-34367:}}Shadow
+{{198758357-0-34721:}}Shrewd Offering
+{{198758357-0-34727:}}Healthy Offering
+{{198758357-0-34736:}}Concealed Weapon
+{{198758357-0-34738:}}Concealed Weapon
+{{198758357-0-34739:}}Concealed Weapon
+{{198758357-0-34835:}}Swallow Soul
+{{198758357-0-34836:}}Swallow Soul
+{{198758357-0-34838:}}Funnel Health
+{{198758357-0-34841:}}Funnel Health
+{{198758357-0-34843:}}Killer's Blade
+{{198758357-0-34851:}}Impale
+{{198758357-0-35336:}}Lotus Fan
+{{198758357-0-35414:}}Mirage
+{{198758357-0-35419:}}Phantasmal Escape
+{{198758357-0-35434:}}Dark Shade
+{{198758357-0-35438:}}Dark Shade
+{{198758357-0-35441:}}Shadow Image
+{{198758357-0-35442:}}Shadow Image
+{{198758357-0-35451:}}Shadow Image
+{{198758357-0-35460:}}Soul Tether
+{{198758357-0-35461:}}Soul Tether
+{{198758357-0-35462:}}Soul Tether
+{{198758357-0-35463:}}Soul Tether
+{{198758357-0-35464:}}Soul Tether
+{{198758357-0-35466:}}Soul Tether
+{{198758357-0-35469:}}Funnel Health
+{{198758357-0-35508:}}Soul Siphon
+{{198758357-0-35613:}}Soul Siphon
+{{198758357-0-35614:}}Soul Siphon
+{{198758357-0-35615:}}Soul Siphon
+{{198758357-0-35849:}}Shadow Cloak
+{{198758357-0-35850:}}Shadow Cloak
+{{198758357-0-36028:}}Refreshing Path
+{{198758357-0-36049:}}Twisting Path
+{{198758357-0-36052:}}Twisting Path
+{{198758357-0-36447:}}Assassin's Blade
+{{198758357-0-36460:}}Teleport Strike
+{{198758357-0-36470:}}Veiled Strike
+{{198758357-0-36471:}}Veiled Strike
+{{198758357-0-36485:}}Veil of Blades
+{{198758357-0-36487:}}Veil of Blades
+{{198758357-0-36488:}}Veil of Blades
+{{198758357-0-36490:}}Veil of Blades
+{{198758357-0-36493:}}Bolstering Darkness
+{{198758357-0-36495:}}Bolstering Darkness
+{{198758357-0-36496:}}Bolstering Darkness
+{{198758357-0-36508:}}Incapacitating Strike
+{{198758357-0-36514:}}Soul Harvest
+{{198758357-0-36532:}}Dark Vigor
+{{198758357-0-36549:}}Refreshing Shadows
+{{198758357-0-36552:}}Dark Veil
+{{198758357-0-36560:}}Catalyst
+{{198758357-0-36587:}}Transfer
+{{198758357-0-36589:}}Transfer
+{{198758357-0-36595:}}Magicka Flood
+{{198758357-0-36603:}}Soul Siphoner
+{{198758357-0-36606:}}Soul Tether
+{{198758357-0-36616:}}Master Assassin
+{{198758357-0-36630:}}Executioner
+{{198758357-0-36633:}}Executioner
+{{198758357-0-36636:}}Pressure Points
+{{198758357-0-36641:}}Hemorrhage
+{{198758357-0-36845:}}Shadow Cloak
+{{198758357-0-36891:}}Sap Essence
+{{198758357-0-36898:}}Sap Essence
+{{198758357-0-36899:}}Sap Essence
+{{198758357-0-36901:}}Power Extraction
+{{198758357-0-36908:}}Leeching Strikes
+{{198758357-0-36911:}}Leeching Strikes
+{{198758357-0-36912:}}Leeching Strikes
+{{198758357-0-36935:}}Siphoning Attacks
+{{198758357-0-36937:}}Siphoning Attacks
+{{198758357-0-36938:}}Siphoning Attacks
+{{198758357-0-36943:}}Debilitate
+{{198758357-0-36945:}}Debilitate
+{{198758357-0-36947:}}Debilitate
+{{198758357-0-36957:}}Crippling Grasp
+{{198758357-0-36958:}}Crippling Grasp
+{{198758357-0-36960:}}Crippling Grasp
+{{198758357-0-36963:}}Crippling Grasp
+{{198758357-0-36964:}}Crippling Grasp
+{{198758357-0-36967:}}Reaper's Mark
+{{198758357-0-36968:}}Piercing Mark
+{{198758357-0-36974:}}Reaper's Mark
+{{198758357-0-36975:}}Reaper's Mark
+{{198758357-0-36976:}}Reaper's Mark
+{{198758357-0-36982:}}Piercing Mark
+{{198758357-0-36983:}}Piercing Mark
+{{198758357-0-36984:}}Piercing Mark
+{{198758357-0-36994:}}Piercing Mark
+{{198758357-0-37084:}}Aspect of Terror
+{{198758357-0-37193:}}Shadowy Disguise
+{{198758357-0-37380:}}Path of Darkness
+{{198758357-0-37381:}}Twisting Path
+{{198758357-0-37470:}}Mass Hysteria
+{{198758357-0-37475:}}Manifestation of Terror
+{{198758357-0-38424:}}Summon Shade
+{{198758357-0-38517:}}Summon Shade
+{{198758357-0-38528:}}Shadow
+{{198758357-0-38691:}}Summon Shade
+{{198758357-0-38697:}}Summon Shade
+{{198758357-0-38819:}}Executioner
+{{198758357-0-41328:}}Summon Shade
+{{198758357-0-44198:}}Ambush
+{{198758357-0-44247:}}Dark Shade
+{{198758357-0-44250:}}Dark Shade
+{{198758357-0-44345:}}Soul Tether
+{{198758357-0-44346:}}Soul Tether
+{{198758357-0-44347:}}Soul Tether
+{{198758357-0-44349:}}Soul Tether
+{{198758357-0-44350:}}Soul Tether
+{{198758357-0-44352:}}Soul Tether
+{{198758357-0-45038:}}Master Assassin
+{{198758357-0-45048:}}Executioner
+{{198758357-0-45050:}}Executioner
+{{198758357-0-45053:}}Pressure Points
+{{198758357-0-45060:}}Hemorrhage
+{{198758357-0-45071:}}Shadow Barrier
+{{198758357-0-45084:}}Dark Vigor
+{{198758357-0-45103:}}Refreshing Shadows
+{{198758357-0-45115:}}Dark Veil
+{{198758357-0-45135:}}Catalyst
+{{198758357-0-45145:}}Transfer
+{{198758357-0-45146:}}Transfer
+{{198758357-0-45150:}}Magicka Flood
+{{198758357-0-45155:}}Soul Siphoner
+{{198758357-0-45655:}}Sap Essence
+{{198758357-0-46567:}}Teleport Strike
+{{198758357-0-46568:}}Teleport Strike
+{{198758357-0-46569:}}Teleport Strike
+{{198758357-0-48330:}}Aspect of Terror
+{{198758357-0-48331:}}Aspect of Terror
+{{198758357-0-48940:}}Ambush
+{{198758357-0-54049:}}Teleport Strike
+{{198758357-0-54210:}}Teleport Strike
+{{198758357-0-54211:}}Teleport Strike
+{{198758357-0-54212:}}Teleport Strike
+{{198758357-0-55477:}}Strife
+{{198758357-0-55478:}}Strife
+{{198758357-0-55485:}}Crippling Grasp
+{{198758357-0-55486:}}Cripple
+{{198758357-0-55487:}}Cripple
+{{198758357-0-55488:}}Cripple
+{{198758357-0-55489:}}Summon Shade
+{{198758357-0-55490:}}Cripple
+{{198758357-0-55491:}}Crippling Grasp
+{{198758357-0-55492:}}Crippling Grasp
+{{198758357-0-55493:}}Cripple
+{{198758357-0-55494:}}Power Extraction
+{{198758357-0-55495:}}Power Extraction
+{{198758357-0-55496:}}Power Extraction
+{{198758357-0-56838:}}Mark Target
+{{198758357-0-56839:}}Mark Target
+{{198758357-0-56840:}}Mark Target
+{{198758357-0-56841:}}Mark Target
+{{198758357-0-56842:}}Mark Target
+{{198758357-0-56843:}}Mark Target
+{{198758357-0-56844:}}Summon Shade
+{{198758357-0-56845:}}Mark Target
+{{198758357-0-57043:}}Aspect of Terror
+{{198758357-0-57309:}}Shadow Cloak
+{{198758357-0-57317:}}Shadow Cloak
+{{198758357-0-57318:}}Shadow Cloak
+{{198758357-0-57319:}}Shadow Cloak
+{{198758357-0-57774:}}Shadow Cloak
+{{198758357-0-57777:}}Shadow Cloak
+{{198758357-0-57793:}}Shadow Cloak
+{{198758357-0-57838:}}Shadow Cloak
+{{198758357-0-58143:}}Shadow Cloak
+{{198758357-0-58144:}}Shadow Cloak
+{{198758357-0-58192:}}Shadow Cloak
+{{198758357-0-58193:}}Shadow Cloak
+{{198758357-0-58194:}}Shadow Cloak
+{{198758357-0-58195:}}Shadow Cloak
+{{198758357-0-58468:}}Shadow Cloak
+{{198758357-0-59109:}}Shadow Cloak
+{{198758357-0-59110:}}Shadow Cloak
+{{198758357-0-59285:}}Teleport Strike
+{{198758357-0-59288:}}Teleport Strike
+{{198758357-0-59289:}}Teleport Strike
+{{198758357-0-59368:}}Shadow Cloak
+{{198758357-0-59611:}}Hemorrhage
+{{198758357-0-60400:}}Strife
+{{198758357-0-60401:}}Strife
+{{198758357-0-60631:}}Shadow Cloak
+{{198758357-0-60632:}}Shadow Cloak
+{{198758357-0-60633:}}Shadow Cloak
+{{198758357-0-61034:}}Shadow Cloak
+{{198758357-0-61389:}}Death Stroke
+{{198758357-0-61393:}}Incapacitating Strike
+{{198758357-0-61787:}}Killer's Blade
+{{198758357-0-61788:}}Killer's Blade
+{{198758357-0-61883:}}Hemorrhage
+{{198758357-0-61899:}}Hemorrhage
+{{198758357-0-61902:}}Grim Focus
+{{198758357-0-61905:}}Grim Focus
+{{198758357-0-61907:}}Grim Focus
+{{198758357-0-61908:}}Grim Focus
+{{198758357-0-61919:}}Merciless Resolve
+{{198758357-0-61920:}}Merciless Resolve
+{{198758357-0-61927:}}Relentless Focus
+{{198758357-0-61928:}}Relentless Focus
+{{198758357-0-61930:}}Merciless Resolve
+{{198758357-0-61931:}}Merciless Resolve
+{{198758357-0-61932:}}Relentless Focus
+{{198758357-0-61933:}}Relentless Focus
+{{198758357-0-62141:}}Shadowy Disguise
+{{198758357-0-63705:}}Catalyst
+{{198758357-0-63707:}}Catalyst
+{{198758357-0-63821:}}Teleport Strike
+{{198758357-0-63822:}}Teleport Strike
+{{198758357-0-63982:}}Path of Darkness
+{{198758357-0-64002:}}Refreshing Path
+{{198758357-0-64003:}}Refreshing Path
+{{198758357-0-64004:}}Refreshing Path
+{{198758357-0-64006:}}Refreshing Path
+{{198758357-0-64007:}}Refreshing Path
+{{198758357-0-65487:}}Shadow Cloak
+{{198758357-0-65851:}}Shadow Cloak
+{{198758357-0-66062:}}Teleport Strike
+{{198758357-0-66063:}}Teleport Strike
+{{198758357-0-66064:}}Teleport Strike
+{{198758357-0-67171:}}Impale
+{{198758357-0-70424:}}Teleport Strike
+{{198758357-0-70425:}}Teleport Strike
+{{198758357-0-70426:}}Teleport Strike
+{{198758357-0-70681:}}Ambush
+{{198758357-0-71648:}}Shadow Cloak
+{{198758357-0-71649:}}Shadow Cloak
+{{198758357-0-71650:}}Shadow Cloak
+{{198758357-0-71651:}}Veiled Strike
+{{198758357-0-71652:}}Veiled Strike
+{{198758357-0-72221:}}Shadow Cloak
+{{198758357-0-72222:}}Shadow Cloak
+{{198758357-0-72225:}}Shadow Cloak
+{{198758357-0-73653:}}Ambush
+{{198758357-0-73712:}}Shadow Cloak
+{{198758357-0-73713:}}Shadow Cloak
+{{198758357-0-73714:}}Shadow Cloak
+{{198758357-0-75094:}}Soul Tether
+{{198758357-0-75275:}}Aspect of Terror
+{{198758357-0-75276:}}Aspect of Terror
+{{198758357-0-75277:}}Teleport Strike
+{{198758357-0-75278:}}Shadow Cloak
+{{198758357-0-75279:}}Shadow Cloak
+{{198758357-0-75280:}}Shadow Cloak
+{{198758357-0-75281:}}Soul Tether
+{{198758357-0-75282:}}Soul Tether
+{{198758357-0-75283:}}Soul Tether
+{{198758357-0-75284:}}Soul Tether
+{{198758357-0-75285:}}Soul Tether
+{{198758357-0-75286:}}Soul Tether
+{{198758357-0-75287:}}Soul Tether
+{{198758357-0-75433:}}Teleport Strike
+{{198758357-0-76108:}}Shadow Cloak
+{{198758357-0-76628:}}Manifestation of Terror
+{{198758357-0-76630:}}Manifestation of Terror
+{{198758357-0-76632:}}Manifestation of Terror
+{{198758357-0-76634:}}Manifestation of Terror
+{{198758357-0-76635:}}Manifestation of Terror
+{{198758357-0-76636:}}Manifestation of Terror
+{{198758357-0-76637:}}Manifestation of Terror
+{{198758357-0-76639:}}Manifestation of Terror
+{{198758357-0-77712:}}Assassination
+{{198758357-0-77756:}}Shadow Cloak
+{{198758357-0-77757:}}Shadowy Disguise
+{{198758357-0-79047:}}Shadow Cloak
+{{198758357-0-79064:}}Veil of Blades
+{{198758357-0-79065:}}Veil of Blades
+{{198758357-0-79067:}}Veil of Blades
+{{198758357-0-80439:}}Aspect of Terror
+{{198758357-0-81220:}}Lotus Fan
+{{198758357-0-82568:}}Shadow Cloak
+{{198758357-0-82569:}}Shadow Cloak
+{{198758357-0-82570:}}Shadow Cloak
+{{198758357-0-82571:}}Shadow Cloak
+{{198758357-0-82693:}}Ambush
+{{198758357-0-82694:}}Ambush
+{{198758357-0-82697:}}Ambush
+{{198758357-0-82707:}}Ambush
+{{198758357-0-83975:}}Teleport Strike
+{{198758357-0-84432:}}Shadow Cloak
+{{198758357-0-84632:}}Teleport Strike
+{{198758357-0-84636:}}Teleport Strike
+{{198758357-0-84854:}}Teleport Strike
+{{198758357-0-84855:}}Teleport Strike
+{{198758357-0-88655:}}Pressure Points
+{{198758357-0-88656:}}Pressure Points
+{{198758357-0-88658:}}Shadow Barrier
+{{198758357-0-88659:}}Shadow Barrier
+{{198758357-0-88662:}}Summon Shade
+{{198758357-0-88663:}}Summon Shade
+{{198758357-0-88677:}}Dark Shade
+{{198758357-0-88678:}}Dark Shade
+{{198758357-0-88696:}}Shadow
+{{198758357-0-88697:}}Shadow
+{{198758357-0-89003:}}Dark Shade
+{{198758357-0-89004:}}Dark Shade
+{{198758357-0-89005:}}Dark Shade
+{{198758357-0-89006:}}Dark Shade
+{{198758357-0-89007:}}Dark Shade
+{{198758357-0-89008:}}Dark Shade
+{{198758357-0-89009:}}Dark Shade
+{{198758357-0-89013:}}Dark Shade
+{{198758357-0-89014:}}Dark Shade
+{{198758357-0-89015:}}Dark Shade
+{{198758357-0-89016:}}Dark Shade
+{{198758357-0-89017:}}Dark Shade
+{{198758357-0-89020:}}Shadow Cloak
+{{198758357-0-89032:}}Shadow Cloak
+{{198758357-0-89033:}}Shadow Cloak
+{{198758357-0-89034:}}Shadow Cloak
+{{198758357-0-89454:}}Dark Shade
+{{198758357-0-89455:}}Dark Shade
+{{198758357-0-91196:}}Shadow Cloak
+{{198758357-0-91197:}}Shadow Cloak
+{{198758357-0-91198:}}Shadow Cloak
+{{198758357-0-91199:}}Piercing Mark
+{{198758357-0-91201:}}Mark Target
+{{198758357-0-91202:}}Summon Shade
+{{198758357-0-91203:}}Piercing Mark
+{{198758357-0-91205:}}Mark Target
+{{198758357-0-91206:}}Funnel Health
+{{198758357-0-91207:}}Funnel Health
+{{198758357-0-91208:}}Funnel Health
+{{198758357-0-91209:}}Funnel Health
+{{198758357-0-91210:}}Funnel Health
+{{198758357-0-91789:}}Ambush
+{{198758357-0-95721:}}Teleport Strike
+{{198758357-0-95723:}}Teleport Strike
+{{198758357-0-95724:}}Teleport Strike
+{{198758357-0-95895:}}Leeching Strikes
+{{198758357-0-95908:}}Siphoning Attacks
+{{198758357-0-96689:}}Leeching Strikes
+{{198758357-0-96691:}}Leeching Strikes
+{{198758357-0-96692:}}Leeching Strikes
+{{198758357-0-96696:}}Leeching Strikes
+{{198758357-0-96713:}}Siphoning Strikes
+{{198758357-0-96714:}}Siphoning Strikes
+{{198758357-0-96715:}}Siphoning Strikes
+{{198758357-0-98374:}}Teleport Strike
+{{198758357-0-99138:}}Teleport Strike
+{{198758357-0-101435:}}Executioner
+{{198758357-0-101436:}}Executioner
+{{198758357-0-102091:}}Hemorrhage
+{{198758357-0-102201:}}Shadow
+{{198758357-0-102202:}}Shadow Image
+{{198758357-0-104184:}}Shadow Image
+{{198758357-0-104185:}}Shadow Image
+{{198758357-0-105586:}}Hemorrhage
+{{198758357-0-105594:}}Hemorrhage
+{{198758357-0-105595:}}Hemorrhage
+{{198758357-0-105596:}}Hemorrhage
+{{198758357-0-106133:}}Soul Siphon
+{{198758357-0-106134:}}Soul Siphon
+{{198758357-0-107028:}}Grim Focus
+{{198758357-0-107054:}}Relentless Focus
+{{198758357-0-107055:}}Merciless Resolve
+{{198758357-0-107282:}}Impale
+{{198758357-0-107284:}}Impale
+{{198758357-0-107299:}}Impale
+{{198758357-0-107678:}}Teleport Strike
+{{198758357-0-107735:}}Teleport Strike
+{{198758357-0-107736:}}Teleport Strike
+{{198758357-0-108780:}}Hemorrhage
+{{198758357-0-108925:}}Malevolent Offering
+{{198758357-0-108927:}}Shrewd Offering
+{{198758357-0-108932:}}Healthy Offering
+{{198758357-0-108940:}}Dark Shade
+{{198758357-0-110001:}}Teleport Strike
+{{198758357-0-110007:}}Teleport Strike
+{{198758357-0-110009:}}Teleport Strike
+{{198758357-0-110010:}}Teleport Strike
+{{198758357-0-110011:}}Teleport Strike
+{{198758357-0-110012:}}Teleport Strike
+{{198758357-0-110013:}}Teleport Strike
+{{198758357-0-110016:}}Teleport Strike
+{{198758357-0-110021:}}Teleport Strike
+{{198758357-0-111256:}}Surprise Attack
+{{198758357-0-111258:}}Surprise Attack
+{{198758357-0-111260:}}Surprise Attack
+{{198758357-0-111261:}}Surprise Attack
+{{198758357-0-111347:}}Surprise Attack
+{{198758357-0-111348:}}Surprise Attack
+{{198758357-0-112584:}}Teleport Strike
+{{198758357-0-113105:}}Incapacitating Strike
+{{198758357-0-113107:}}Incapacitating Strike
+{{198758357-0-114957:}}Siphoning Strikes
+{{198758357-0-114958:}}Siphoning Strikes
+{{198758357-0-114963:}}Leeching Strikes
+{{198758357-0-114964:}}Leeching Strikes
+{{198758357-0-114965:}}Leeching Strikes
+{{198758357-0-114968:}}Siphoning Attacks
+{{198758357-0-114969:}}Siphoning Attacks
+{{198758357-0-114970:}}Siphoning Strikes
+{{198758357-0-115037:}}Strife
+{{198758357-0-122585:}}Grim Focus
+{{198758357-0-122586:}}Merciless Resolve
+{{198758357-0-122587:}}Relentless Focus
+{{198758357-0-123188:}}Soul Tether
+{{198758357-0-125024:}}Mass Hysteria
+{{198758357-0-125025:}}Aspect of Terror
+{{198758357-0-125314:}}Phantasmal Escape
+{{198758357-0-126444:}}Incapacitating Strike
+{{198758357-0-128611:}}Shadow Cloak
+{{198758357-0-128612:}}Shadow Cloak
+{{198758357-0-128613:}}Shadow Cloak
+{{198758357-0-128630:}}Shadow Cloak
+{{198758357-0-129384:}}Soul Tether
+{{198758357-0-129717:}}Siphoning Strikes
+{{198758357-0-129718:}}Siphoning Strikes
+{{198758357-0-131450:}}Aspect of Terror
+{{198758357-0-131451:}}Aspect of Terror
+{{198758357-0-131750:}}Blur
+{{198758357-0-131753:}}Blur
+{{198758357-0-131755:}}Blur
+{{198758357-0-131756:}}Blur
+{{198758357-0-131757:}}Blur
+{{198758357-0-131760:}}Blur
+{{198758357-0-132927:}}Hemorrhage
+{{198758357-0-132929:}}Hemorrhage
+{{198758357-0-132934:}}Hemorrhage
+{{198758357-0-132935:}}Hemorrhage
+{{198758357-0-132936:}}Hemorrhage
+{{198758357-0-135572:}}Blur
+{{198758357-0-137148:}}Veiled Strike
+{{198758357-0-137150:}}Shadow Cloak
+{{198758357-0-137152:}}Veiled Strike
+{{198758357-0-137661:}}Soul Tether
+{{198758357-0-138382:}}Shadow Cloak
+{{198758357-0-140619:}}Hemorrhage
+{{198758357-0-147374:}}Blur
+{{198758357-0-147376:}}Blur
+{{198758357-0-147377:}}Blur
+{{198758357-0-147378:}}Blur
+{{198758357-0-147379:}}Blur
+{{198758357-0-149240:}}Veiled Strike
+{{198758357-0-149241:}}Shadow Cloak
+{{198758357-0-149242:}}Veiled Strike
+{{198758357-0-149243:}}Shadow Cloak
+{{198758357-0-150720:}}Hemorrhage
+{{198758357-0-151481:}}Summon Shade
+{{198758357-0-151493:}}Summon Shade
+{{198758357-0-151494:}}Summon Shade
+{{198758357-0-151593:}}Summon Shade
+{{198758357-0-151832:}}Summon Shade
+{{198758357-0-151835:}}Summon Shade
+{{198758357-0-155467:}}Teleport Strike
+{{198758357-0-155983:}}Ambush
+{{198758357-0-157838:}}Impale
+{{198758357-0-164610:}}Soul Tether
+{{198758357-0-164611:}}Soul Tether
+{{198758357-0-164612:}}Soul Tether
+{{198758357-0-167531:}}Summon Shade
+{{198758357-0-167532:}}Summon Shade
+{{198758357-0-167617:}}Summon Shade
+{{198758357-0-167756:}}Summon Shade
+{{198758357-0-167799:}}Summon Shade
+{{198758357-0-168495:}}Summon Shade
+{{198758357-0-168601:}}Summon Shade
+{{198758357-0-170483:}}Summon Shade
+{{198758357-0-170615:}}Shadow Cloak
+{{198758357-0-170616:}}Shadow Cloak
+{{198758357-0-170694:}}Summon Shade
+{{198758357-0-172824:}}Cripple
+{{198758357-0-172882:}}Teleport Strike
+{{198758357-0-173405:}}Crippling Grasp
+{{198758357-0-173406:}}Crippling Grasp
+{{198758357-0-174375:}}Teleport Strike
+{{198758357-0-174681:}}Soul Tether
+{{198758357-0-174682:}}Soul Tether
+{{198758357-0-174683:}}Soul Tether
+{{198758357-0-174684:}}Soul Tether
+{{198758357-0-174685:}}Soul Tether
+{{198758357-0-174686:}}Soul Tether
+{{198758357-0-174687:}}Soul Tether
+{{198758357-0-174688:}}Soul Tether
+{{198758357-0-174697:}}Aspect of Terror
+{{198758357-0-174698:}}Aspect of Terror
+{{198758357-0-175630:}}Teleport Strike
+{{198758357-0-177229:}}Blur
+{{198758357-0-177242:}}Mirage
+{{198758357-0-177244:}}Phantasmal Escape
+{{198758357-0-177248:}}Aspect of Terror
+{{198758357-0-177250:}}Mass Hysteria
+{{198758357-0-179209:}}Cripple
+{{198758357-0-179210:}}Crippling Grasp
+{{198758357-0-179212:}}Crippling Grasp
+{{198758357-0-181942:}}Dark Cloak
+{{198758357-0-183807:}}Hemorrhage
+{{198758357-0-184891:}}Summon Shade
+{{198758357-0-185316:}}Hemorrhage
+{{198758357-0-185317:}}Hemorrhage
+{{198758357-0-186593:}}Teleport Strike
+{{198758357-0-186594:}}Teleport Strike
+{{198758357-0-187419:}}Aspect of Terror
+{{198758357-0-187750:}}Teleport Strike
+{{198758357-0-187753:}}Teleport Strike
+{{198758357-0-188082:}}Mark Target
+{{198758357-0-188088:}}Mark Target
+{{198758357-0-190226:}}Teleport Strike
+{{198758357-0-190575:}}Teleport Strike
+{{198758357-0-190576:}}Teleport Strike
+{{198758357-0-191845:}}Impale
+{{198758357-0-192864:}}Shadow Cloak
+{{198758357-0-192865:}}Shadow Cloak
+{{198758357-0-192869:}}Shadow Cloak
+{{198758357-0-192870:}}Shadow Cloak
+{{198758357-0-192871:}}Shadow Cloak
+{{198758357-0-192872:}}Shadow Cloak
+{{198758357-0-192873:}}Shadow Cloak
+{{198758357-0-192874:}}Shadow Cloak
+{{198758357-0-193084:}}Shadow Cloak
+{{198758357-0-193085:}}Shadow Cloak
+{{198758357-0-195775:}}Teleport Strike
+{{198758357-0-201627:}}Incapacitating Strike
+{{198758357-0-201822:}}Aspect of Terror
+{{198758357-0-201823:}}Aspect of Terror
+{{198758357-0-203424:}}Relentless Focus
+{{198758357-0-203425:}}Relentless Focus
+{{198758357-0-203431:}}Grim Focus
+{{198758357-0-203432:}}Grim Focus
+{{198758357-0-203433:}}Merciless Resolve
+{{198758357-0-203434:}}Merciless Resolve
+{{198758357-0-203480:}}Impale
+{{198758357-0-203482:}}Impale
+{{198758357-0-203525:}}Teleport Strike
+{{198758357-0-203527:}}Teleport Strike
+{{198758357-0-211559:}}Ambush
+{{198758357-0-215493:}}Siphoning Attacks
+{{198758357-0-215494:}}Siphoning Attacks
+{{198758357-0-215651:}}Siphoning Attacks
+{{198758357-0-215652:}}Siphoning Attacks
+{{198758357-0-215669:}}Leeching Strikes
+{{198758357-0-215671:}}Leeching Strikes
+{{198758357-0-215672:}}Leeching Strikes
+{{198758357-0-227845:}}Hemorrhage
+{{198758357-0-228663:}}Shadow Barrier
+{{198758357-0-229782:}}Shadow Cloak
+{{198758357-0-235280:}}Veiled Strike
+{{198758357-0-235281:}}Shadow Cloak
+{{198758357-0-235282:}}Veiled Strike
+{{198758357-0-235283:}}Shadow Cloak
+{{198758357-0-235617:}}Shadow Cloak
+{{198758357-0-235631:}}Shadowy Disguise
+{{198758357-0-238778:}}Teleport Strike
+{{198758357-0-238780:}}Teleport Strike
+{{198758357-0-238782:}}Ambush
+{{198758357-0-238793:}}Shadow Cloak
+{{198758357-0-238794:}}Shadow Cloak
+{{198758357-0-238795:}}Shadow Cloak
+{{198758357-0-238796:}}Shadow Cloak
+{{198758357-0-239196:}}Hemorrhage
+{{198758357-0-239202:}}Hemorrhage
+{{198758357-0-239205:}}Hemorrhage
+{{198758357-0-241548:}}Soul Siphon
+{{198758357-0-243211:}}Teleport Strike
+{{198758357-0-243217:}}Teleport Strike
+{{198758357-0-243473:}}Shadow Cloak
+{{198758357-0-243474:}}Shadow Cloak
+{{198758357-0-243766:}}Magicka Flood
+{{198758357-0-243767:}}Magicka Flood
+{{198758357-0-244986:}}Grim Focus
+{{198758357-0-244987:}}Grim Focus
+{{198758357-0-244989:}}Grim Focus
+{{198758357-0-245318:}}Aspect of Terror
+{{198758357-0-245320:}}Aspect of Terror
+{{198758357-0-247637:}}Veiled Strike
+{{198758357-0-247638:}}Shadow Cloak
+{{198758357-0-247639:}}Veiled Strike
+{{198758357-0-247640:}}Shadow Cloak
+{{198758357-0-249227:}}Veiled Strike
+{{198758357-0-249228:}}Shadow Cloak
+{{198758357-0-249229:}}Shadow Cloak
+{{198758357-0-249230:}}Veiled Strike
+{{198758357-0-252760:}}Grim Focus
+{{198758357-0-252761:}}Grim Focus
+{{198758357-0-252762:}}Grim Focus
+{{198758357-0-252763:}}Grim Focus
+{{198758357-0-252764:}}Grim Focus
+{{215700677-0-59:}}Executioner
+{{221887989-0-59:}}Executioner
+{{222921557-0-155:}}Grim Focus
+{{244845717-0-155:}}Relentless Focus
+{{244874389-0-155:}}Merciless Resolve

@@ -1,0 +1,717 @@
+{{8290981-0-32351:}}Ball of Lightning
+{{8290981-0-32558:}}Greater Storm Atronach
+{{8290981-0-76592:}}Capacitor
+{{17915077-0-1:}}Mages' Fury
+{{17915077-0-50:}}Daedric Mines
+{{17915077-0-51:}}Bolt Escape
+{{17915077-0-53:}}Lightning Splash
+{{17915077-0-54:}}Overload
+{{17915077-0-55:}}Summon Unstable Familiar
+{{17915077-0-57:}}Summon Storm Atronach
+{{17915077-0-58:}}Dark Exchange
+{{17915077-0-59:}}Surge
+{{17915077-0-60:}}Lightning Form
+{{17915077-0-62:}}Bound Armor
+{{17915077-0-63:}}Encase
+{{17915077-0-64:}}Rune Prison
+{{17915077-0-65:}}Negate Magic
+{{17915077-0-68:}}Conjured Ward
+{{17915077-0-69:}}Daedric Curse
+{{17915077-0-70:}}Summon Winged Twilight
+{{17915077-0-329:}}Crystal Shard
+{{17915077-0-831:}}Crystal Shard
+{{17915077-0-833:}}Encase
+{{17915077-0-851:}}Rune Prison
+{{17915077-0-852:}}Dark Exchange
+{{17915077-0-853:}}Daedric Mines
+{{17915077-0-855:}}Summon Unstable Familiar
+{{17915077-0-856:}}Daedric Curse
+{{17915077-0-858:}}Conjured Ward
+{{17915077-0-859:}}Bound Armor
+{{17915077-0-860:}}Summon Storm Atronach
+{{17915077-0-861:}}Mages' Fury
+{{17915077-0-862:}}Lightning Form
+{{17915077-0-863:}}Lightning Splash
+{{17915077-0-864:}}Surge
+{{17915077-0-865:}}Bolt Escape
+{{87370069-0-17726:}}Crystal Fragments
+{{96962005-0-41:}}Dark Magic
+{{96962005-0-42:}}Daedric Summoning
+{{96962005-0-43:}}Storm Calling
+{{108643301-0-41:}}Dark Magic
+{{108643301-0-42:}}Daedric Summoning
+{{108643301-0-43:}}Storm Calling
+{{154419989-0-64:}}Summon Winged Twilight
+{{154419989-1-64:}}Summon Twilight Tormentor
+{{154419989-2-64:}}Summon Twilight Matriarch
+{{198758357-0-4737:}}Encase
+{{198758357-0-5540:}}Hurricane
+{{198758357-0-15469:}}Surge
+{{198758357-0-16040:}}Hurricane
+{{198758357-0-16734:}}Streak
+{{198758357-0-16735:}}Streak
+{{198758357-0-18718:}}Mages' Fury
+{{198758357-0-18719:}}Mages' Fury
+{{198758357-0-18745:}}Mages' Fury
+{{198758357-0-18746:}}Mages' Fury
+{{198758357-0-19109:}}Endless Fury
+{{198758357-0-19117:}}Endless Fury
+{{198758357-0-19118:}}Endless Fury
+{{198758357-0-19120:}}Endless Fury
+{{198758357-0-19123:}}Mages' Wrath
+{{198758357-0-19124:}}Mages' Wrath
+{{198758357-0-19125:}}Mages' Wrath
+{{198758357-0-19128:}}Mages' Wrath
+{{198758357-0-23182:}}Lightning Splash
+{{198758357-0-23189:}}Lightning Splash
+{{198758357-0-23194:}}Lightning Splash
+{{198758357-0-23200:}}Liquid Lightning
+{{198758357-0-23202:}}Liquid Lightning
+{{198758357-0-23203:}}Liquid Lightning
+{{198758357-0-23205:}}Lightning Flood
+{{198758357-0-23206:}}Lightning Flood
+{{198758357-0-23208:}}Lightning Flood
+{{198758357-0-23210:}}Lightning Form
+{{198758357-0-23211:}}Lightning Form
+{{198758357-0-23213:}}Boundless Storm
+{{198758357-0-23214:}}Boundless Storm
+{{198758357-0-23231:}}Hurricane
+{{198758357-0-23232:}}Hurricane
+{{198758357-0-23234:}}Bolt Escape
+{{198758357-0-23235:}}Bolt Escape
+{{198758357-0-23236:}}Streak
+{{198758357-0-23239:}}Streak
+{{198758357-0-23277:}}Ball of Lightning
+{{198758357-0-23279:}}Ball Of Lightning
+{{198758357-0-23304:}}Summon Unstable Familiar
+{{198758357-0-23316:}}Summon Volatile Familiar
+{{198758357-0-23319:}}Summon Unstable Clannfear
+{{198758357-0-23492:}}Greater Storm Atronach
+{{198758357-0-23495:}}Summon Charged Atronach
+{{198758357-0-23634:}}Summon Storm Atronach
+{{198758357-0-23636:}}Summon Storm Atronach
+{{198758357-0-23639:}}Summon Storm Atronach
+{{198758357-0-23658:}}Summon Storm Atronach
+{{198758357-0-23659:}}Summon Storm Atronach
+{{198758357-0-23662:}}Greater Storm Atronach
+{{198758357-0-23663:}}Greater Storm Atronach
+{{198758357-0-23665:}}Greater Storm Atronach
+{{198758357-0-23666:}}Summon Charged Atronach
+{{198758357-0-23667:}}Summon Charged Atronach
+{{198758357-0-23668:}}Summon Charged Atronach
+{{198758357-0-23669:}}Summon Charged Atronach
+{{198758357-0-23670:}}Surge
+{{198758357-0-23674:}}Power Surge
+{{198758357-0-23678:}}Critical Surge
+{{198758357-0-23682:}}Critical Surge
+{{198758357-0-24158:}}Bound Armor
+{{198758357-0-24163:}}Bound Aegis
+{{198758357-0-24165:}}Bound Armaments
+{{198758357-0-24326:}}Daedric Curse
+{{198758357-0-24327:}}Daedric Curse
+{{198758357-0-24328:}}Daedric Prey
+{{198758357-0-24329:}}Daedric Prey
+{{198758357-0-24330:}}Haunting Curse
+{{198758357-0-24331:}}Haunting Curse
+{{198758357-0-24371:}}Rune Prison
+{{198758357-0-24559:}}Rune Prison
+{{198758357-0-24574:}}Defensive Rune
+{{198758357-0-24576:}}Defensive Rune
+{{198758357-0-24578:}}Rune Cage
+{{198758357-0-24581:}}Rune Cage
+{{198758357-0-24584:}}Dark Exchange
+{{198758357-0-24585:}}Dark Exchange
+{{198758357-0-24589:}}Dark Conversion
+{{198758357-0-24591:}}Dark Conversion
+{{198758357-0-24595:}}Dark Deal
+{{198758357-0-24596:}}Dark Deal
+{{198758357-0-24613:}}Summon Winged Twilight
+{{198758357-0-24617:}}Summon Winged Twilight
+{{198758357-0-24636:}}Summon Twilight Tormentor
+{{198758357-0-24639:}}Summon Twilight Matriarch
+{{198758357-0-24739:}}Summon Winged Twilight
+{{198758357-0-24741:}}Summon Twilight Tormentor
+{{198758357-0-24785:}}Overload
+{{198758357-0-24799:}}Overload
+{{198758357-0-24804:}}Energy Overload
+{{198758357-0-24805:}}Energy Overload
+{{198758357-0-24806:}}Power Overload
+{{198758357-0-24808:}}Power Overload
+{{198758357-0-24828:}}Daedric Mines
+{{198758357-0-24829:}}Daedric Mines
+{{198758357-0-24830:}}Daedric Mines
+{{198758357-0-24832:}}Daedric Mines
+{{198758357-0-24833:}}Daedric Mines
+{{198758357-0-24834:}}Daedric Refuge
+{{198758357-0-24842:}}Daedric Tomb
+{{198758357-0-24843:}}Daedric Tomb
+{{198758357-0-24844:}}Daedric Tomb
+{{198758357-0-24846:}}Daedric Tomb
+{{198758357-0-24847:}}Daedric Tomb
+{{198758357-0-25144:}}Daedric Mines
+{{198758357-0-25155:}}Daedric Refuge
+{{198758357-0-25157:}}Daedric Refuge
+{{198758357-0-25158:}}Daedric Refuge
+{{198758357-0-25159:}}Daedric Refuge
+{{198758357-0-25160:}}Daedric Refuge
+{{198758357-0-25161:}}Daedric Refuge
+{{198758357-0-25162:}}Daedric Refuge
+{{198758357-0-25193:}}Daedric Refuge
+{{198758357-0-25195:}}Daedric Tomb
+{{198758357-0-26833:}}Summon Storm Atronach
+{{198758357-0-26836:}}Summon Storm Atronach
+{{198758357-0-26837:}}Summon Storm Atronach
+{{198758357-0-26838:}}Summon Storm Atronach
+{{198758357-0-26839:}}Summon Storm Atronach
+{{198758357-0-26849:}}Summon Storm Atronach
+{{198758357-0-26850:}}Summon Storm Atronach
+{{198758357-0-26851:}}Summon Storm Atronach
+{{198758357-0-26852:}}Summon Storm Atronach
+{{198758357-0-26853:}}Summon Storm Atronach
+{{198758357-0-26854:}}Summon Storm Atronach
+{{198758357-0-26855:}}Summon Storm Atronach
+{{198758357-0-27706:}}Negate Magic
+{{198758357-0-27935:}}Daedric Mines
+{{198758357-0-27941:}}Negate Magic
+{{198758357-0-28025:}}Encase
+{{198758357-0-28027:}}Summon Winged Twilight
+{{198758357-0-28169:}}Daedric Curse
+{{198758357-0-28175:}}Daedric Prey
+{{198758357-0-28176:}}Haunting Curse
+{{198758357-0-28308:}}Shattering Spines
+{{198758357-0-28309:}}Shattering Spines
+{{198758357-0-28311:}}Vibrant Shroud
+{{198758357-0-28341:}}Suppression Field
+{{198758357-0-28343:}}Suppression Field
+{{198758357-0-28348:}}Absorption Field
+{{198758357-0-28351:}}Absorption Field
+{{198758357-0-28418:}}Conjured Ward
+{{198758357-0-28421:}}Conjured Ward
+{{198758357-0-28452:}}Daedric Tomb
+{{198758357-0-28466:}}Daedric Tomb
+{{198758357-0-28482:}}Streak
+{{198758357-0-28832:}}Conjured Ward
+{{198758357-0-29268:}}Haunting Curse
+{{198758357-0-29482:}}Regenerative Ward
+{{198758357-0-29483:}}Regenerative Ward
+{{198758357-0-29484:}}Regenerative Ward
+{{198758357-0-29489:}}Hardened Ward
+{{198758357-0-29490:}}Hardened Ward
+{{198758357-0-29491:}}Hardened Ward
+{{198758357-0-29740:}}Energy Overload
+{{198758357-0-29823:}}Negate Magic
+{{198758357-0-29824:}}Negate Magic
+{{198758357-0-29826:}}Negate Magic
+{{198758357-0-31378:}}Persistence
+{{198758357-0-31383:}}Blood Magic
+{{198758357-0-31384:}}Blood Magic
+{{198758357-0-31386:}}Unholy Knowledge
+{{198758357-0-31389:}}Exploitation
+{{198758357-0-31396:}}Power Stone
+{{198758357-0-31398:}}Rebate
+{{198758357-0-31412:}}Expert Summoner
+{{198758357-0-31417:}}Daedric Protection
+{{198758357-0-31419:}}Capacitor
+{{198758357-0-31421:}}Energized
+{{198758357-0-31422:}}Amplitude
+{{198758357-0-31425:}}Expert Mage
+{{198758357-0-35561:}}Encase
+{{198758357-0-43714:}}Crystal Shard
+{{198758357-0-43759:}}Encase
+{{198758357-0-43760:}}Encase
+{{198758357-0-43761:}}Encase
+{{198758357-0-43780:}}Shattering Spines
+{{198758357-0-43781:}}Shattering Spines
+{{198758357-0-43782:}}Shattering Spines
+{{198758357-0-43792:}}Vibrant Shroud
+{{198758357-0-43793:}}Vibrant Shroud
+{{198758357-0-43794:}}Vibrant Shroud
+{{198758357-0-44216:}}Negate Magic
+{{198758357-0-44407:}}Lightning Form
+{{198758357-0-44408:}}Lightning Form
+{{198758357-0-44409:}}Lightning Form
+{{198758357-0-44483:}}Mages' Fury
+{{198758357-0-44487:}}Mages' Wrath
+{{198758357-0-44491:}}Endless Fury
+{{198758357-0-44507:}}Daedric Curse
+{{198758357-0-44511:}}Daedric Prey
+{{198758357-0-44515:}}Haunting Curse
+{{198758357-0-45165:}}Persistence
+{{198758357-0-45172:}}Blood Magic
+{{198758357-0-45173:}}Blood Magic
+{{198758357-0-45176:}}Unholy Knowledge
+{{198758357-0-45181:}}Exploitation
+{{198758357-0-45188:}}Capacitor
+{{198758357-0-45190:}}Energized
+{{198758357-0-45192:}}Amplitude
+{{198758357-0-45195:}}Expert Mage
+{{198758357-0-45196:}}Power Stone
+{{198758357-0-45198:}}Rebate
+{{198758357-0-45199:}}Expert Summoner
+{{198758357-0-45200:}}Daedric Protection
+{{198758357-0-46324:}}Crystal Fragments
+{{198758357-0-46326:}}Crystal Fragments
+{{198758357-0-46327:}}Crystal Fragments
+{{198758357-0-46331:}}Crystal Weapon
+{{198758357-0-46335:}}Crystal Shard
+{{198758357-0-46711:}}Bound Aegis
+{{198758357-0-46712:}}Bound Armor
+{{198758357-0-47147:}}Negate Magic
+{{198758357-0-47159:}}Suppression Field
+{{198758357-0-47160:}}Suppression Field
+{{198758357-0-47167:}}Absorption Field
+{{198758357-0-47168:}}Absorption Field
+{{198758357-0-47318:}}Encase
+{{198758357-0-47319:}}Encase
+{{198758357-0-47320:}}Encase
+{{198758357-0-50106:}}Negate Magic
+{{198758357-0-50107:}}Negate Magic
+{{198758357-0-50108:}}Negate Magic
+{{198758357-0-50346:}}Hurricane
+{{198758357-0-50348:}}Hurricane
+{{198758357-0-50349:}}Hurricane
+{{198758357-0-51891:}}Negate Magic
+{{198758357-0-51892:}}Negate Magic
+{{198758357-0-51893:}}Negate Magic
+{{198758357-0-51894:}}Negate Magic
+{{198758357-0-52839:}}Hardened Ward
+{{198758357-0-52840:}}Hardened Ward
+{{198758357-0-52841:}}Hardened Ward
+{{198758357-0-52842:}}Hardened Ward
+{{198758357-0-53607:}}Mages' Wrath
+{{198758357-0-53611:}}Mages' Fury
+{{198758357-0-53616:}}Lightning Form
+{{198758357-0-53624:}}Lightning Flood
+{{198758357-0-53625:}}Lightning Flood
+{{198758357-0-53654:}}Streak
+{{198758357-0-53655:}}Streak
+{{198758357-0-53656:}}Streak
+{{198758357-0-54797:}}Encase
+{{198758357-0-54798:}}Encase
+{{198758357-0-54799:}}Encase
+{{198758357-0-54809:}}Dark Deal
+{{198758357-0-54813:}}Dark Exchange
+{{198758357-0-54820:}}Daedric Mines
+{{198758357-0-54821:}}Daedric Mines
+{{198758357-0-54823:}}Daedric Mines
+{{198758357-0-54826:}}Daedric Mines
+{{198758357-0-54827:}}Daedric Mines
+{{198758357-0-54828:}}Daedric Mines
+{{198758357-0-54829:}}Suppression Field
+{{198758357-0-54833:}}Negate Magic
+{{198758357-0-55590:}}Summon Winged Twilight
+{{198758357-0-56796:}}Bound Aegis
+{{198758357-0-56797:}}Bound Armor
+{{198758357-0-56800:}}Daedric Curse
+{{198758357-0-56801:}}Daedric Curse
+{{198758357-0-62290:}}Defensive Rune
+{{198758357-0-62325:}}Daedric Tomb
+{{198758357-0-62329:}}Daedric Refuge
+{{198758357-0-64492:}}Surge
+{{198758357-0-64500:}}Power Surge
+{{198758357-0-64849:}}Rebate
+{{198758357-0-65462:}}Bolt Escape
+{{198758357-0-66276:}}Encase
+{{198758357-0-69700:}}Streak
+{{198758357-0-69814:}}Summon Winged Twilight
+{{198758357-0-69815:}}Summon Winged Twilight
+{{198758357-0-69816:}}Summon Winged Twilight
+{{198758357-0-69817:}}Summon Winged Twilight
+{{198758357-0-69818:}}Summon Winged Twilight
+{{198758357-0-70090:}}Summon Winged Twilight
+{{198758357-0-70518:}}Ball Of Lightning
+{{198758357-0-70894:}}Encase
+{{198758357-0-70895:}}Encase
+{{198758357-0-72150:}}Encase
+{{198758357-0-72151:}}Encase
+{{198758357-0-72204:}}Streak
+{{198758357-0-72205:}}Streak
+{{198758357-0-72206:}}Streak
+{{198758357-0-72543:}}Daedric Protection
+{{198758357-0-72544:}}Daedric Protection
+{{198758357-0-72575:}}Negate Magic
+{{198758357-0-72576:}}Negate Magic
+{{198758357-0-72577:}}Negate Magic
+{{198758357-0-72578:}}Negate Magic
+{{198758357-0-72686:}}Overload
+{{198758357-0-72689:}}Overload
+{{198758357-0-72690:}}Overload
+{{198758357-0-74019:}}Streak
+{{198758357-0-74028:}}Bolt Escape
+{{198758357-0-74506:}}Encase
+{{198758357-0-74510:}}Encase
+{{198758357-0-74522:}}Encase
+{{198758357-0-74533:}}Encase
+{{198758357-0-74534:}}Encase
+{{198758357-0-74535:}}Encase
+{{198758357-0-74536:}}Encase
+{{198758357-0-74537:}}Encase
+{{198758357-0-74996:}}Streak
+{{198758357-0-75162:}}Negate Magic
+{{198758357-0-75163:}}Negate Magic
+{{198758357-0-75164:}}Negate Magic
+{{198758357-0-75165:}}Negate Magic
+{{198758357-0-76076:}}Summon Unstable Clannfear
+{{198758357-0-77178:}}Summon Unstable Familiar
+{{198758357-0-77182:}}Summon Volatile Familiar
+{{198758357-0-77187:}}Summon Volatile Familiar
+{{198758357-0-77243:}}Summon Volatile Familiar
+{{198758357-0-77246:}}Summon Volatile Familiar
+{{198758357-0-77342:}}Summon Winged Twilight
+{{198758357-0-77437:}}Daedric Tomb
+{{198758357-0-80066:}}Summon Twilight Matriarch
+{{198758357-0-80155:}}Summon Twilight Matriarch
+{{198758357-0-80161:}}Summon Unstable Clannfear
+{{198758357-0-80405:}}Absorption Field
+{{198758357-0-80435:}}Suppression Field
+{{198758357-0-80459:}}Summon Storm Atronach
+{{198758357-0-80463:}}Greater Storm Atronach
+{{198758357-0-80468:}}Summon Charged Atronach
+{{198758357-0-80726:}}Encase
+{{198758357-0-80727:}}Encase
+{{198758357-0-80732:}}Negate Magic
+{{198758357-0-80733:}}Negate Magic
+{{198758357-0-80734:}}Negate Magic
+{{198758357-0-80735:}}Negate Magic
+{{198758357-0-81186:}}Bolt Escape
+{{198758357-0-82061:}}Hurricane
+{{198758357-0-82063:}}Hurricane
+{{198758357-0-82064:}}Hurricane
+{{198758357-0-82341:}}Hardened Ward
+{{198758357-0-82342:}}Hardened Ward
+{{198758357-0-82343:}}Hardened Ward
+{{198758357-0-82344:}}Hardened Ward
+{{198758357-0-87083:}}Streak
+{{198758357-0-87129:}}Streak
+{{198758357-0-88933:}}Summon Volatile Familiar
+{{198758357-0-89491:}}Haunting Curse
+{{198758357-0-89492:}}Haunting Curse
+{{198758357-0-90683:}}Capacitor
+{{198758357-0-91151:}}Overload
+{{198758357-0-91176:}}Daedric Curse
+{{198758357-0-91177:}}Daedric Curse
+{{198758357-0-91178:}}Daedric Curse
+{{198758357-0-91181:}}Daedric Mines
+{{198758357-0-91182:}}Daedric Mines
+{{198758357-0-91183:}}Daedric Mines
+{{198758357-0-91187:}}Daedric Mines
+{{198758357-0-91188:}}Daedric Mines
+{{198758357-0-91189:}}Daedric Mines
+{{198758357-0-91190:}}Boundless Storm
+{{198758357-0-91191:}}Boundless Storm
+{{198758357-0-91192:}}Boundless Storm
+{{198758357-0-91657:}}Lightning Form
+{{198758357-0-91936:}}Haunting Curse
+{{198758357-0-92527:}}Streak
+{{198758357-0-92710:}}Streak
+{{198758357-0-92897:}}Encase
+{{198758357-0-94770:}}Streak
+{{198758357-0-94794:}}Streak
+{{198758357-0-95288:}}Hurricane
+{{198758357-0-95390:}}Bolt Escape
+{{198758357-0-96476:}}Summon Storm Atronach
+{{198758357-0-97461:}}Overload
+{{198758357-0-98182:}}Encase
+{{198758357-0-99432:}}Negate Magic
+{{198758357-0-99433:}}Negate Magic
+{{198758357-0-99434:}}Negate Magic
+{{198758357-0-99841:}}Hurricane
+{{198758357-0-99843:}}Hurricane
+{{198758357-0-99844:}}Hurricane
+{{198758357-0-100118:}}Rune Cage
+{{198758357-0-100375:}}Overload
+{{198758357-0-100377:}}Overload
+{{198758357-0-100383:}}Negate Magic
+{{198758357-0-100384:}}Negate Magic
+{{198758357-0-100660:}}Negate Magic
+{{198758357-0-100661:}}Negate Magic
+{{198758357-0-100662:}}Negate Magic
+{{198758357-0-100663:}}Negate Magic
+{{198758357-0-100665:}}Negate Magic
+{{198758357-0-102309:}}Summon Storm Atronach
+{{198758357-0-102322:}}Greater Storm Atronach
+{{198758357-0-102329:}}Summon Charged Atronach
+{{198758357-0-102330:}}Summon Charged Atronach
+{{198758357-0-105770:}}Lightning Form
+{{198758357-0-105771:}}Mages' Wrath
+{{198758357-0-106704:}}Lightning Form
+{{198758357-0-108835:}}Vibrant Shroud
+{{198758357-0-108840:}}Summon Unstable Familiar
+{{198758357-0-108841:}}Summon Unstable Familiar
+{{198758357-0-108842:}}Summon Unstable Familiar
+{{198758357-0-108843:}}Summon Unstable Familiar
+{{198758357-0-108849:}}Bound Armor
+{{198758357-0-108853:}}Bound Armaments
+{{198758357-0-108855:}}Bound Aegis
+{{198758357-0-108858:}}Persistence
+{{198758357-0-108862:}}Persistence
+{{198758357-0-112179:}}Defensive Rune
+{{198758357-0-114592:}}Negate Magic
+{{198758357-0-114593:}}Negate Magic
+{{198758357-0-114594:}}Negate Magic
+{{198758357-0-114602:}}Defensive Rune
+{{198758357-0-114603:}}Negate Magic
+{{198758357-0-114604:}}Negate Magic
+{{198758357-0-114716:}}Crystal Fragments
+{{198758357-0-114721:}}Crystal Fragments
+{{198758357-0-114759:}}Overload
+{{198758357-0-114760:}}Power Overload
+{{198758357-0-114761:}}Energy Overload
+{{198758357-0-114763:}}Endless Fury
+{{198758357-0-114764:}}Endless Fury
+{{198758357-0-114903:}}Dark Exchange
+{{198758357-0-114908:}}Dark Deal
+{{198758357-0-114909:}}Dark Conversion
+{{198758357-0-114985:}}Overload
+{{198758357-0-114986:}}Power Overload
+{{198758357-0-114987:}}Energy Overload
+{{198758357-0-117273:}}Summon Twilight Tormentor
+{{198758357-0-117274:}}Summon Twilight Tormentor
+{{198758357-0-117320:}}Summon Twilight Matriarch
+{{198758357-0-117321:}}Summon Twilight Matriarch
+{{198758357-0-118510:}}Daedric Protection
+{{198758357-0-119333:}}Bound Armor
+{{198758357-0-119334:}}Bound Armor
+{{198758357-0-120194:}}Streak
+{{198758357-0-120209:}}Streak
+{{198758357-0-120216:}}Streak
+{{198758357-0-120252:}}Streak
+{{198758357-0-120256:}}Streak
+{{198758357-0-120257:}}Streak
+{{198758357-0-120261:}}Streak
+{{198758357-0-120337:}}Bound Armor
+{{198758357-0-120340:}}Bound Armor
+{{198758357-0-120341:}}Bound Armor
+{{198758357-0-120574:}}Bound Armor
+{{198758357-0-121086:}}Streak
+{{198758357-0-121087:}}Streak
+{{198758357-0-122584:}}Streak
+{{198758357-0-123428:}}Bolt Escape
+{{198758357-0-123711:}}Streak
+{{198758357-0-123779:}}Streak
+{{198758357-0-124313:}}Streak
+{{198758357-0-124332:}}Streak
+{{198758357-0-125106:}}Streak
+{{198758357-0-125308:}}Streak
+{{198758357-0-128075:}}Summon Storm Atronach
+{{198758357-0-128479:}}Summon Storm Atronach
+{{198758357-0-128814:}}Summon Storm Atronach
+{{198758357-0-128826:}}Summon Storm Atronach
+{{198758357-0-129404:}}Streak
+{{198758357-0-129973:}}Blood Magic
+{{198758357-0-130015:}}Blood Magic
+{{198758357-0-130017:}}Blood Magic
+{{198758357-0-130291:}}Bound Armaments
+{{198758357-0-130292:}}Bound Armaments
+{{198758357-0-130293:}}Bound Armaments
+{{198758357-0-130318:}}Bound Armaments
+{{198758357-0-130356:}}Bound Armaments
+{{198758357-0-130714:}}Bolt Escape
+{{198758357-0-131257:}}Summon Winged Twilight
+{{198758357-0-131261:}}Summon Winged Twilight
+{{198758357-0-131383:}}Ball of Lightning
+{{198758357-0-131692:}}Encase
+{{198758357-0-132946:}}Streak
+{{198758357-0-136182:}}Lightning Form
+{{198758357-0-136183:}}Lightning Form
+{{198758357-0-136184:}}Lightning Form
+{{198758357-0-136185:}}Lightning Form
+{{198758357-0-136189:}}Lightning Form
+{{198758357-0-136190:}}Lightning Form
+{{198758357-0-136191:}}Lightning Form
+{{198758357-0-136192:}}Lightning Form
+{{198758357-0-136193:}}Lightning Form
+{{198758357-0-136194:}}Lightning Form
+{{198758357-0-136203:}}Lightning Form
+{{198758357-0-136204:}}Lightning Form
+{{198758357-0-136205:}}Lightning Form
+{{198758357-0-136206:}}Lightning Form
+{{198758357-0-136207:}}Lightning Form
+{{198758357-0-140517:}}Overload
+{{198758357-0-140518:}}Energy Overload
+{{198758357-0-140519:}}Power Overload
+{{198758357-0-141151:}}Daedric Mines
+{{198758357-0-141158:}}Daedric Mines
+{{198758357-0-141162:}}Daedric Mines
+{{198758357-0-141164:}}Daedric Mines
+{{198758357-0-141165:}}Daedric Mines
+{{198758357-0-141166:}}Daedric Mines
+{{198758357-0-141172:}}Daedric Mines
+{{198758357-0-141290:}}Daedric Mines
+{{198758357-0-143500:}}Rebate
+{{198758357-0-143659:}}Encase
+{{198758357-0-143663:}}Shattering Spines
+{{198758357-0-143668:}}Vibrant Shroud
+{{198758357-0-143804:}}Crystal Weapon
+{{198758357-0-143805:}}Crystal Weapon
+{{198758357-0-143808:}}Crystal Weapon
+{{198758357-0-145706:}}Negate Magic
+{{198758357-0-145707:}}Negate Magic
+{{198758357-0-145708:}}Negate Magic
+{{198758357-0-145709:}}Negate Magic
+{{198758357-0-150099:}}Bound Armor
+{{198758357-0-150414:}}Negate Magic
+{{198758357-0-150415:}}Negate Magic
+{{198758357-0-150416:}}Negate Magic
+{{198758357-0-150417:}}Negate Magic
+{{198758357-0-156565:}}Lightning Splash
+{{198758357-0-156566:}}Lightning Flood
+{{198758357-0-156567:}}Liquid Lightning
+{{198758357-0-156612:}}Hurricane
+{{198758357-0-156817:}}Hurricane
+{{198758357-0-157462:}}Lightning Splash
+{{198758357-0-157463:}}Lightning Splash
+{{198758357-0-157533:}}Liquid Lightning
+{{198758357-0-157535:}}Liquid Lightning
+{{198758357-0-157536:}}Lightning Flood
+{{198758357-0-157537:}}Lightning Flood
+{{198758357-0-158172:}}Hurricane
+{{198758357-0-158181:}}Hurricane
+{{198758357-0-158597:}}Lightning Form
+{{198758357-0-158599:}}Lightning Form
+{{198758357-0-158864:}}Lightning Form
+{{198758357-0-158865:}}Lightning Form
+{{198758357-0-158866:}}Lightning Form
+{{198758357-0-158867:}}Lightning Form
+{{198758357-0-158868:}}Lightning Form
+{{198758357-0-158869:}}Lightning Form
+{{198758357-0-158871:}}Lightning Form
+{{198758357-0-158872:}}Lightning Form
+{{198758357-0-158873:}}Lightning Form
+{{198758357-0-158874:}}Lightning Form
+{{198758357-0-158875:}}Lightning Form
+{{198758357-0-158876:}}Lightning Form
+{{198758357-0-158877:}}Lightning Form
+{{198758357-0-158878:}}Lightning Form
+{{198758357-0-158879:}}Lightning Form
+{{198758357-0-158881:}}Lightning Form
+{{198758357-0-158884:}}Lightning Form
+{{198758357-0-158886:}}Lightning Form
+{{198758357-0-158888:}}Lightning Form
+{{198758357-0-158889:}}Lightning Form
+{{198758357-0-158890:}}Lightning Form
+{{198758357-0-158891:}}Lightning Form
+{{198758357-0-158892:}}Lightning Form
+{{198758357-0-158893:}}Lightning Form
+{{198758357-0-158894:}}Lightning Form
+{{198758357-0-158895:}}Lightning Form
+{{198758357-0-158899:}}Lightning Form
+{{198758357-0-158900:}}Lightning Form
+{{198758357-0-163396:}}Negate Magic
+{{198758357-0-163397:}}Negate Magic
+{{198758357-0-163398:}}Negate Magic
+{{198758357-0-163399:}}Negate Magic
+{{198758357-0-163706:}}Surge
+{{198758357-0-163984:}}Surge
+{{198758357-0-165193:}}Daedric Curse
+{{198758357-0-165835:}}Daedric Curse
+{{198758357-0-166082:}}Surge
+{{198758357-0-166083:}}Surge
+{{198758357-0-167003:}}Bolt Escape
+{{198758357-0-167069:}}Bolt Escape
+{{198758357-0-167131:}}Bolt Escape
+{{198758357-0-167565:}}Daedric Mines
+{{198758357-0-168572:}}Negate Magic
+{{198758357-0-168573:}}Negate Magic
+{{198758357-0-168574:}}Negate Magic
+{{198758357-0-168575:}}Negate Magic
+{{198758357-0-169507:}}Hurricane
+{{198758357-0-169508:}}Hurricane
+{{198758357-0-170640:}}Daedric Mines
+{{198758357-0-174736:}}Streak
+{{198758357-0-174737:}}Streak
+{{198758357-0-175666:}}Energy Overload
+{{198758357-0-176130:}}Streak
+{{198758357-0-177261:}}Regenerative Ward
+{{198758357-0-177262:}}Conjured Ward
+{{198758357-0-177263:}}Hardened Ward
+{{198758357-0-178206:}}Surge
+{{198758357-0-178207:}}Surge
+{{198758357-0-178212:}}Surge
+{{198758357-0-180292:}}Streak
+{{198758357-0-181056:}}Crystal Weapon
+{{198758357-0-181843:}}Streak
+{{198758357-0-181850:}}Streak
+{{198758357-0-181851:}}Streak
+{{198758357-0-183703:}}Blood Magic
+{{198758357-0-183704:}}Blood Magic
+{{198758357-0-188473:}}Summon Winged Twilight
+{{198758357-0-188482:}}Summon Winged Twilight
+{{198758357-0-189181:}}Overload
+{{198758357-0-189182:}}Overload
+{{198758357-0-189183:}}Overload
+{{198758357-0-190011:}}Streak
+{{198758357-0-190065:}}Streak
+{{198758357-0-190066:}}Streak
+{{198758357-0-190111:}}Streak
+{{198758357-0-190112:}}Streak
+{{198758357-0-190139:}}Streak
+{{198758357-0-192311:}}Streak
+{{198758357-0-194554:}}Streak
+{{198758357-0-196713:}}Lightning Form
+{{198758357-0-196714:}}Lightning Form
+{{198758357-0-196730:}}Streak
+{{198758357-0-196736:}}Streak
+{{198758357-0-196806:}}Negate Magic
+{{198758357-0-196809:}}Negate Magic
+{{198758357-0-196810:}}Negate Magic
+{{198758357-0-196812:}}Negate Magic
+{{198758357-0-197461:}}Streak
+{{198758357-0-197486:}}Streak
+{{198758357-0-197495:}}Hardened Ward
+{{198758357-0-197691:}}Hardened Ward
+{{198758357-0-200565:}}Hardened Ward
+{{198758357-0-201242:}}Encase
+{{198758357-0-203447:}}Bound Armaments
+{{198758357-0-203448:}}Bound Armaments
+{{198758357-0-203449:}}Bound Armaments
+{{198758357-0-204135:}}Hardened Ward
+{{198758357-0-206034:}}Bolt Escape
+{{198758357-0-206040:}}Bolt Escape
+{{198758357-0-206041:}}Bolt Escape
+{{198758357-0-206043:}}Bolt Escape
+{{198758357-0-206055:}}Bolt Escape
+{{198758357-0-206593:}}Streak
+{{198758357-0-207139:}}Streak
+{{198758357-0-207190:}}Streak
+{{198758357-0-207902:}}Daedric Mines
+{{198758357-0-207903:}}Daedric Mines
+{{198758357-0-207904:}}Daedric Mines
+{{198758357-0-207905:}}Daedric Mines
+{{198758357-0-207906:}}Daedric Mines
+{{198758357-0-207907:}}Daedric Mines
+{{198758357-0-207908:}}Daedric Mines
+{{198758357-0-207975:}}Bound Armaments
+{{198758357-0-214097:}}Streak
+{{198758357-0-214355:}}Lightning Flood
+{{198758357-0-214474:}}Encase
+{{198758357-0-214477:}}Shattering Spines
+{{198758357-0-215031:}}Conjured Ward
+{{198758357-0-215032:}}Hardened Ward
+{{198758357-0-215033:}}Regenerative Ward
+{{198758357-0-215055:}}Expert Summoner
+{{198758357-0-215056:}}Expert Summoner
+{{198758357-0-215059:}}Expert Summoner
+{{198758357-0-215060:}}Expert Summoner
+{{198758357-0-215486:}}Encase
+{{198758357-0-215487:}}Encase
+{{198758357-0-215490:}}Encase
+{{198758357-0-215491:}}Encase
+{{198758357-0-221730:}}Lightning Flood
+{{198758357-0-221732:}}Lightning Flood
+{{198758357-0-226749:}}Encase
+{{198758357-0-226796:}}Bolt Escape
+{{198758357-0-232853:}}Surge
+{{198758357-0-243651:}}Hurricane
+{{198758357-0-243899:}}Summon Storm Atronach
+{{198758357-0-243900:}}Summon Storm Atronach
+{{198758357-0-251685:}}Surge
+{{198758357-0-251686:}}Surge
+{{198758357-0-252505:}}Blood Magic
+{{198758357-0-252506:}}Blood Magic
+{{198758357-0-252507:}}Blood Magic
+{{198758357-0-252508:}}Blood Magic
+{{267697733-0-2881:}}Crystal Shard
+{{267697733-0-2886:}}Crystal Shard
+{{267697733-0-3050:}}Crystal Shard
+{{267697733-0-5393:}}Crystal Fragments
