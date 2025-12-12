@@ -1,0 +1,2709 @@
+{{5759525-7-13:}}Executioner
+{{7949764-0-69982:}}Bow
+{{7949764-0-69987:}}Bow
+{{8290981-0-55373:}}Whirlwind
+{{8290981-0-85342:}}Whirlwind
+{{8290981-0-85349:}}Whirlwind
+{{8290981-0-124231:}}Whirlwind
+{{8290981-0-124373:}}Rapid Fire
+{{8290981-0-127844:}}Whirlwind
+{{12529189-0-2675:}}Eye of the Storm
+{{12529189-0-3876:}}Light's Champion
+{{12529189-0-4087:}}Vault
+{{12529189-0-4088:}}Traveling Knife
+{{12529189-0-4089:}}Shield Throw
+{{12529189-0-4090:}}Smash
+{{12529189-0-4091:}}Elemental Explosion
+{{12529189-0-4092:}}Mender's Bond
+{{17713605-0-1:}}Vault
+{{17713605-0-3:}}Shield Throw
+{{17713605-0-4:}}Smash
+{{17713605-0-5:}}Elemental Explosion
+{{17713605-0-6:}}Mender's Bond
+{{17713605-0-7:}}Traveling Knife
+{{17915077-0-109:}}Cleave
+{{17915077-0-110:}}Critical Charge
+{{17915077-0-111:}}Momentum
+{{17915077-0-112:}}Reverse Slash
+{{17915077-0-113:}}Uppercut
+{{17915077-0-114:}}Flurry
+{{17915077-0-115:}}Hidden Blade
+{{17915077-0-116:}}Blade Cloak
+{{17915077-0-117:}}Twin Slashes
+{{17915077-0-118:}}Whirlwind
+{{17915077-0-119:}}Arrow Spray
+{{17915077-0-120:}}Poison Arrow
+{{17915077-0-121:}}Scatter Shot
+{{17915077-0-122:}}Snipe
+{{17915077-0-123:}}Volley
+{{17915077-0-124:}}Destructive Touch
+{{17915077-0-128:}}Weakness to Elements
+{{17915077-0-132:}}Blessing of Protection
+{{17915077-0-133:}}Force Siphon
+{{17915077-0-134:}}Grand Healing
+{{17915077-0-135:}}Regeneration
+{{17915077-0-136:}}Steadfast Ward
+{{17915077-0-137:}}Defensive Posture
+{{17915077-0-139:}}Low Slash
+{{17915077-0-140:}}Power Bash
+{{17915077-0-141:}}Puncture
+{{17915077-0-142:}}Shield Charge
+{{17915077-0-143:}}Force Shock
+{{17915077-0-144:}}Wall of Elements
+{{17915077-0-164:}}Impulse
+{{17915077-0-417:}}Berserker Strike
+{{17915077-0-418:}}Shield Wall
+{{17915077-0-419:}}Lacerate
+{{17915077-0-420:}}Rapid Fire
+{{17915077-0-421:}}Elemental Storm
+{{17915077-0-422:}}Panacea
+{{17915077-0-939:}}Uppercut
+{{17915077-0-940:}}Critical Charge
+{{17915077-0-941:}}Cleave
+{{17915077-0-942:}}Reverse Slash
+{{17915077-0-943:}}Momentum
+{{17915077-0-944:}}Berserker Strike
+{{17915077-0-945:}}Puncture
+{{17915077-0-946:}}Low Slash
+{{17915077-0-947:}}Defensive Posture
+{{17915077-0-948:}}Shield Charge
+{{17915077-0-949:}}Power Bash
+{{17915077-0-950:}}Shield Wall
+{{17915077-0-951:}}Flurry
+{{17915077-0-952:}}Twin Slashes
+{{17915077-0-953:}}Whirlwind
+{{17915077-0-954:}}Blade Cloak
+{{17915077-0-955:}}Hidden Blade
+{{17915077-0-956:}}Lacerate
+{{17915077-0-957:}}Snipe
+{{17915077-0-958:}}Volley
+{{17915077-0-959:}}Scatter Shot
+{{17915077-0-960:}}Arrow Spray
+{{17915077-0-961:}}Poison Arrow
+{{17915077-0-962:}}Rapid Fire
+{{17915077-0-963:}}Force Shock
+{{17915077-0-964:}}Wall of Elements
+{{17915077-0-965:}}Destructive Touch
+{{17915077-0-966:}}Weakness to Elements
+{{17915077-0-967:}}Impulse
+{{17915077-0-968:}}Elemental Storm
+{{17915077-0-969:}}Grand Healing
+{{17915077-0-970:}}Regeneration
+{{17915077-0-971:}}Blessing of Protection
+{{17915077-0-972:}}Steadfast Ward
+{{17915077-0-973:}}Force Siphon
+{{17915077-0-974:}}Panacea
+{{19398485-0-1727:}}Ballista
+{{19398485-0-1728:}}Ballista
+{{19398485-0-1729:}}Ballista
+{{19398485-0-1730:}}Ballista
+{{19398485-0-3016:}}Ballista
+{{26811173-0-668:}}Whirlwind
+{{26811173-0-756:}}Wall of Elements
+{{26811173-0-821:}}Whirlwind
+{{26811173-0-1027:}}Stampede
+{{39619172-0-7062:}}Bow
+{{39619172-0-7063:}}Bow
+{{39619172-0-7102:}}Bow
+{{39619172-0-7103:}}Bow
+{{39619172-0-7124:}}Bow
+{{39619172-0-7125:}}Bow
+{{39619172-0-7126:}}Bow
+{{39619172-0-7127:}}Bow
+{{39619172-0-7128:}}Bow
+{{39619172-0-7129:}}Bow
+{{39619172-0-7167:}}Bow
+{{39619172-0-7168:}}Bow
+{{39619172-0-7215:}}Bow
+{{39619172-0-7216:}}Bow
+{{39619172-0-7217:}}Bow
+{{39619172-0-7218:}}Bow
+{{39619172-0-7270:}}Bow
+{{39619172-0-7271:}}Bow
+{{39619172-0-7293:}}Bow
+{{39619172-0-7294:}}Bow
+{{39619172-0-7321:}}Bow
+{{39619172-0-7322:}}Bow
+{{39619172-0-7347:}}Bow
+{{39619172-0-7348:}}Bow
+{{39619172-0-7349:}}Bow
+{{39619172-0-7350:}}Bow
+{{39619172-0-7351:}}Bow
+{{39619172-0-7352:}}Bow
+{{39619172-0-7417:}}Bow
+{{39619172-0-7418:}}Bow
+{{39619172-0-7432:}}Bow
+{{39619172-0-7433:}}Bow
+{{39619172-0-7480:}}Bow
+{{39619172-0-7481:}}Bow
+{{39619172-0-7482:}}Bow
+{{39619172-0-7483:}}Bow
+{{39619172-0-7535:}}Bow
+{{39619172-0-7536:}}Bow
+{{39619172-0-7558:}}Bow
+{{39619172-0-7559:}}Bow
+{{39619172-0-8111:}}Bow
+{{39619172-0-8112:}}Bow
+{{39619172-0-8113:}}Bow
+{{39619172-0-8114:}}Bow
+{{39619172-0-8198:}}Bow
+{{39619172-0-8199:}}Bow
+{{39619172-0-8200:}}Bow
+{{39619172-0-8201:}}Bow
+{{39619172-0-8216:}}Bow
+{{39619172-0-8217:}}Bow
+{{39619172-0-8251:}}Bow
+{{39619172-0-8252:}}Bow
+{{39619172-0-8297:}}Bow
+{{39619172-0-8298:}}Bow
+{{39619172-0-8332:}}Bow
+{{39619172-0-8333:}}Bow
+{{39619172-0-8364:}}Bow
+{{39619172-0-8365:}}Bow
+{{39619172-0-8366:}}Bow
+{{39619172-0-8367:}}Bow
+{{39619172-0-8404:}}Bow
+{{39619172-0-8405:}}Bow
+{{39619172-0-8453:}}Bow
+{{39619172-0-8454:}}Bow
+{{39619172-0-8455:}}Bow
+{{39619172-0-8456:}}Bow
+{{39619172-0-8493:}}Bow
+{{39619172-0-8494:}}Bow
+{{39619172-0-8948:}}Restoration Staff
+{{39619172-0-9225:}}Bow
+{{39619172-0-9226:}}Bow
+{{39619172-0-9227:}}Bow
+{{39619172-0-9228:}}Bow
+{{39619172-0-9457:}}Bow
+{{39619172-0-9458:}}Bow
+{{39619172-0-9881:}}Bow
+{{39619172-0-9882:}}Bow
+{{39619172-0-9887:}}Restoration Staff
+{{39619172-0-9888:}}Restoration Staff
+{{52420949-0-4538:}}Eye of the Storm
+{{74865733-0-27901:}}Absorb
+{{74865733-0-27902:}}Absorb
+{{74865733-0-27951:}}Absorb
+{{79246725-0-43:}}Bow
+{{87370069-0-3911:}}Bow
+{{87370069-0-4732:}}Ballista
+{{87370069-0-4752:}}Ballista
+{{87370069-0-10845:}}Bow
+{{87370069-0-11627:}}Vault
+{{87370069-0-12548:}}Bow
+{{87370069-0-22683:}}Restoration Staff
+{{87370069-0-24179:}}Restoration Staff
+{{87370069-0-24900:}}Ballista
+{{87370069-0-25822:}}Ballista
+{{87370069-0-28715:}}Bow
+{{87370069-0-30333:}}Ballista
+{{87370069-0-30871:}}Ballista
+{{87370069-0-30872:}}Ballista
+{{87370069-0-30873:}}Ballista
+{{87370069-0-31161:}}Ballista
+{{87370069-0-31162:}}Ballista
+{{87370069-0-31264:}}Ballista
+{{87370069-0-31331:}}Ballista
+{{87370069-0-31348:}}Ballista
+{{87370069-0-31353:}}Ballista
+{{87370069-0-31354:}}Ballista
+{{87370069-0-31663:}}Ballista
+{{87370069-0-32699:}}Vault
+{{87370069-0-34357:}}Ballista
+{{87370069-0-35261:}}Ballista
+{{87370069-0-35274:}}Ballista
+{{87370069-0-35275:}}Ballista
+{{87370069-0-35276:}}Ballista
+{{87370069-0-35426:}}Bow
+{{87370069-0-36412:}}Ballista
+{{87370069-0-36413:}}Ballista
+{{87370069-0-36414:}}Ballista
+{{87370069-0-36415:}}Ballista
+{{87370069-0-36563:}}Ballista
+{{87370069-0-36564:}}Ballista
+{{96962005-0-29:}}One Hand and Shield
+{{96962005-0-30:}}Two Handed
+{{96962005-0-31:}}Dual Wield
+{{96962005-0-32:}}Bow
+{{96962005-0-33:}}Destruction Staff
+{{96962005-0-34:}}Restoration Staff
+{{96962005-0-180:}}Two Handed
+{{96962005-0-181:}}One Hand and Shield
+{{96962005-0-182:}}Dual Wield
+{{96962005-0-183:}}Bow
+{{96962005-0-184:}}Destruction Staff
+{{96962005-0-185:}}Restoration Staff
+{{108643301-0-29:}}One Hand and Shield
+{{108643301-0-30:}}Two Handed
+{{108643301-0-31:}}Dual Wield
+{{108643301-0-32:}}Bow
+{{108643301-0-33:}}Destruction Staff
+{{108643301-0-34:}}Restoration Staff
+{{108643301-0-180:}}Two Handed
+{{108643301-0-181:}}One Hand and Shield
+{{108643301-0-182:}}Dual Wield
+{{108643301-0-183:}}Bow
+{{108643301-0-184:}}Destruction Staff
+{{108643301-0-185:}}Restoration Staff
+{{124318053-0-136:}}Ballista
+{{124318053-0-147:}}Ballista
+{{139475237-0-32:}}Bow
+{{139475237-0-175:}}Rally
+{{143811061-0-3:}}Dual Wield
+{{143811061-0-4:}}Bow
+{{143811061-0-5:}}Destruction Staff
+{{143811061-0-22:}}Two Handed
+{{143811061-0-23:}}One Hand and Shield
+{{143811061-0-24:}}Dual Wield
+{{143811061-0-25:}}Bow
+{{143811061-0-26:}}Destruction Staff
+{{143811061-0-27:}}Restoration Staff
+{{154419989-0-61:}}Volley
+{{154419989-0-63:}}Critical Charge
+{{154419989-0-73:}}Wall of Elements
+{{154419989-0-74:}}Whirlwind
+{{154419989-0-82:}}Low Slash
+{{154419989-0-88:}}Volley
+{{154419989-0-89:}}Shield Charge
+{{154419989-0-92:}}Blade Cloak
+{{154419989-0-104:}}Flurry
+{{154419989-0-116:}}Defensive Posture
+{{154419989-0-158:}}Snipe
+{{154419989-1-61:}}Endless Hail
+{{154419989-1-63:}}Stampede
+{{154419989-1-73:}}Unstable Wall of Elements
+{{154419989-1-74:}}Whirling Blades
+{{154419989-1-82:}}Deep Slash
+{{154419989-1-88:}}Endless Hail
+{{154419989-1-89:}}Shielded Assault
+{{154419989-1-92:}}Quick Cloak
+{{154419989-1-104:}}Rapid Strikes
+{{154419989-1-116:}}Defensive Stance
+{{154419989-1-158:}}Lethal Arrow
+{{154419989-2-61:}}Arrow Barrage
+{{154419989-2-63:}}Critical Rush
+{{154419989-2-73:}}Elemental Blockade
+{{154419989-2-74:}}Steel Tornado
+{{154419989-2-82:}}Heroic Slash
+{{154419989-2-88:}}Arrow Barrage
+{{154419989-2-89:}}Invasion
+{{154419989-2-92:}}Deadly Cloak
+{{154419989-2-104:}}Bloodthirst
+{{154419989-2-158:}}Focused Aim
+{{156152165-0-107:}}Flurry
+{{161754069-0-8:}}Rally
+{{162946485-0-8688:}}Vault
+{{162946485-0-9764:}}Vault
+{{162946485-0-12071:}}Eye of the Storm
+{{162946485-0-15773:}}Fortress
+{{162946485-0-17556:}}Vault
+{{162946485-0-17568:}}Vault
+{{162946485-0-17863:}}Vault
+{{162946485-0-17864:}}Vault
+{{162946485-0-18125:}}Vault
+{{162946485-0-19030:}}Vault
+{{162946485-0-20267:}}Vault
+{{162946485-0-20436:}}Vault
+{{162946485-0-20565:}}Vault
+{{162946485-0-22860:}}Vault
+{{162946485-0-23214:}}Fortress
+{{162946485-0-23215:}}Fortress
+{{162946485-0-23618:}}Fortress
+{{164009093-0-2769:}}Vault
+{{168675493-0-1691:}}Eye of the Storm
+{{172030117-0-2675:}}Eye of the Storm
+{{172030117-0-3986:}}Vault
+{{172030117-0-3988:}}Vault
+{{172030117-1-3986:}}Traveling Knife
+{{172030117-1-3988:}}Traveling Knife
+{{172030117-2-3986:}}Shield Throw
+{{172030117-2-3988:}}Shield Throw
+{{172030117-3-3986:}}Smash
+{{172030117-3-3988:}}Smash
+{{172030117-4-3986:}}Elemental Explosion
+{{172030117-4-3988:}}Elemental Explosion
+{{172030117-5-3986:}}Mender's Bond
+{{172030117-5-3988:}}Mender's Bond
+{{198758357-0-2986:}}Lacerate
+{{198758357-0-3415:}}Flurry
+{{198758357-0-5452:}}Lacerate
+{{198758357-0-5798:}}Brawler
+{{198758357-0-5881:}}Smash
+{{198758357-0-6224:}}Executioner
+{{198758357-0-7919:}}Brawler
+{{198758357-0-8205:}}Regeneration
+{{198758357-0-8554:}}Flurry
+{{198758357-0-8926:}}Regeneration
+{{198758357-0-9194:}}Flurry
+{{198758357-0-9467:}}Flurry
+{{198758357-0-9763:}}Smash
+{{198758357-0-9764:}}Smash
+{{198758357-0-10256:}}Lacerate
+{{198758357-0-10735:}}Blood Craze
+{{198758357-0-10770:}}Executioner
+{{198758357-0-10771:}}Executioner
+{{198758357-0-10772:}}Executioner
+{{198758357-0-13950:}}Flurry
+{{198758357-0-14869:}}Momentum
+{{198758357-0-18929:}}Slaughter
+{{198758357-0-20689:}}Controlled Fury
+{{198758357-0-20919:}}Cleave
+{{198758357-0-21055:}}Stampede
+{{198758357-0-21061:}}Stampede
+{{198758357-0-21114:}}Ruffian
+{{198758357-0-21157:}}Hidden Blade
+{{198758357-0-24648:}}Uppercut
+{{198758357-0-24948:}}Smash
+{{198758357-0-24949:}}Smash
+{{198758357-0-26170:}}Stampede
+{{198758357-0-26172:}}Stampede
+{{198758357-0-26173:}}Stampede
+{{198758357-0-26174:}}Stampede
+{{198758357-0-26176:}}Stampede
+{{198758357-0-26177:}}Stampede
+{{198758357-0-26179:}}Stampede
+{{198758357-0-26182:}}Stampede
+{{198758357-0-26233:}}Regeneration
+{{198758357-0-26308:}}Cleave
+{{198758357-0-28279:}}Uppercut
+{{198758357-0-28297:}}Momentum
+{{198758357-0-28302:}}Reverse Slash
+{{198758357-0-28304:}}Low Slash
+{{198758357-0-28306:}}Puncture
+{{198758357-0-28365:}}Power Bash
+{{198758357-0-28379:}}Twin Slashes
+{{198758357-0-28385:}}Grand Healing
+{{198758357-0-28386:}}Grand Healing
+{{198758357-0-28408:}}Whirlwind
+{{198758357-0-28448:}}Critical Charge
+{{198758357-0-28449:}}Critical Charge
+{{198758357-0-28536:}}Regeneration
+{{198758357-0-28591:}}Whirlwind
+{{198758357-0-28607:}}Flurry
+{{198758357-0-28613:}}Blade Cloak
+{{198758357-0-28628:}}Volley
+{{198758357-0-28629:}}Volley
+{{198758357-0-28719:}}Shield Charge
+{{198758357-0-28720:}}Shield Charge
+{{198758357-0-28721:}}Shield Charge
+{{198758357-0-28727:}}Defensive Posture
+{{198758357-0-28800:}}Impulse
+{{198758357-0-28858:}}Wall of Elements
+{{198758357-0-28869:}}Poison Arrow
+{{198758357-0-28876:}}Volley
+{{198758357-0-28877:}}Volley
+{{198758357-0-28879:}}Scatter Shot
+{{198758357-0-28882:}}Snipe
+{{198758357-0-28887:}}Scatter Shot
+{{198758357-0-28888:}}Scatter Shot
+{{198758357-0-29006:}}Executioner
+{{198758357-0-29091:}}Destructive Touch
+{{198758357-0-29173:}}Weakness to Elements
+{{198758357-0-29227:}}Flurry
+{{198758357-0-29293:}}Twin Slashes
+{{198758357-0-29375:}}Heavy Weapons
+{{198758357-0-29378:}}Uppercut
+{{198758357-0-29379:}}Uppercut
+{{198758357-0-29380:}}Uppercut
+{{198758357-0-29384:}}Heavy Weapons
+{{198758357-0-29385:}}Heavy Weapons
+{{198758357-0-29387:}}Forceful
+{{198758357-0-29388:}}Balanced Blade
+{{198758357-0-29389:}}Follow Up
+{{198758357-0-29391:}}Battle Rush
+{{198758357-0-29392:}}Battle Rush
+{{198758357-0-29397:}}Sword and Board
+{{198758357-0-29398:}}Sword and Board
+{{198758357-0-29399:}}Deflect Bolts
+{{198758357-0-29400:}}Power Bash
+{{198758357-0-29401:}}Power Bash
+{{198758357-0-29402:}}Power Bash
+{{198758357-0-29415:}}Deadly Bash
+{{198758357-0-29420:}}Fortress
+{{198758357-0-29422:}}Battlefield Mobility
+{{198758357-0-30821:}}Forceful
+{{198758357-0-30869:}}Absorb
+{{198758357-0-30872:}}Controlled Fury
+{{198758357-0-30873:}}Dual Wield Expert
+{{198758357-0-30893:}}Twin Blade and Blunt
+{{198758357-0-30895:}}Twin Blade and Blunt
+{{198758357-0-30902:}}Twin Blade and Blunt
+{{198758357-0-30912:}}Twin Blade and Blunt
+{{198758357-0-30923:}}Hasty Retreat
+{{198758357-0-30930:}}Accuracy
+{{198758357-0-30936:}}Hawk Eye
+{{198758357-0-30937:}}Vinedusk Training
+{{198758357-0-30941:}}Vinedusk Training
+{{198758357-0-30942:}}Ranger
+{{198758357-0-30948:}}Tri Focus
+{{198758357-0-30949:}}Tri Focus
+{{198758357-0-30951:}}Tri Focus
+{{198758357-0-30952:}}Tri Focus
+{{198758357-0-30957:}}Penetrating Magic
+{{198758357-0-30959:}}Ancient Knowledge
+{{198758357-0-30962:}}Elemental Force
+{{198758357-0-30965:}}Destruction Expert
+{{198758357-0-30966:}}Destruction Expert
+{{198758357-0-30971:}}Absorb
+{{198758357-0-30972:}}Cycle of Life
+{{198758357-0-30973:}}Essence Drain
+{{198758357-0-30978:}}Essence Drain
+{{198758357-0-30980:}}Restoration Expert
+{{198758357-0-30981:}}Restoration Master
+{{198758357-0-31101:}}Cleave
+{{198758357-0-31271:}}Arrow Spray
+{{198758357-0-31531:}}Force Siphon
+{{198758357-0-31832:}}Stampede
+{{198758357-0-32709:}}Lacerate
+{{198758357-0-34614:}}Smash
+{{198758357-0-34627:}}Smash
+{{198758357-0-34917:}}Low Slash
+{{198758357-0-34919:}}Low Slash
+{{198758357-0-35312:}}Twin Slashes
+{{198758357-0-36630:}}Executioner
+{{198758357-0-36633:}}Executioner
+{{198758357-0-37108:}}Arrow Spray
+{{198758357-0-37109:}}Arrow Spray
+{{198758357-0-37232:}}Steadfast Ward
+{{198758357-0-37243:}}Blessing of Protection
+{{198758357-0-38250:}}Pierce Armor
+{{198758357-0-38256:}}Ransack
+{{198758357-0-38264:}}Heroic Slash
+{{198758357-0-38268:}}Deep Slash
+{{198758357-0-38271:}}Deep Slash
+{{198758357-0-38298:}}Blessing of Protection
+{{198758357-0-38299:}}Blessing of Protection
+{{198758357-0-38300:}}Blessing of Protection
+{{198758357-0-38312:}}Defensive Stance
+{{198758357-0-38317:}}Absorb Missile
+{{198758357-0-38324:}}Absorb Missile
+{{198758357-0-38398:}}Absorb Missile
+{{198758357-0-38401:}}Shielded Assault
+{{198758357-0-38402:}}Shielded Assault
+{{198758357-0-38403:}}Shielded Assault
+{{198758357-0-38404:}}Shielded Assault
+{{198758357-0-38405:}}Invasion
+{{198758357-0-38406:}}Invasion
+{{198758357-0-38408:}}Invasion
+{{198758357-0-38452:}}Power Slam
+{{198758357-0-38455:}}Reverberating Bash
+{{198758357-0-38645:}}Venom Arrow
+{{198758357-0-38648:}}Poison Arrow
+{{198758357-0-38649:}}Poison Arrow
+{{198758357-0-38650:}}Poison Arrow
+{{198758357-0-38660:}}Poison Injection
+{{198758357-0-38669:}}Draining Shot
+{{198758357-0-38672:}}Magnum Shot
+{{198758357-0-38674:}}Magnum Shot
+{{198758357-0-38675:}}Magnum Shot
+{{198758357-0-38685:}}Lethal Arrow
+{{198758357-0-38687:}}Focused Aim
+{{198758357-0-38689:}}Endless Hail
+{{198758357-0-38690:}}Endless Hail
+{{198758357-0-38695:}}Arrow Barrage
+{{198758357-0-38696:}}Arrow Barrage
+{{198758357-0-38701:}}Acid Spray
+{{198758357-0-38703:}}Acid Spray
+{{198758357-0-38705:}}Bombard
+{{198758357-0-38707:}}Bombard
+{{198758357-0-38722:}}Arrow Spray
+{{198758357-0-38723:}}Bombard
+{{198758357-0-38724:}}Acid Spray
+{{198758357-0-38745:}}Carve
+{{198758357-0-38747:}}Carve
+{{198758357-0-38754:}}Brawler
+{{198758357-0-38763:}}Brawler
+{{198758357-0-38773:}}Brawler
+{{198758357-0-38774:}}Brawler
+{{198758357-0-38778:}}Critical Rush
+{{198758357-0-38781:}}Critical Rush
+{{198758357-0-38782:}}Critical Rush
+{{198758357-0-38783:}}Critical Rush
+{{198758357-0-38788:}}Stampede
+{{198758357-0-38789:}}Stampede
+{{198758357-0-38791:}}Stampede
+{{198758357-0-38792:}}Stampede
+{{198758357-0-38794:}}Forward Momentum
+{{198758357-0-38797:}}Forward Momentum
+{{198758357-0-38802:}}Rally
+{{198758357-0-38805:}}Rally
+{{198758357-0-38807:}}Wrecking Blow
+{{198758357-0-38814:}}Dizzying Swing
+{{198758357-0-38819:}}Executioner
+{{198758357-0-38823:}}Reverse Slice
+{{198758357-0-38827:}}Reverse Slice
+{{198758357-0-38839:}}Rending Slashes
+{{198758357-0-38840:}}Rending Slashes
+{{198758357-0-38841:}}Rending Slashes
+{{198758357-0-38842:}}Rending Slashes
+{{198758357-0-38845:}}Blood Craze
+{{198758357-0-38846:}}Bloodthirst
+{{198758357-0-38847:}}Blood Craze
+{{198758357-0-38848:}}Blood Craze
+{{198758357-0-38852:}}Blood Craze
+{{198758357-0-38853:}}Bloodthirst
+{{198758357-0-38857:}}Rapid Strikes
+{{198758357-0-38859:}}Rapid Strikes
+{{198758357-0-38860:}}Rapid Strikes
+{{198758357-0-38861:}}Steel Tornado
+{{198758357-0-38891:}}Whirling Blades
+{{198758357-0-38901:}}Quick Cloak
+{{198758357-0-38906:}}Deadly Cloak
+{{198758357-0-38910:}}Flying Blade
+{{198758357-0-38914:}}Shrouded Daggers
+{{198758357-0-38937:}}Destructive Reach
+{{198758357-0-38984:}}Destructive Clench
+{{198758357-0-39011:}}Elemental Blockade
+{{198758357-0-39052:}}Unstable Wall of Elements
+{{198758357-0-39089:}}Elemental Susceptibility
+{{198758357-0-39095:}}Elemental Drain
+{{198758357-0-39143:}}Elemental Ring
+{{198758357-0-39161:}}Pulsar
+{{198758357-0-39620:}}Whirlwind
+{{198758357-0-39665:}}Whirlwind
+{{198758357-0-39666:}}Whirling Blades
+{{198758357-0-40058:}}Illustrious Healing
+{{198758357-0-40059:}}Illustrious Healing
+{{198758357-0-40060:}}Healing Springs
+{{198758357-0-40061:}}Healing Springs
+{{198758357-0-40062:}}Healing Springs
+{{198758357-0-40076:}}Rapid Regeneration
+{{198758357-0-40079:}}Radiating Regeneration
+{{198758357-0-40094:}}Combat Prayer
+{{198758357-0-40103:}}Blessing of Restoration
+{{198758357-0-40105:}}Blessing of Restoration
+{{198758357-0-40106:}}Blessing of Restoration
+{{198758357-0-40108:}}Blessing of Restoration
+{{198758357-0-40109:}}Siphon Spirit
+{{198758357-0-40116:}}Quick Siphon
+{{198758357-0-40126:}}Healing Ward
+{{198758357-0-40128:}}Healing Ward
+{{198758357-0-40130:}}Ward Ally
+{{198758357-0-40132:}}Ward Ally
+{{198758357-0-41196:}}Smash
+{{198758357-0-41347:}}Defensive Stance
+{{198758357-0-41348:}}Defensive Stance
+{{198758357-0-41469:}}Blessing of Protection
+{{198758357-0-41470:}}Steadfast Ward
+{{198758357-0-41471:}}Force Siphon
+{{198758357-0-43006:}}Elemental Ring
+{{198758357-0-43240:}}Regeneration
+{{198758357-0-43556:}}Uppercut
+{{198758357-0-43558:}}Uppercut
+{{198758357-0-44540:}}Poison Arrow
+{{198758357-0-44545:}}Venom Arrow
+{{198758357-0-44549:}}Poison Injection
+{{198758357-0-45048:}}Executioner
+{{198758357-0-45050:}}Executioner
+{{198758357-0-45430:}}Heavy Weapons
+{{198758357-0-45432:}}Heavy Weapons
+{{198758357-0-45434:}}Heavy Weapons
+{{198758357-0-45443:}}Balanced Blade
+{{198758357-0-45444:}}Forceful
+{{198758357-0-45445:}}Forceful
+{{198758357-0-45446:}}Follow Up
+{{198758357-0-45448:}}Battle Rush
+{{198758357-0-45450:}}Battle Rush
+{{198758357-0-45452:}}Sword and Board
+{{198758357-0-45453:}}Sword and Board
+{{198758357-0-45469:}}Deadly Bash
+{{198758357-0-45471:}}Fortress
+{{198758357-0-45472:}}Deflect Bolts
+{{198758357-0-45473:}}Battlefield Mobility
+{{198758357-0-45476:}}Slaughter
+{{198758357-0-45477:}}Dual Wield Expert
+{{198758357-0-45478:}}Controlled Fury
+{{198758357-0-45481:}}Ruffian
+{{198758357-0-45482:}}Twin Blade and Blunt
+{{198758357-0-45484:}}Twin Blade and Blunt
+{{198758357-0-45485:}}Twin Blade and Blunt
+{{198758357-0-45487:}}Twin Blade and Blunt
+{{198758357-0-45492:}}Accuracy
+{{198758357-0-45493:}}Ranger
+{{198758357-0-45494:}}Vinedusk Training
+{{198758357-0-45496:}}Vinedusk Training
+{{198758357-0-45497:}}Hawk Eye
+{{198758357-0-45498:}}Hasty Retreat
+{{198758357-0-45500:}}Tri Focus
+{{198758357-0-45505:}}Tri Focus
+{{198758357-0-45506:}}Tri Focus
+{{198758357-0-45507:}}Tri Focus
+{{198758357-0-45509:}}Penetrating Magic
+{{198758357-0-45512:}}Elemental Force
+{{198758357-0-45513:}}Ancient Knowledge
+{{198758357-0-45514:}}Destruction Expert
+{{198758357-0-45517:}}Essence Drain
+{{198758357-0-45518:}}Essence Drain
+{{198758357-0-45519:}}Restoration Expert
+{{198758357-0-45520:}}Cycle of Life
+{{198758357-0-45521:}}Absorb
+{{198758357-0-45522:}}Absorb
+{{198758357-0-45524:}}Restoration Master
+{{198758357-0-45937:}}Cleave
+{{198758357-0-46220:}}Puncture
+{{198758357-0-46221:}}Puncture
+{{198758357-0-46224:}}Steadfast Ward
+{{198758357-0-46225:}}Steadfast Ward
+{{198758357-0-46257:}}Regeneration
+{{198758357-0-46262:}}Rapid Regeneration
+{{198758357-0-46266:}}Radiating Regeneration
+{{198758357-0-46340:}}Force Shock
+{{198758357-0-46341:}}Force Shock
+{{198758357-0-46343:}}Force Shock
+{{198758357-0-46348:}}Crushing Shock
+{{198758357-0-46350:}}Crushing Shock
+{{198758357-0-46351:}}Crushing Shock
+{{198758357-0-46353:}}Crushing Shock
+{{198758357-0-46356:}}Force Pulse
+{{198758357-0-46357:}}Force Pulse
+{{198758357-0-46358:}}Force Pulse
+{{198758357-0-47023:}}Puncture
+{{198758357-0-47488:}}Uppercut
+{{198758357-0-47818:}}Smash
+{{198758357-0-47957:}}Shield Throw
+{{198758357-0-48011:}}Crushing Shock
+{{198758357-0-48016:}}Force Pulse
+{{198758357-0-48022:}}Force Pulse
+{{198758357-0-48024:}}Cleave
+{{198758357-0-48242:}}Shield Throw
+{{198758357-0-48243:}}Shield Throw
+{{198758357-0-48245:}}Shield Throw
+{{198758357-0-48246:}}Shield Throw
+{{198758357-0-48247:}}Shield Throw
+{{198758357-0-48248:}}Shield Throw
+{{198758357-0-48249:}}Shield Throw
+{{198758357-0-48251:}}Shield Throw
+{{198758357-0-48252:}}Shield Throw
+{{198758357-0-48254:}}Shield Throw
+{{198758357-0-48255:}}Shield Throw
+{{198758357-0-48268:}}Shield Throw
+{{198758357-0-49102:}}Eye of the Storm
+{{198758357-0-49252:}}Blood Craze
+{{198758357-0-49253:}}Blood Craze
+{{198758357-0-49254:}}Blood Craze
+{{198758357-0-49430:}}Smash
+{{198758357-0-49605:}}Cleave
+{{198758357-0-49641:}}Whirlwind
+{{198758357-0-49652:}}Whirlwind
+{{198758357-0-50110:}}Volley
+{{198758357-0-50729:}}Eye of the Storm
+{{198758357-0-50731:}}Eye of the Storm
+{{198758357-0-50785:}}Hasty Retreat
+{{198758357-0-51864:}}Force Pulse
+{{198758357-0-51867:}}Force Pulse
+{{198758357-0-52207:}}Impulse
+{{198758357-0-52219:}}Impulse
+{{198758357-0-52431:}}Power Bash
+{{198758357-0-52432:}}Power Bash
+{{198758357-0-52433:}}Power Bash
+{{198758357-0-52720:}}Whirlwind
+{{198758357-0-52721:}}Whirlwind
+{{198758357-0-52803:}}Poison Injection
+{{198758357-0-52805:}}Poison Injection
+{{198758357-0-52820:}}Acid Spray
+{{198758357-0-52821:}}Acid Spray
+{{198758357-0-52822:}}Acid Spray
+{{198758357-0-52823:}}Acid Spray
+{{198758357-0-52825:}}Lethal Arrow
+{{198758357-0-52826:}}Lethal Arrow
+{{198758357-0-52865:}}Volley
+{{198758357-0-52866:}}Volley
+{{198758357-0-52947:}}Force Pulse
+{{198758357-0-53092:}}Hasty Retreat
+{{198758357-0-53240:}}Brawler
+{{198758357-0-53241:}}Brawler
+{{198758357-0-53243:}}Brawler
+{{198758357-0-53250:}}Wrecking Blow
+{{198758357-0-53251:}}Wrecking Blow
+{{198758357-0-53252:}}Wrecking Blow
+{{198758357-0-53253:}}Wrecking Blow
+{{198758357-0-53254:}}Wrecking Blow
+{{198758357-0-53255:}}Wrecking Blow
+{{198758357-0-53256:}}Wrecking Blow
+{{198758357-0-53259:}}Reverse Slice
+{{198758357-0-53261:}}Reverse Slice
+{{198758357-0-53262:}}Reverse Slice
+{{198758357-0-53264:}}Rally
+{{198758357-0-53265:}}Rally
+{{198758357-0-53266:}}Rally
+{{198758357-0-53267:}}Rally
+{{198758357-0-53286:}}Crushing Shock
+{{198758357-0-53287:}}Crushing Shock
+{{198758357-0-53288:}}Crushing Shock
+{{198758357-0-53292:}}Elemental Susceptibility
+{{198758357-0-53293:}}Elemental Susceptibility
+{{198758357-0-53294:}}Elemental Susceptibility
+{{198758357-0-53295:}}Weakness to Elements
+{{198758357-0-53313:}}Volley
+{{198758357-0-53368:}}Impulse
+{{198758357-0-53692:}}Rapid Strikes
+{{198758357-0-53693:}}Rapid Strikes
+{{198758357-0-53694:}}Rapid Strikes
+{{198758357-0-53698:}}Steel Tornado
+{{198758357-0-53699:}}Steel Tornado
+{{198758357-0-53700:}}Whirlwind
+{{198758357-0-53703:}}Flying Blade
+{{198758357-0-53704:}}Flying Blade
+{{198758357-0-53828:}}Uppercut
+{{198758357-0-53960:}}Volley
+{{198758357-0-53961:}}Volley
+{{198758357-0-53964:}}Volley
+{{198758357-0-53965:}}Volley
+{{198758357-0-53987:}}Rally
+{{198758357-0-54259:}}Draining Shot
+{{198758357-0-54261:}}Draining Shot
+{{198758357-0-54264:}}Lethal Arrow
+{{198758357-0-54265:}}Lethal Arrow
+{{198758357-0-54266:}}Cleave
+{{198758357-0-54397:}}Rally
+{{198758357-0-54403:}}Healing Ward
+{{198758357-0-54620:}}Uppercut
+{{198758357-0-54622:}}Uppercut
+{{198758357-0-55110:}}Uppercut
+{{198758357-0-56588:}}Stampede
+{{198758357-0-56594:}}Shield Throw
+{{198758357-0-56595:}}Stampede
+{{198758357-0-56755:}}Pierce Armor
+{{198758357-0-56756:}}Puncture
+{{198758357-0-56757:}}Puncture
+{{198758357-0-56758:}}Deep Slash
+{{198758357-0-56759:}}Deep Slash
+{{198758357-0-56760:}}Deep Slash
+{{198758357-0-57012:}}Cleave
+{{198758357-0-57191:}}Eye of the Storm
+{{198758357-0-57194:}}Eye of the Storm
+{{198758357-0-57310:}}Carve
+{{198758357-0-57312:}}Carve
+{{198758357-0-57468:}}Radiating Regeneration
+{{198758357-0-57587:}}Wrecking Blow
+{{198758357-0-58342:}}Flurry
+{{198758357-0-58730:}}Volley
+{{198758357-0-58733:}}Volley
+{{198758357-0-58734:}}Volley
+{{198758357-0-58882:}}Flurry
+{{198758357-0-58883:}}Flurry
+{{198758357-0-59190:}}Uppercut
+{{198758357-0-59257:}}Arrow Spray
+{{198758357-0-59258:}}Arrow Spray
+{{198758357-0-59259:}}Arrow Spray
+{{198758357-0-59260:}}Arrow Spray
+{{198758357-0-59297:}}Uppercut
+{{198758357-0-59668:}}Whirlwind
+{{198758357-0-59711:}}Whirlwind
+{{198758357-0-60636:}}Flurry
+{{198758357-0-60860:}}Follow Up
+{{198758357-0-60888:}}Follow Up
+{{198758357-0-61132:}}Rapid Strikes
+{{198758357-0-61133:}}Rapid Strikes
+{{198758357-0-61134:}}Rapid Strikes
+{{198758357-0-61135:}}Steel Tornado
+{{198758357-0-61136:}}Steel Tornado
+{{198758357-0-61137:}}Whirlwind
+{{198758357-0-61153:}}Eye of the Storm
+{{198758357-0-61224:}}Regeneration
+{{198758357-0-61225:}}Regeneration
+{{198758357-0-62522:}}Blade Cloak
+{{198758357-0-62529:}}Quick Cloak
+{{198758357-0-62547:}}Deadly Cloak
+{{198758357-0-63094:}}Shield Charge
+{{198758357-0-63260:}}Shield Charge
+{{198758357-0-63265:}}Uppercut
+{{198758357-0-63268:}}Uppercut
+{{198758357-0-63684:}}Uppercut
+{{198758357-0-63686:}}Uppercut
+{{198758357-0-64091:}}Power Bash
+{{198758357-0-64129:}}Uppercut
+{{198758357-0-65967:}}Regeneration
+{{198758357-0-65993:}}Force Pulse
+{{198758357-0-65994:}}Force Pulse
+{{198758357-0-66414:}}Uppercut
+{{198758357-0-66676:}}Uppercut
+{{198758357-0-66677:}}Uppercut
+{{198758357-0-66754:}}Shield Charge
+{{198758357-0-66758:}}Shield Charge
+{{198758357-0-66761:}}Shield Charge
+{{198758357-0-66763:}}Shield Charge
+{{198758357-0-66768:}}Shield Charge
+{{198758357-0-66769:}}Shield Charge
+{{198758357-0-66770:}}Shield Charge
+{{198758357-0-66794:}}Smash
+{{198758357-0-66798:}}Power Bash
+{{198758357-0-66804:}}Power Bash
+{{198758357-0-67411:}}Uppercut
+{{198758357-0-67413:}}Uppercut
+{{198758357-0-67430:}}Cleave
+{{198758357-0-67607:}}Volley
+{{198758357-0-67608:}}Volley
+{{198758357-0-67630:}}Focused Aim
+{{198758357-0-68205:}}Ballista
+{{198758357-0-68862:}}Shrouded Daggers
+{{198758357-0-68864:}}Shrouded Daggers
+{{198758357-0-69773:}}Tri Focus
+{{198758357-0-69774:}}Tri Focus
+{{198758357-0-70008:}}Grand Healing
+{{198758357-0-70010:}}Grand Healing
+{{198758357-0-70012:}}Grand Healing
+{{198758357-0-70055:}}Pierce Armor
+{{198758357-0-70056:}}Puncture
+{{198758357-0-70057:}}Puncture
+{{198758357-0-70058:}}Deep Slash
+{{198758357-0-70059:}}Deep Slash
+{{198758357-0-70060:}}Deep Slash
+{{198758357-0-70443:}}Uppercut
+{{198758357-0-70445:}}Uppercut
+{{198758357-0-70508:}}Uppercut
+{{198758357-0-70581:}}Regeneration
+{{198758357-0-70682:}}Flurry
+{{198758357-0-70683:}}Flurry
+{{198758357-0-70696:}}Scatter Shot
+{{198758357-0-70698:}}Arrow Spray
+{{198758357-0-70699:}}Arrow Spray
+{{198758357-0-70700:}}Arrow Spray
+{{198758357-0-70809:}}Uppercut
+{{198758357-0-70811:}}Uppercut
+{{198758357-0-70985:}}Carve
+{{198758357-0-70988:}}Carve
+{{198758357-0-71616:}}Regeneration
+{{198758357-0-71883:}}Deep Slash
+{{198758357-0-71884:}}Deep Slash
+{{198758357-0-71885:}}Deep Slash
+{{198758357-0-71915:}}Uppercut
+{{198758357-0-71931:}}Rapid Strikes
+{{198758357-0-71932:}}Rapid Strikes
+{{198758357-0-71933:}}Rapid Strikes
+{{198758357-0-71934:}}Steel Tornado
+{{198758357-0-71935:}}Steel Tornado
+{{198758357-0-71936:}}Whirlwind
+{{198758357-0-71978:}}Uppercut
+{{198758357-0-71986:}}Arrow Spray
+{{198758357-0-71987:}}Arrow Spray
+{{198758357-0-71988:}}Arrow Spray
+{{198758357-0-71991:}}Volley
+{{198758357-0-72198:}}Wrecking Blow
+{{198758357-0-72200:}}Wrecking Blow
+{{198758357-0-72201:}}Wrecking Blow
+{{198758357-0-72220:}}Snipe
+{{198758357-0-72276:}}Pierce Armor
+{{198758357-0-72277:}}Puncture
+{{198758357-0-72278:}}Puncture
+{{198758357-0-72382:}}Cleave
+{{198758357-0-72383:}}Cleave
+{{198758357-0-72384:}}Regeneration
+{{198758357-0-72417:}}Poison Arrow
+{{198758357-0-72418:}}Poison Arrow
+{{198758357-0-72583:}}Flurry
+{{198758357-0-73654:}}Flurry
+{{198758357-0-73655:}}Flurry
+{{198758357-0-74486:}}Low Slash
+{{198758357-0-74487:}}Low Slash
+{{198758357-0-74820:}}Volley
+{{198758357-0-75072:}}Eye of the Storm
+{{198758357-0-75098:}}Eye of the Storm
+{{198758357-0-75099:}}Eye of the Storm
+{{198758357-0-75169:}}Uppercut
+{{198758357-0-75170:}}Uppercut
+{{198758357-0-75171:}}Uppercut
+{{198758357-0-75434:}}Whirlwind
+{{198758357-0-75435:}}Whirlwind
+{{198758357-0-75436:}}Whirlwind
+{{198758357-0-75864:}}Cleave
+{{198758357-0-75865:}}Cleave
+{{198758357-0-75866:}}Cleave
+{{198758357-0-76089:}}Snipe
+{{198758357-0-76090:}}Snipe
+{{198758357-0-76091:}}Snipe
+{{198758357-0-76247:}}Twin Slashes
+{{198758357-0-76248:}}Twin Slashes
+{{198758357-0-76475:}}Whirling Blades
+{{198758357-0-76541:}}Lacerate
+{{198758357-0-76849:}}Scatter Shot
+{{198758357-0-77473:}}Shield Charge
+{{198758357-0-77481:}}Venom Arrow
+{{198758357-0-77482:}}Poison Arrow
+{{198758357-0-77483:}}Poison Arrow
+{{198758357-0-77484:}}Poison Arrow
+{{198758357-0-77485:}}Venom Arrow
+{{198758357-0-77486:}}Poison Arrow
+{{198758357-0-77488:}}Poison Arrow
+{{198758357-0-77494:}}Acid Spray
+{{198758357-0-77495:}}Acid Spray
+{{198758357-0-77496:}}Acid Spray
+{{198758357-0-77497:}}Acid Spray
+{{198758357-0-77815:}}Shield Charge
+{{198758357-0-77830:}}Shield Charge
+{{198758357-0-77838:}}Shield Charge
+{{198758357-0-77873:}}Shield Charge
+{{198758357-0-77875:}}Shield Charge
+{{198758357-0-78357:}}Cleave
+{{198758357-0-78362:}}Onslaught
+{{198758357-0-78363:}}Onslaught
+{{198758357-0-78679:}}Onslaught
+{{198758357-0-78680:}}Onslaught
+{{198758357-0-78681:}}Onslaught
+{{198758357-0-78682:}}Onslaught
+{{198758357-0-78683:}}Onslaught
+{{198758357-0-78684:}}Onslaught
+{{198758357-0-78686:}}Onslaught
+{{198758357-0-78777:}}Arrow Spray
+{{198758357-0-78778:}}Arrow Spray
+{{198758357-0-78779:}}Arrow Spray
+{{198758357-0-78838:}}Deadly Cloak
+{{198758357-0-78839:}}Blade Cloak
+{{198758357-0-78854:}}Hawk Eye
+{{198758357-0-78855:}}Hawk Eye
+{{198758357-0-78957:}}Onslaught
+{{198758357-0-78959:}}Onslaught
+{{198758357-0-78960:}}Onslaught
+{{198758357-0-78961:}}Onslaught
+{{198758357-0-78962:}}Onslaught
+{{198758357-0-78963:}}Onslaught
+{{198758357-0-78964:}}Onslaught
+{{198758357-0-78965:}}Onslaught
+{{198758357-0-78966:}}Onslaught
+{{198758357-0-79351:}}Carve
+{{198758357-0-79412:}}Flurry
+{{198758357-0-80654:}}Regeneration
+{{198758357-0-80655:}}Regeneration
+{{198758357-0-80730:}}Whirlwind
+{{198758357-0-80759:}}Regeneration
+{{198758357-0-80760:}}Regeneration
+{{198758357-0-80767:}}Draining Shot
+{{198758357-0-80810:}}Whirlwind
+{{198758357-0-81355:}}Flurry
+{{198758357-0-81368:}}Rapid Strikes
+{{198758357-0-81378:}}Bloodthirst
+{{198758357-0-81381:}}Bloodthirst
+{{198758357-0-81556:}}Onslaught
+{{198758357-0-81558:}}Onslaught
+{{198758357-0-81633:}}Regeneration
+{{198758357-0-82120:}}Hasty Retreat
+{{198758357-0-82314:}}Power Bash
+{{198758357-0-82315:}}Power Bash
+{{198758357-0-82316:}}Power Bash
+{{198758357-0-82735:}}Uppercut
+{{198758357-0-82736:}}Uppercut
+{{198758357-0-82737:}}Uppercut
+{{198758357-0-83026:}}Impulse
+{{198758357-0-83216:}}Berserker Strike
+{{198758357-0-83217:}}Berserker Strike
+{{198758357-0-83221:}}Berserker Strike
+{{198758357-0-83229:}}Onslaught
+{{198758357-0-83230:}}Onslaught
+{{198758357-0-83231:}}Onslaught
+{{198758357-0-83238:}}Berserker Rage
+{{198758357-0-83239:}}Berserker Rage
+{{198758357-0-83240:}}Berserker Rage
+{{198758357-0-83241:}}Berserker Rage
+{{198758357-0-83260:}}Flurry
+{{198758357-0-83261:}}Flurry
+{{198758357-0-83272:}}Shield Wall
+{{198758357-0-83275:}}Shield Wall
+{{198758357-0-83279:}}Shield Wall
+{{198758357-0-83292:}}Spell Wall
+{{198758357-0-83293:}}Spell Wall
+{{198758357-0-83295:}}Spell Wall
+{{198758357-0-83301:}}Spell Wall
+{{198758357-0-83310:}}Shield Discipline
+{{198758357-0-83311:}}Shield Discipline
+{{198758357-0-83313:}}Shield Discipline
+{{198758357-0-83329:}}Shield Discipline
+{{198758357-0-83446:}}Reverberating Bash
+{{198758357-0-83465:}}Rapid Fire
+{{198758357-0-83538:}}Regeneration
+{{198758357-0-83552:}}Panacea
+{{198758357-0-83600:}}Lacerate
+{{198758357-0-83619:}}Elemental Storm
+{{198758357-0-83622:}}Elemental Storm
+{{198758357-0-83642:}}Eye of the Storm
+{{198758357-0-83675:}}Eye of the Storm
+{{198758357-0-83844:}}Panacea
+{{198758357-0-83850:}}Life Giver
+{{198758357-0-83851:}}Life Giver
+{{198758357-0-83868:}}Life Giver
+{{198758357-0-83869:}}Life Giver
+{{198758357-0-83870:}}Life Giver
+{{198758357-0-83872:}}Life Giver
+{{198758357-0-83873:}}Life Giver
+{{198758357-0-83874:}}Life Giver
+{{198758357-0-83877:}}Life Giver
+{{198758357-0-83878:}}Life Giver
+{{198758357-0-83879:}}Life Giver
+{{198758357-0-84356:}}Lacerate
+{{198758357-0-84434:}}Elemental Rage
+{{198758357-0-84438:}}Elemental Rage
+{{198758357-0-84554:}}Momentum
+{{198758357-0-84606:}}Momentum
+{{198758357-0-84616:}}Momentum
+{{198758357-0-84638:}}Momentum
+{{198758357-0-85132:}}Light's Champion
+{{198758357-0-85133:}}Light's Champion
+{{198758357-0-85156:}}Lacerate
+{{198758357-0-85171:}}Lacerate
+{{198758357-0-85179:}}Thrive in Chaos
+{{198758357-0-85180:}}Thrive in Chaos
+{{198758357-0-85182:}}Thrive in Chaos
+{{198758357-0-85184:}}Thrive in Chaos
+{{198758357-0-85257:}}Toxic Barrage
+{{198758357-0-85260:}}Toxic Barrage
+{{198758357-0-85261:}}Toxic Barrage
+{{198758357-0-85339:}}Whirlwind
+{{198758357-0-85340:}}Whirlwind
+{{198758357-0-85341:}}Whirlwind
+{{198758357-0-85342:}}Twin Slashes
+{{198758357-0-85343:}}Twin Slashes
+{{198758357-0-85359:}}Reverse Slash
+{{198758357-0-85361:}}Puncture
+{{198758357-0-85451:}}Ballista
+{{198758357-0-85458:}}Ballista
+{{198758357-0-85462:}}Ballista
+{{198758357-0-85645:}}Bombard
+{{198758357-0-86563:}}Rapid Fire
+{{198758357-0-86570:}}Shield Charge
+{{198758357-0-86571:}}Shield Charge
+{{198758357-0-86572:}}Shield Charge
+{{198758357-0-86573:}}Shield Charge
+{{198758357-0-86574:}}Shield Charge
+{{198758357-0-86575:}}Shield Charge
+{{198758357-0-86832:}}Power Bash
+{{198758357-0-86859:}}Rally
+{{198758357-0-87283:}}Regeneration
+{{198758357-0-87284:}}Regeneration
+{{198758357-0-87285:}}Regeneration
+{{198758357-0-87901:}}Bombard
+{{198758357-0-87902:}}Bombard
+{{198758357-0-87904:}}Bombard
+{{198758357-0-88088:}}Bombard
+{{198758357-0-88107:}}Bombard
+{{198758357-0-88108:}}Bombard
+{{198758357-0-88150:}}Cleave
+{{198758357-0-88153:}}Cleave
+{{198758357-0-88743:}}Ancient Knowledge
+{{198758357-0-88744:}}Ancient Knowledge
+{{198758357-0-88753:}}Ancient Knowledge
+{{198758357-0-88754:}}Ancient Knowledge
+{{198758357-0-90399:}}Bombard
+{{198758357-0-90765:}}Acid Spray
+{{198758357-0-90776:}}Acid Spray
+{{198758357-0-90777:}}Acid Spray
+{{198758357-0-90779:}}Acid Spray
+{{198758357-0-90780:}}Acid Spray
+{{198758357-0-90781:}}Acid Spray
+{{198758357-0-90790:}}Acid Spray
+{{198758357-0-90809:}}Acid Spray
+{{198758357-0-90810:}}Acid Spray
+{{198758357-0-90811:}}Acid Spray
+{{198758357-0-90812:}}Acid Spray
+{{198758357-0-90813:}}Acid Spray
+{{198758357-0-90814:}}Acid Spray
+{{198758357-0-90816:}}Acid Spray
+{{198758357-0-90965:}}Acid Spray
+{{198758357-0-90966:}}Acid Spray
+{{198758357-0-90967:}}Acid Spray
+{{198758357-0-90968:}}Acid Spray
+{{198758357-0-90969:}}Acid Spray
+{{198758357-0-90971:}}Acid Spray
+{{198758357-0-90972:}}Acid Spray
+{{198758357-0-90982:}}Acid Spray
+{{198758357-0-90983:}}Acid Spray
+{{198758357-0-90984:}}Acid Spray
+{{198758357-0-90985:}}Acid Spray
+{{198758357-0-90987:}}Acid Spray
+{{198758357-0-90988:}}Acid Spray
+{{198758357-0-90989:}}Acid Spray
+{{198758357-0-91148:}}Dizzying Swing
+{{198758357-0-91149:}}Dizzying Swing
+{{198758357-0-91150:}}Dizzying Swing
+{{198758357-0-91310:}}Reverberating Bash
+{{198758357-0-91311:}}Reverberating Bash
+{{198758357-0-91328:}}Steel Tornado
+{{198758357-0-91329:}}Whirlwind
+{{198758357-0-91331:}}Lethal Arrow
+{{198758357-0-91342:}}Illustrious Healing
+{{198758357-0-91343:}}Illustrious Healing
+{{198758357-0-91461:}}Bombard
+{{198758357-0-91463:}}Bombard
+{{198758357-0-91465:}}Bombard
+{{198758357-0-91466:}}Bombard
+{{198758357-0-91622:}}Whirlwind
+{{198758357-0-91737:}}Scatter Shot
+{{198758357-0-92302:}}Bombard
+{{198758357-0-92479:}}Bombard
+{{198758357-0-92668:}}Whirlwind
+{{198758357-0-92669:}}Whirlwind
+{{198758357-0-93052:}}Rally
+{{198758357-0-93053:}}Rally
+{{198758357-0-93138:}}Cleave
+{{198758357-0-93139:}}Cleave
+{{198758357-0-93142:}}Cleave
+{{198758357-0-93150:}}Power Bash
+{{198758357-0-93151:}}Power Bash
+{{198758357-0-93566:}}Bombard
+{{198758357-0-93569:}}Bombard
+{{198758357-0-93570:}}Bombard
+{{198758357-0-93571:}}Bombard
+{{198758357-0-93572:}}Bombard
+{{198758357-0-93573:}}Bombard
+{{198758357-0-93574:}}Bombard
+{{198758357-0-93994:}}Whirlwind
+{{198758357-0-93995:}}Whirlwind
+{{198758357-0-95258:}}Bombard
+{{198758357-0-95259:}}Bombard
+{{198758357-0-95263:}}Onslaught
+{{198758357-0-95351:}}Bombard
+{{198758357-0-95353:}}Onslaught
+{{198758357-0-96512:}}Cleave
+{{198758357-0-97037:}}Flurry
+{{198758357-0-97038:}}Flurry
+{{198758357-0-97081:}}Cleave
+{{198758357-0-97108:}}Reverse Slash
+{{198758357-0-97117:}}Uppercut
+{{198758357-0-97118:}}Uppercut
+{{198758357-0-97119:}}Uppercut
+{{198758357-0-97465:}}Cleave
+{{198758357-0-97466:}}Cleave
+{{198758357-0-97468:}}Cleave
+{{198758357-0-97550:}}Cleave
+{{198758357-0-98122:}}Cleave
+{{198758357-0-98616:}}Cleave
+{{198758357-0-98667:}}Uppercut
+{{198758357-0-98668:}}Uppercut
+{{198758357-0-98669:}}Uppercut
+{{198758357-0-98811:}}Uppercut
+{{198758357-0-98812:}}Uppercut
+{{198758357-0-99527:}}Lacerate
+{{198758357-0-99528:}}Lacerate
+{{198758357-0-99552:}}Uppercut
+{{198758357-0-99554:}}Uppercut
+{{198758357-0-99799:}}Lacerate
+{{198758357-0-99800:}}Lacerate
+{{198758357-0-100899:}}Healing Ward
+{{198758357-0-100949:}}Poison Arrow
+{{198758357-0-100950:}}Acid Spray
+{{198758357-0-100957:}}Poison Arrow
+{{198758357-0-100958:}}Acid Spray
+{{198758357-0-100959:}}Acid Spray
+{{198758357-0-100960:}}Acid Spray
+{{198758357-0-101298:}}Acid Spray
+{{198758357-0-101299:}}Acid Spray
+{{198758357-0-101435:}}Executioner
+{{198758357-0-101436:}}Executioner
+{{198758357-0-101685:}}Power Bash
+{{198758357-0-101686:}}Power Bash
+{{198758357-0-101687:}}Power Bash
+{{198758357-0-101693:}}Arrow Spray
+{{198758357-0-101695:}}Arrow Spray
+{{198758357-0-101905:}}Acid Spray
+{{198758357-0-101906:}}Acid Spray
+{{198758357-0-101907:}}Acid Spray
+{{198758357-0-102418:}}Stampede
+{{198758357-0-102419:}}Stampede
+{{198758357-0-102424:}}Stampede
+{{198758357-0-102425:}}Stampede
+{{198758357-0-102426:}}Stampede
+{{198758357-0-102745:}}Flurry
+{{198758357-0-102882:}}Vault
+{{198758357-0-102884:}}Vault
+{{198758357-0-103777:}}Lacerate
+{{198758357-0-103778:}}Lacerate
+{{198758357-0-105313:}}Volley
+{{198758357-0-105314:}}Volley
+{{198758357-0-105432:}}Lacerate
+{{198758357-0-105433:}}Lacerate
+{{198758357-0-106184:}}Absorb
+{{198758357-0-106185:}}Absorb
+{{198758357-0-106186:}}Absorb
+{{198758357-0-106194:}}Absorb
+{{198758357-0-106198:}}Absorb
+{{198758357-0-106199:}}Absorb
+{{198758357-0-106448:}}Vault
+{{198758357-0-106449:}}Vault
+{{198758357-0-106458:}}Vault
+{{198758357-0-106459:}}Vault
+{{198758357-0-106460:}}Vault
+{{198758357-0-106461:}}Vault
+{{198758357-0-106462:}}Vault
+{{198758357-0-106467:}}Vault
+{{198758357-0-106468:}}Vault
+{{198758357-0-106469:}}Vault
+{{198758357-0-106470:}}Vault
+{{198758357-0-106471:}}Vault
+{{198758357-0-106476:}}Vault
+{{198758357-0-106506:}}Vault
+{{198758357-0-106507:}}Vault
+{{198758357-0-106508:}}Vault
+{{198758357-0-106509:}}Vault
+{{198758357-0-106510:}}Vault
+{{198758357-0-106511:}}Vault
+{{198758357-0-106512:}}Vault
+{{198758357-0-106513:}}Vault
+{{198758357-0-106514:}}Vault
+{{198758357-0-106515:}}Vault
+{{198758357-0-106516:}}Vault
+{{198758357-0-106517:}}Vault
+{{198758357-0-106518:}}Vault
+{{198758357-0-106680:}}Low Slash
+{{198758357-0-106681:}}Low Slash
+{{198758357-0-106711:}}Low Slash
+{{198758357-0-106811:}}Vault
+{{198758357-0-106829:}}Vault
+{{198758357-0-106830:}}Vault
+{{198758357-0-106836:}}Vault
+{{198758357-0-106837:}}Vault
+{{198758357-0-106838:}}Vault
+{{198758357-0-106879:}}Vault
+{{198758357-0-106882:}}Lacerate
+{{198758357-0-106888:}}Lacerate
+{{198758357-0-106892:}}Vault
+{{198758357-0-107248:}}Uppercut
+{{198758357-0-107322:}}Stampede
+{{198758357-0-107414:}}Stampede
+{{198758357-0-107415:}}Stampede
+{{198758357-0-107416:}}Stampede
+{{198758357-0-107417:}}Stampede
+{{198758357-0-107606:}}Stampede
+{{198758357-0-107607:}}Stampede
+{{198758357-0-107675:}}Arrow Spray
+{{198758357-0-107676:}}Arrow Spray
+{{198758357-0-107677:}}Arrow Spray
+{{198758357-0-107697:}}Power Bash
+{{198758357-0-107698:}}Power Bash
+{{198758357-0-107701:}}Deep Slash
+{{198758357-0-107702:}}Deep Slash
+{{198758357-0-107703:}}Deep Slash
+{{198758357-0-107711:}}Shield Charge
+{{198758357-0-107712:}}Shield Charge
+{{198758357-0-107713:}}Shield Charge
+{{198758357-0-107714:}}Shield Charge
+{{198758357-0-107715:}}Shield Charge
+{{198758357-0-107716:}}Shield Charge
+{{198758357-0-107718:}}Shield Charge
+{{198758357-0-107719:}}Shield Charge
+{{198758357-0-107905:}}Low Slash
+{{198758357-0-108694:}}Lacerate
+{{198758357-0-108696:}}Lacerate
+{{198758357-0-108702:}}Rapid Fire
+{{198758357-0-108865:}}Vault
+{{198758357-0-108869:}}Vault
+{{198758357-0-108870:}}Vault
+{{198758357-0-108871:}}Vault
+{{198758357-0-108872:}}Vault
+{{198758357-0-108875:}}Vault
+{{198758357-0-108876:}}Vault
+{{198758357-0-108877:}}Vault
+{{198758357-0-108878:}}Vault
+{{198758357-0-108879:}}Vault
+{{198758357-0-108880:}}Vault
+{{198758357-0-108881:}}Vault
+{{198758357-0-108882:}}Vault
+{{198758357-0-108883:}}Vault
+{{198758357-0-108884:}}Vault
+{{198758357-0-108885:}}Vault
+{{198758357-0-108886:}}Vault
+{{198758357-0-108887:}}Vault
+{{198758357-0-108916:}}Absorb
+{{198758357-0-108917:}}Absorb
+{{198758357-0-108918:}}Absorb
+{{198758357-0-108919:}}Absorb
+{{198758357-0-109372:}}Whirlwind
+{{198758357-0-109373:}}Whirlwind
+{{198758357-0-109444:}}Whirlwind
+{{198758357-0-109449:}}Whirlwind
+{{198758357-0-109450:}}Whirlwind
+{{198758357-0-109451:}}Whirlwind
+{{198758357-0-109452:}}Whirlwind
+{{198758357-0-109458:}}Whirlwind
+{{198758357-0-109459:}}Whirlwind
+{{198758357-0-109460:}}Whirlwind
+{{198758357-0-109461:}}Whirlwind
+{{198758357-0-109494:}}Lacerate
+{{198758357-0-110197:}}Smash
+{{198758357-0-110214:}}Flurry
+{{198758357-0-110215:}}Flurry
+{{198758357-0-110217:}}Flurry
+{{198758357-0-110218:}}Flurry
+{{198758357-0-110359:}}Stampede
+{{198758357-0-110959:}}Cleave
+{{198758357-0-110960:}}Cleave
+{{198758357-0-110961:}}Cleave
+{{198758357-0-110962:}}Cleave
+{{198758357-0-111005:}}Cleave
+{{198758357-0-111006:}}Cleave
+{{198758357-0-111009:}}Cleave
+{{198758357-0-111010:}}Cleave
+{{198758357-0-111164:}}Power Bash
+{{198758357-0-111165:}}Power Bash
+{{198758357-0-111212:}}Volley
+{{198758357-0-111214:}}Volley
+{{198758357-0-111299:}}Cleave
+{{198758357-0-111337:}}Lacerate
+{{198758357-0-111365:}}Lacerate
+{{198758357-0-111483:}}Stampede
+{{198758357-0-111507:}}Whirlwind
+{{198758357-0-111546:}}Low Slash
+{{198758357-0-111547:}}Low Slash
+{{198758357-0-111857:}}Whirlwind
+{{198758357-0-111858:}}Whirlwind
+{{198758357-0-111859:}}Whirlwind
+{{198758357-0-111871:}}Uppercut
+{{198758357-0-111872:}}Uppercut
+{{198758357-0-111873:}}Uppercut
+{{198758357-0-112757:}}Smash
+{{198758357-0-113147:}}Scatter Shot
+{{198758357-0-113148:}}Arrow Spray
+{{198758357-0-113149:}}Arrow Spray
+{{198758357-0-113152:}}Arrow Spray
+{{198758357-0-113156:}}Flurry
+{{198758357-0-113255:}}Flurry
+{{198758357-0-113370:}}Stampede
+{{198758357-0-113371:}}Stampede
+{{198758357-0-113372:}}Stampede
+{{198758357-0-113374:}}Stampede
+{{198758357-0-113375:}}Stampede
+{{198758357-0-113377:}}Stampede
+{{198758357-0-113396:}}Uppercut
+{{198758357-0-113397:}}Uppercut
+{{198758357-0-113398:}}Uppercut
+{{198758357-0-114436:}}Cleave
+{{198758357-0-115039:}}Arrow Spray
+{{198758357-0-115182:}}Lacerate
+{{198758357-0-116190:}}Lacerate
+{{198758357-0-116191:}}Lacerate
+{{198758357-0-117075:}}Shield Charge
+{{198758357-0-117076:}}Shield Charge
+{{198758357-0-117263:}}Lacerate
+{{198758357-0-117264:}}Lacerate
+{{198758357-0-117309:}}Cleave
+{{198758357-0-117310:}}Uppercut
+{{198758357-0-117311:}}Uppercut
+{{198758357-0-117312:}}Uppercut
+{{198758357-0-117345:}}Low Slash
+{{198758357-0-117346:}}Low Slash
+{{198758357-0-117352:}}Whirlwind
+{{198758357-0-117353:}}Whirlwind
+{{198758357-0-118540:}}Whirlwind
+{{198758357-0-119468:}}Absorb
+{{198758357-0-119932:}}Vault
+{{198758357-0-119933:}}Vault
+{{198758357-0-119934:}}Vault
+{{198758357-0-119935:}}Vault
+{{198758357-0-119936:}}Vault
+{{198758357-0-119937:}}Vault
+{{198758357-0-120472:}}Stampede
+{{198758357-0-120666:}}Stampede
+{{198758357-0-120668:}}Stampede
+{{198758357-0-120669:}}Stampede
+{{198758357-0-120670:}}Stampede
+{{198758357-0-120671:}}Stampede
+{{198758357-0-120672:}}Stampede
+{{198758357-0-120673:}}Stampede
+{{198758357-0-120674:}}Stampede
+{{198758357-0-120675:}}Stampede
+{{198758357-0-120676:}}Stampede
+{{198758357-0-120740:}}Lacerate
+{{198758357-0-120742:}}Lacerate
+{{198758357-0-121473:}}Flurry
+{{198758357-0-121474:}}Flurry
+{{198758357-0-122778:}}Cleave
+{{198758357-0-122779:}}Cleave
+{{198758357-0-122780:}}Cleave
+{{198758357-0-122781:}}Cleave
+{{198758357-0-122827:}}Cycle of Life
+{{198758357-0-122828:}}Cycle of Life
+{{198758357-0-123087:}}Acid Spray
+{{198758357-0-124994:}}Cleave
+{{198758357-0-125846:}}Grand Healing
+{{198758357-0-125848:}}Illustrious Healing
+{{198758357-0-125851:}}Healing Springs
+{{198758357-0-125947:}}Reverberating Bash
+{{198758357-0-125981:}}Twin Slashes
+{{198758357-0-125986:}}Bombard
+{{198758357-0-125987:}}Bombard
+{{198758357-0-126078:}}Whirlwind
+{{198758357-0-126474:}}Stampede
+{{198758357-0-126475:}}Stampede
+{{198758357-0-126476:}}Stampede
+{{198758357-0-126489:}}Berserker Strike
+{{198758357-0-126492:}}Berserker Rage
+{{198758357-0-126497:}}Onslaught
+{{198758357-0-126604:}}Defensive Posture
+{{198758357-0-126608:}}Defensive Stance
+{{198758357-0-126632:}}Absorb Missile
+{{198758357-0-126639:}}Hidden Blade
+{{198758357-0-126641:}}Hidden Blade
+{{198758357-0-126654:}}Flying Blade
+{{198758357-0-126658:}}Flying Blade
+{{198758357-0-126659:}}Flying Blade
+{{198758357-0-126666:}}Flying Blade
+{{198758357-0-126667:}}Flying Blade
+{{198758357-0-126669:}}Flying Blade
+{{198758357-0-126850:}}Bombard
+{{198758357-0-127492:}}Uppercut
+{{198758357-0-127493:}}Uppercut
+{{198758357-0-127494:}}Uppercut
+{{198758357-0-128805:}}Vault
+{{198758357-0-128806:}}Vault
+{{198758357-0-128807:}}Vault
+{{198758357-0-128808:}}Vault
+{{198758357-0-128809:}}Vault
+{{198758357-0-128810:}}Vault
+{{198758357-0-129325:}}Cleave
+{{198758357-0-129328:}}Cleave
+{{198758357-0-129330:}}Cleave
+{{198758357-0-129331:}}Cleave
+{{198758357-0-129335:}}Uppercut
+{{198758357-0-129336:}}Uppercut
+{{198758357-0-129337:}}Uppercut
+{{198758357-0-129339:}}Arrow Spray
+{{198758357-0-129340:}}Arrow Spray
+{{198758357-0-129341:}}Arrow Spray
+{{198758357-0-129343:}}Volley
+{{198758357-0-129344:}}Volley
+{{198758357-0-131183:}}Volley
+{{198758357-0-131184:}}Endless Hail
+{{198758357-0-131289:}}Volley
+{{198758357-0-131292:}}Volley
+{{198758357-0-131314:}}Magnum Shot
+{{198758357-0-131315:}}Magnum Shot
+{{198758357-0-131316:}}Magnum Shot
+{{198758357-0-131688:}}Draining Shot
+{{198758357-0-131863:}}Uppercut
+{{198758357-0-131864:}}Uppercut
+{{198758357-0-131865:}}Uppercut
+{{198758357-0-132764:}}Lacerate
+{{198758357-0-132791:}}Cleave
+{{198758357-0-132792:}}Cleave
+{{198758357-0-132793:}}Cleave
+{{198758357-0-132794:}}Cleave
+{{198758357-0-132795:}}Cleave
+{{198758357-0-132796:}}Cleave
+{{198758357-0-132797:}}Cleave
+{{198758357-0-132798:}}Cleave
+{{198758357-0-133344:}}Uppercut
+{{198758357-0-133347:}}Uppercut
+{{198758357-0-133348:}}Uppercut
+{{198758357-0-133581:}}Flurry
+{{198758357-0-133582:}}Flurry
+{{198758357-0-133656:}}Bombard
+{{198758357-0-133724:}}Bombard
+{{198758357-0-133852:}}Bombard
+{{198758357-0-133965:}}Slaughter
+{{198758357-0-134378:}}Low Slash
+{{198758357-0-134379:}}Low Slash
+{{198758357-0-134664:}}Bombard
+{{198758357-0-134665:}}Bombard
+{{198758357-0-134666:}}Bombard
+{{198758357-0-134667:}}Bombard
+{{198758357-0-134668:}}Bombard
+{{198758357-0-134672:}}Smash
+{{198758357-0-135017:}}Uppercut
+{{198758357-0-135018:}}Uppercut
+{{198758357-0-135019:}}Uppercut
+{{198758357-0-135376:}}Critical Charge
+{{198758357-0-135843:}}Berserker Rage
+{{198758357-0-135992:}}Power Bash
+{{198758357-0-135993:}}Power Bash
+{{198758357-0-136393:}}Vault
+{{198758357-0-136454:}}Vault
+{{198758357-0-136455:}}Vault
+{{198758357-0-136456:}}Vault
+{{198758357-0-136457:}}Vault
+{{198758357-0-136458:}}Vault
+{{198758357-0-136459:}}Vault
+{{198758357-0-136460:}}Vault
+{{198758357-0-136461:}}Vault
+{{198758357-0-136462:}}Vault
+{{198758357-0-136463:}}Vault
+{{198758357-0-136464:}}Vault
+{{198758357-0-136465:}}Vault
+{{198758357-0-136466:}}Vault
+{{198758357-0-136467:}}Vault
+{{198758357-0-136468:}}Vault
+{{198758357-0-136469:}}Vault
+{{198758357-0-136470:}}Vault
+{{198758357-0-136961:}}Uppercut
+{{198758357-0-137279:}}Flurry
+{{198758357-0-137280:}}Flurry
+{{198758357-0-137500:}}Cleave
+{{198758357-0-137807:}}Dizzying Swing
+{{198758357-0-137878:}}Cleave
+{{198758357-0-137879:}}Cleave
+{{198758357-0-137880:}}Cleave
+{{198758357-0-137881:}}Cleave
+{{198758357-0-137882:}}Cleave
+{{198758357-0-137883:}}Cleave
+{{198758357-0-137884:}}Cleave
+{{198758357-0-137885:}}Cleave
+{{198758357-0-138586:}}Smash
+{{198758357-0-138587:}}Smash
+{{198758357-0-138670:}}Smash
+{{198758357-0-139373:}}Smash
+{{198758357-0-140119:}}Smash
+{{198758357-0-140126:}}Smash
+{{198758357-0-140127:}}Smash
+{{198758357-0-140133:}}Bombard
+{{198758357-0-140135:}}Bombard
+{{198758357-0-140136:}}Bombard
+{{198758357-0-140264:}}Absorb
+{{198758357-0-140327:}}Whirlwind
+{{198758357-0-140328:}}Whirlwind
+{{198758357-0-140464:}}Smash
+{{198758357-0-140530:}}Bombard
+{{198758357-0-140767:}}Smash
+{{198758357-0-140768:}}Smash
+{{198758357-0-141240:}}Uppercut
+{{198758357-0-141241:}}Uppercut
+{{198758357-0-141242:}}Uppercut
+{{198758357-0-141949:}}Uppercut
+{{198758357-0-141950:}}Uppercut
+{{198758357-0-141951:}}Uppercut
+{{198758357-0-141962:}}Whirlwind
+{{198758357-0-142019:}}Cleave
+{{198758357-0-142067:}}Flurry
+{{198758357-0-142071:}}Flurry
+{{198758357-0-142979:}}Low Slash
+{{198758357-0-142980:}}Low Slash
+{{198758357-0-142981:}}Low Slash
+{{198758357-0-142982:}}Low Slash
+{{198758357-0-143030:}}Arrow Spray
+{{198758357-0-143031:}}Arrow Spray
+{{198758357-0-143261:}}Uppercut
+{{198758357-0-143262:}}Uppercut
+{{198758357-0-144680:}}Shield Charge
+{{198758357-0-144903:}}Force Pulse
+{{198758357-0-144905:}}Force Pulse
+{{198758357-0-144949:}}Uppercut
+{{198758357-0-144950:}}Uppercut
+{{198758357-0-144951:}}Uppercut
+{{198758357-0-145185:}}Force Pulse
+{{198758357-0-145679:}}Bombard
+{{198758357-0-145712:}}Bombard
+{{198758357-0-146322:}}Destruction Expert
+{{198758357-0-146325:}}Destruction Expert
+{{198758357-0-146468:}}Low Slash
+{{198758357-0-146470:}}Low Slash
+{{198758357-0-146677:}}Uppercut
+{{198758357-0-146678:}}Uppercut
+{{198758357-0-146679:}}Uppercut
+{{198758357-0-147036:}}Snipe
+{{198758357-0-147189:}}Deadly Bash
+{{198758357-0-147190:}}Deadly Bash
+{{198758357-0-147339:}}Cleave
+{{198758357-0-147341:}}Cleave
+{{198758357-0-147367:}}Uppercut
+{{198758357-0-147368:}}Uppercut
+{{198758357-0-147369:}}Uppercut
+{{198758357-0-147380:}}Arrow Spray
+{{198758357-0-147382:}}Volley
+{{198758357-0-147383:}}Volley
+{{198758357-0-147391:}}Flurry
+{{198758357-0-147392:}}Flurry
+{{198758357-0-147393:}}Flurry
+{{198758357-0-147394:}}Flurry
+{{198758357-0-147395:}}Flurry
+{{198758357-0-147559:}}Rapid Fire
+{{198758357-0-148269:}}Bombard
+{{198758357-0-148314:}}Volley
+{{198758357-0-148316:}}Arrow Spray
+{{198758357-0-148317:}}Arrow Spray
+{{198758357-0-148318:}}Arrow Spray
+{{198758357-0-148329:}}Arrow Spray
+{{198758357-0-148330:}}Arrow Spray
+{{198758357-0-148339:}}Rapid Fire
+{{198758357-0-148347:}}Rapid Fire
+{{198758357-0-148348:}}Rapid Fire
+{{198758357-0-148349:}}Rapid Fire
+{{198758357-0-148350:}}Rapid Fire
+{{198758357-0-148351:}}Rapid Fire
+{{198758357-0-148380:}}Bombard
+{{198758357-0-148381:}}Bombard
+{{198758357-0-148388:}}Bombard
+{{198758357-0-148389:}}Bombard
+{{198758357-0-148581:}}Arrow Barrage
+{{198758357-0-148583:}}Arrow Barrage
+{{198758357-0-148610:}}Arrow Barrage
+{{198758357-0-148857:}}Arrow Barrage
+{{198758357-0-149062:}}Healing Springs
+{{198758357-0-149154:}}Healing Springs
+{{198758357-0-149262:}}Cleave
+{{198758357-0-149883:}}Arrow Spray
+{{198758357-0-149886:}}Arrow Spray
+{{198758357-0-150047:}}Carve
+{{198758357-0-150050:}}Carve
+{{198758357-0-150231:}}Cleave
+{{198758357-0-150308:}}Power Bash
+{{198758357-0-150309:}}Power Bash
+{{198758357-0-150311:}}Low Slash
+{{198758357-0-150418:}}Uppercut
+{{198758357-0-150419:}}Uppercut
+{{198758357-0-150420:}}Uppercut
+{{198758357-0-150728:}}Force Pulse
+{{198758357-0-150743:}}Force Pulse
+{{198758357-0-151281:}}Uppercut
+{{198758357-0-151295:}}Uppercut
+{{198758357-0-151296:}}Uppercut
+{{198758357-0-151297:}}Uppercut
+{{198758357-0-151298:}}Uppercut
+{{198758357-0-151299:}}Uppercut
+{{198758357-0-151536:}}Cleave
+{{198758357-0-151561:}}Rapid Fire
+{{198758357-0-152468:}}Volley
+{{198758357-0-152469:}}Volley
+{{198758357-0-152472:}}Arrow Spray
+{{198758357-0-152473:}}Arrow Spray
+{{198758357-0-152689:}}Smash
+{{198758357-0-153589:}}Stampede
+{{198758357-0-153590:}}Stampede
+{{198758357-0-153592:}}Stampede
+{{198758357-0-153595:}}Stampede
+{{198758357-0-153599:}}Stampede
+{{198758357-0-153600:}}Stampede
+{{198758357-0-153601:}}Stampede
+{{198758357-0-153788:}}Uppercut
+{{198758357-0-153789:}}Uppercut
+{{198758357-0-153791:}}Uppercut
+{{198758357-0-154187:}}Power Bash
+{{198758357-0-154188:}}Power Bash
+{{198758357-0-154189:}}Power Bash
+{{198758357-0-154472:}}Arrow Barrage
+{{198758357-0-154544:}}Stampede
+{{198758357-0-154547:}}Stampede
+{{198758357-0-154559:}}Stampede
+{{198758357-0-154615:}}Stampede
+{{198758357-0-154724:}}Whirlwind
+{{198758357-0-154725:}}Whirlwind
+{{198758357-0-154957:}}Stampede
+{{198758357-0-155073:}}Uppercut
+{{198758357-0-155074:}}Uppercut
+{{198758357-0-155075:}}Uppercut
+{{198758357-0-155076:}}Uppercut
+{{198758357-0-155077:}}Uppercut
+{{198758357-0-155078:}}Uppercut
+{{198758357-0-155143:}}Volley
+{{198758357-0-155144:}}Volley
+{{198758357-0-155148:}}Volley
+{{198758357-0-155340:}}Stampede
+{{198758357-0-155341:}}Stampede
+{{198758357-0-155345:}}Stampede
+{{198758357-0-155415:}}Regeneration
+{{198758357-0-155503:}}Stampede
+{{198758357-0-156590:}}Uppercut
+{{198758357-0-156591:}}Uppercut
+{{198758357-0-156592:}}Uppercut
+{{198758357-0-156593:}}Uppercut
+{{198758357-0-156594:}}Uppercut
+{{198758357-0-156595:}}Uppercut
+{{198758357-0-157471:}}Uppercut
+{{198758357-0-157472:}}Uppercut
+{{198758357-0-157473:}}Uppercut
+{{198758357-0-157657:}}Rally
+{{198758357-0-159437:}}Snipe
+{{198758357-0-159583:}}Smash
+{{198758357-0-159584:}}Smash
+{{198758357-0-159585:}}Smash
+{{198758357-0-159586:}}Smash
+{{198758357-0-159601:}}Smash
+{{198758357-0-159658:}}Lacerate
+{{198758357-0-159660:}}Vault
+{{198758357-0-159661:}}Vault
+{{198758357-0-159662:}}Vault
+{{198758357-0-159663:}}Vault
+{{198758357-0-159717:}}Cleave
+{{198758357-0-159728:}}Carve
+{{198758357-0-159821:}}Lacerate
+{{198758357-0-159823:}}Lacerate
+{{198758357-0-160076:}}Power Bash
+{{198758357-0-160077:}}Power Bash
+{{198758357-0-160078:}}Power Bash
+{{198758357-0-160423:}}Cleave
+{{198758357-0-160424:}}Cleave
+{{198758357-0-160911:}}Stampede
+{{198758357-0-160912:}}Stampede
+{{198758357-0-162905:}}Power Bash
+{{198758357-0-162908:}}Power Bash
+{{198758357-0-162910:}}Low Slash
+{{198758357-0-162911:}}Power Bash
+{{198758357-0-163083:}}Smash
+{{198758357-0-163693:}}Arrow Spray
+{{198758357-0-163694:}}Arrow Spray
+{{198758357-0-163695:}}Arrow Spray
+{{198758357-0-163696:}}Arrow Spray
+{{198758357-0-163698:}}Volley
+{{198758357-0-163699:}}Arrow Spray
+{{198758357-0-164480:}}Smash
+{{198758357-0-164490:}}Smash
+{{198758357-0-164761:}}Smash
+{{198758357-0-166981:}}Lacerate
+{{198758357-0-168375:}}Lacerate
+{{198758357-0-168576:}}Uppercut
+{{198758357-0-168582:}}Uppercut
+{{198758357-0-168583:}}Uppercut
+{{198758357-0-168750:}}Power Bash
+{{198758357-0-168751:}}Power Bash
+{{198758357-0-168752:}}Power Bash
+{{198758357-0-169205:}}Lacerate
+{{198758357-0-169206:}}Lacerate
+{{198758357-0-169489:}}Vault
+{{198758357-0-169490:}}Vault
+{{198758357-0-169635:}}Cleave
+{{198758357-0-170184:}}Uppercut
+{{198758357-0-170185:}}Uppercut
+{{198758357-0-170186:}}Uppercut
+{{198758357-0-170283:}}Spell Wall
+{{198758357-0-170302:}}Bombard
+{{198758357-0-170303:}}Bombard
+{{198758357-0-170304:}}Bombard
+{{198758357-0-170305:}}Bombard
+{{198758357-0-170754:}}Flurry
+{{198758357-0-170755:}}Flurry
+{{198758357-0-170756:}}Flurry
+{{198758357-0-170757:}}Flurry
+{{198758357-0-170758:}}Flurry
+{{198758357-0-170916:}}Volley
+{{198758357-0-170919:}}Volley
+{{198758357-0-171022:}}Flurry
+{{198758357-0-171023:}}Flurry
+{{198758357-0-171024:}}Flurry
+{{198758357-0-171025:}}Flurry
+{{198758357-0-171408:}}Onslaught
+{{198758357-0-171423:}}Onslaught
+{{198758357-0-171492:}}Regeneration
+{{198758357-0-171532:}}Low Slash
+{{198758357-0-171533:}}Low Slash
+{{198758357-0-171713:}}Onslaught
+{{198758357-0-171951:}}Uppercut
+{{198758357-0-171952:}}Uppercut
+{{198758357-0-171953:}}Uppercut
+{{198758357-0-171955:}}Cleave
+{{198758357-0-172018:}}Cleave
+{{198758357-0-172204:}}Low Slash
+{{198758357-0-172268:}}Shield Throw
+{{198758357-0-172269:}}Shield Throw
+{{198758357-0-172270:}}Shield Throw
+{{198758357-0-172271:}}Shield Throw
+{{198758357-0-172272:}}Shield Throw
+{{198758357-0-172273:}}Shield Throw
+{{198758357-0-172274:}}Shield Throw
+{{198758357-0-172275:}}Shield Throw
+{{198758357-0-172276:}}Shield Throw
+{{198758357-0-172277:}}Shield Throw
+{{198758357-0-172278:}}Shield Throw
+{{198758357-0-172279:}}Shield Throw
+{{198758357-0-172522:}}Low Slash
+{{198758357-0-172524:}}Low Slash
+{{198758357-0-172773:}}Smash
+{{198758357-0-172774:}}Smash
+{{198758357-0-172906:}}Onslaught
+{{198758357-0-172907:}}Onslaught
+{{198758357-0-172928:}}Onslaught
+{{198758357-0-173192:}}Uppercut
+{{198758357-0-173193:}}Uppercut
+{{198758357-0-173194:}}Uppercut
+{{198758357-0-173305:}}Flurry
+{{198758357-0-173307:}}Flurry
+{{198758357-0-173308:}}Flurry
+{{198758357-0-173309:}}Flurry
+{{198758357-0-173310:}}Flurry
+{{198758357-0-173311:}}Flurry
+{{198758357-0-173312:}}Flurry
+{{198758357-0-173313:}}Flurry
+{{198758357-0-173314:}}Flurry
+{{198758357-0-173777:}}Absorb
+{{198758357-0-174234:}}Flurry
+{{198758357-0-174235:}}Flurry
+{{198758357-0-174236:}}Flurry
+{{198758357-0-174287:}}Cleave
+{{198758357-0-174603:}}Volley
+{{198758357-0-174604:}}Volley
+{{198758357-0-174605:}}Arrow Spray
+{{198758357-0-174606:}}Arrow Spray
+{{198758357-0-174610:}}Whirlwind
+{{198758357-0-174611:}}Whirlwind
+{{198758357-0-174738:}}Power Bash
+{{198758357-0-174739:}}Power Bash
+{{198758357-0-174740:}}Power Bash
+{{198758357-0-174752:}}Cleave
+{{198758357-0-174976:}}Smash
+{{198758357-0-174977:}}Smash
+{{198758357-0-175041:}}Onslaught
+{{198758357-0-175045:}}Onslaught
+{{198758357-0-175171:}}Onslaught
+{{198758357-0-175723:}}Shield Throw
+{{198758357-0-175724:}}Shield Throw
+{{198758357-0-175834:}}Bombard
+{{198758357-0-176411:}}Volley
+{{198758357-0-176412:}}Volley
+{{198758357-0-176415:}}Volley
+{{198758357-0-176547:}}Poison Arrow
+{{198758357-0-176630:}}Destructive Touch
+{{198758357-0-176631:}}Destructive Touch
+{{198758357-0-176900:}}Onslaught
+{{198758357-0-176912:}}Grand Healing
+{{198758357-0-176925:}}Illustrious Healing
+{{198758357-0-176926:}}Healing Springs
+{{198758357-0-176959:}}Shield Charge
+{{198758357-0-176960:}}Shield Charge
+{{198758357-0-177789:}}Rapid Fire
+{{198758357-0-178236:}}Onslaught
+{{198758357-0-178708:}}Vault
+{{198758357-0-178709:}}Vault
+{{198758357-0-179163:}}Onslaught
+{{198758357-0-179495:}}Rapid Fire
+{{198758357-0-179702:}}Ballista
+{{198758357-0-180895:}}Bombard
+{{198758357-0-180896:}}Bombard
+{{198758357-0-180897:}}Bombard
+{{198758357-0-180898:}}Bombard
+{{198758357-0-181444:}}Acid Spray
+{{198758357-0-181457:}}Acid Spray
+{{198758357-0-181459:}}Acid Spray
+{{198758357-0-181460:}}Acid Spray
+{{198758357-0-181461:}}Acid Spray
+{{198758357-0-181463:}}Acid Spray
+{{198758357-0-183523:}}Shield Charge
+{{198758357-0-183524:}}Shield Charge
+{{198758357-0-184311:}}Whirlwind
+{{198758357-0-184312:}}Whirlwind
+{{198758357-0-184769:}}Uppercut
+{{198758357-0-184771:}}Uppercut
+{{198758357-0-184772:}}Uppercut
+{{198758357-0-184773:}}Uppercut
+{{198758357-0-184774:}}Uppercut
+{{198758357-0-185455:}}Stampede
+{{198758357-0-185456:}}Stampede
+{{198758357-0-185457:}}Stampede
+{{198758357-0-186127:}}Stampede
+{{198758357-0-187417:}}Arrow Spray
+{{198758357-0-187421:}}Arrow Spray
+{{198758357-0-188076:}}Power Bash
+{{198758357-0-188077:}}Power Bash
+{{198758357-0-188078:}}Power Bash
+{{198758357-0-188138:}}Cleave
+{{198758357-0-189609:}}Smash
+{{198758357-0-189610:}}Smash
+{{198758357-0-190313:}}Bombard
+{{198758357-0-190314:}}Bombard
+{{198758357-0-190315:}}Bombard
+{{198758357-0-190967:}}Low Slash
+{{198758357-0-190968:}}Low Slash
+{{198758357-0-191267:}}Lacerate
+{{198758357-0-191305:}}Lacerate
+{{198758357-0-191363:}}Smash
+{{198758357-0-191408:}}Shield Throw
+{{198758357-0-191415:}}Shield Throw
+{{198758357-0-191416:}}Shield Throw
+{{198758357-0-191417:}}Shield Throw
+{{198758357-0-191418:}}Shield Throw
+{{198758357-0-191419:}}Shield Throw
+{{198758357-0-191420:}}Shield Throw
+{{198758357-0-191421:}}Shield Throw
+{{198758357-0-191422:}}Shield Throw
+{{198758357-0-191423:}}Shield Throw
+{{198758357-0-191424:}}Shield Throw
+{{198758357-0-191425:}}Shield Throw
+{{198758357-0-191426:}}Shield Throw
+{{198758357-0-191428:}}Shield Throw
+{{198758357-0-191508:}}Cleave
+{{198758357-0-192118:}}Arrow Spray
+{{198758357-0-192119:}}Arrow Spray
+{{198758357-0-192195:}}Cleave
+{{198758357-0-192196:}}Cleave
+{{198758357-0-192197:}}Cleave
+{{198758357-0-192198:}}Cleave
+{{198758357-0-192199:}}Cleave
+{{198758357-0-192200:}}Cleave
+{{198758357-0-192202:}}Cleave
+{{198758357-0-192203:}}Cleave
+{{198758357-0-192209:}}Cleave
+{{198758357-0-192213:}}Cleave
+{{198758357-0-192214:}}Cleave
+{{198758357-0-192406:}}Cleave
+{{198758357-0-192407:}}Cleave
+{{198758357-0-192651:}}Uppercut
+{{198758357-0-192652:}}Uppercut
+{{198758357-0-192654:}}Uppercut
+{{198758357-0-192657:}}Uppercut
+{{198758357-0-192995:}}Thrive in Chaos
+{{198758357-0-193108:}}Whirlwind
+{{198758357-0-193109:}}Whirlwind
+{{198758357-0-193489:}}Bombard
+{{198758357-0-193490:}}Bombard
+{{198758357-0-193491:}}Bombard
+{{198758357-0-193572:}}Absorb
+{{198758357-0-193573:}}Absorb
+{{198758357-0-193586:}}Absorb
+{{198758357-0-193588:}}Absorb
+{{198758357-0-193589:}}Absorb
+{{198758357-0-193590:}}Absorb
+{{198758357-0-193591:}}Absorb
+{{198758357-0-193592:}}Absorb
+{{198758357-0-193593:}}Absorb
+{{198758357-0-193594:}}Absorb
+{{198758357-0-193595:}}Absorb
+{{198758357-0-194086:}}Arrow Spray
+{{198758357-0-194163:}}Force Pulse
+{{198758357-0-194451:}}Rapid Fire
+{{198758357-0-194984:}}Uppercut
+{{198758357-0-194985:}}Uppercut
+{{198758357-0-194987:}}Uppercut
+{{198758357-0-194996:}}Puncture
+{{198758357-0-195587:}}Low Slash
+{{198758357-0-195588:}}Low Slash
+{{198758357-0-195591:}}Smash
+{{198758357-0-195640:}}Onslaught
+{{198758357-0-195641:}}Onslaught
+{{198758357-0-195642:}}Onslaught
+{{198758357-0-196151:}}Force Pulse
+{{198758357-0-196152:}}Force Pulse
+{{198758357-0-196153:}}Force Pulse
+{{198758357-0-196511:}}Low Slash
+{{198758357-0-196692:}}Arrow Spray
+{{198758357-0-196715:}}Power Bash
+{{198758357-0-196716:}}Power Bash
+{{198758357-0-196717:}}Power Bash
+{{198758357-0-196765:}}Arrow Spray
+{{198758357-0-196766:}}Arrow Spray
+{{198758357-0-196767:}}Volley
+{{198758357-0-196768:}}Volley
+{{198758357-0-196777:}}Blood Craze
+{{198758357-0-196778:}}Blood Craze
+{{198758357-0-196779:}}Blood Craze
+{{198758357-0-196780:}}Blood Craze
+{{198758357-0-197173:}}Flurry
+{{198758357-0-197174:}}Flurry
+{{198758357-0-197573:}}Slaughter
+{{198758357-0-197574:}}Slaughter
+{{198758357-0-198004:}}Rapid Fire
+{{198758357-0-198034:}}Cleave
+{{198758357-0-199031:}}Rapid Fire
+{{198758357-0-199317:}}Lacerate
+{{198758357-0-199701:}}Whirlwind
+{{198758357-0-199702:}}Whirlwind
+{{198758357-0-199721:}}Stampede
+{{198758357-0-199722:}}Stampede
+{{198758357-0-199723:}}Stampede
+{{198758357-0-199743:}}Stampede
+{{198758357-0-199901:}}Lacerate
+{{198758357-0-199902:}}Lacerate
+{{198758357-0-200240:}}Fortress
+{{198758357-0-200260:}}Cleave
+{{198758357-0-200261:}}Cleave
+{{198758357-0-200262:}}Cleave
+{{198758357-0-200263:}}Cleave
+{{198758357-0-200431:}}Uppercut
+{{198758357-0-200694:}}Cleave
+{{198758357-0-200701:}}Cleave
+{{198758357-0-200750:}}Blessing of Protection
+{{198758357-0-200956:}}Shield Charge
+{{198758357-0-201727:}}Shield Charge
+{{198758357-0-201728:}}Shield Charge
+{{198758357-0-201729:}}Shield Charge
+{{198758357-0-201730:}}Shield Charge
+{{198758357-0-201731:}}Shield Charge
+{{198758357-0-201732:}}Shield Charge
+{{198758357-0-201750:}}Low Slash
+{{198758357-0-201751:}}Low Slash
+{{198758357-0-201870:}}Cleave
+{{198758357-0-201871:}}Cleave
+{{198758357-0-201897:}}Cleave
+{{198758357-0-202253:}}Arrow Spray
+{{198758357-0-202256:}}Arrow Spray
+{{198758357-0-202309:}}Arrow Spray
+{{198758357-0-202347:}}Flurry
+{{198758357-0-202348:}}Flurry
+{{198758357-0-202611:}}Cleave
+{{198758357-0-202619:}}Cleave
+{{198758357-0-202621:}}Cleave
+{{198758357-0-203435:}}Volley
+{{198758357-0-203436:}}Volley
+{{198758357-0-203441:}}Volley
+{{198758357-0-203442:}}Volley
+{{198758357-0-203506:}}Smash
+{{198758357-0-203507:}}Smash
+{{198758357-0-203590:}}Carve
+{{198758357-0-203825:}}Regeneration
+{{198758357-0-203988:}}Tri Focus
+{{198758357-0-204009:}}Tri Focus
+{{198758357-0-204014:}}Cleave
+{{198758357-0-204020:}}Cleave
+{{198758357-0-204021:}}Cleave
+{{198758357-0-204023:}}Smash
+{{198758357-0-204029:}}Smash
+{{198758357-0-206210:}}Shield Throw
+{{198758357-0-206211:}}Shield Throw
+{{198758357-0-206212:}}Shield Throw
+{{198758357-0-206213:}}Shield Throw
+{{198758357-0-206214:}}Shield Throw
+{{198758357-0-206215:}}Shield Throw
+{{198758357-0-206216:}}Shield Throw
+{{198758357-0-206217:}}Shield Throw
+{{198758357-0-206218:}}Shield Throw
+{{198758357-0-206219:}}Shield Throw
+{{198758357-0-206220:}}Shield Throw
+{{198758357-0-206221:}}Shield Throw
+{{198758357-0-206222:}}Shield Throw
+{{198758357-0-206223:}}Shield Throw
+{{198758357-0-206226:}}Shield Throw
+{{198758357-0-206348:}}Absorb
+{{198758357-0-206349:}}Absorb
+{{198758357-0-206350:}}Absorb
+{{198758357-0-206351:}}Absorb
+{{198758357-0-206352:}}Absorb
+{{198758357-0-206353:}}Absorb
+{{198758357-0-206354:}}Absorb
+{{198758357-0-206355:}}Absorb
+{{198758357-0-206357:}}Absorb
+{{198758357-0-206358:}}Absorb
+{{198758357-0-206359:}}Absorb
+{{198758357-0-206360:}}Absorb
+{{198758357-0-206361:}}Absorb
+{{198758357-0-206362:}}Absorb
+{{198758357-0-206363:}}Absorb
+{{198758357-0-206364:}}Absorb
+{{198758357-0-206365:}}Absorb
+{{198758357-0-206366:}}Absorb
+{{198758357-0-206367:}}Absorb
+{{198758357-0-206395:}}Absorb
+{{198758357-0-206396:}}Absorb
+{{198758357-0-206397:}}Absorb
+{{198758357-0-206398:}}Absorb
+{{198758357-0-206399:}}Absorb
+{{198758357-0-206400:}}Absorb
+{{198758357-0-206401:}}Absorb
+{{198758357-0-206402:}}Absorb
+{{198758357-0-206403:}}Absorb
+{{198758357-0-206404:}}Absorb
+{{198758357-0-206405:}}Absorb
+{{198758357-0-206406:}}Absorb
+{{198758357-0-206407:}}Absorb
+{{198758357-0-206408:}}Absorb
+{{198758357-0-206409:}}Absorb
+{{198758357-0-206410:}}Absorb
+{{198758357-0-206411:}}Absorb
+{{198758357-0-206412:}}Absorb
+{{198758357-0-206413:}}Absorb
+{{198758357-0-207301:}}Whirlwind
+{{198758357-0-207302:}}Whirlwind
+{{198758357-0-207730:}}Elemental Susceptibility
+{{198758357-0-207977:}}Absorb
+{{198758357-0-207978:}}Absorb
+{{198758357-0-207980:}}Absorb
+{{198758357-0-207981:}}Absorb
+{{198758357-0-207982:}}Absorb
+{{198758357-0-207983:}}Absorb
+{{198758357-0-207984:}}Absorb
+{{198758357-0-207985:}}Absorb
+{{198758357-0-207986:}}Absorb
+{{198758357-0-207987:}}Absorb
+{{198758357-0-207991:}}Absorb
+{{198758357-0-208170:}}Shield Throw
+{{198758357-0-208171:}}Shield Throw
+{{198758357-0-208172:}}Shield Throw
+{{198758357-0-208173:}}Shield Throw
+{{198758357-0-208174:}}Shield Throw
+{{198758357-0-208175:}}Shield Throw
+{{198758357-0-208176:}}Shield Throw
+{{198758357-0-208177:}}Shield Throw
+{{198758357-0-208178:}}Shield Throw
+{{198758357-0-208179:}}Shield Throw
+{{198758357-0-208180:}}Shield Throw
+{{198758357-0-208181:}}Shield Throw
+{{198758357-0-208183:}}Shield Throw
+{{198758357-0-208184:}}Shield Throw
+{{198758357-0-208214:}}Cleave
+{{198758357-0-208215:}}Uppercut
+{{198758357-0-208318:}}Uppercut
+{{198758357-0-208798:}}Smash
+{{198758357-0-208800:}}Smash
+{{198758357-0-208801:}}Smash
+{{198758357-0-208802:}}Smash
+{{198758357-0-208803:}}Smash
+{{198758357-0-208806:}}Smash
+{{198758357-0-208807:}}Smash
+{{198758357-0-208902:}}Absorb
+{{198758357-0-208903:}}Absorb
+{{198758357-0-208904:}}Absorb
+{{198758357-0-208906:}}Absorb
+{{198758357-0-208907:}}Absorb
+{{198758357-0-208908:}}Absorb
+{{198758357-0-208909:}}Absorb
+{{198758357-0-208910:}}Absorb
+{{198758357-0-208911:}}Absorb
+{{198758357-0-208912:}}Absorb
+{{198758357-0-208913:}}Absorb
+{{198758357-0-209216:}}Cleave
+{{198758357-0-209248:}}Arrow Spray
+{{198758357-0-209484:}}Cleave
+{{198758357-0-209485:}}Cleave
+{{198758357-0-209486:}}Cleave
+{{198758357-0-209489:}}Cleave
+{{198758357-0-209492:}}Cleave
+{{198758357-0-209493:}}Cleave
+{{198758357-0-209533:}}Shield Throw
+{{198758357-0-209534:}}Shield Throw
+{{198758357-0-209536:}}Shield Throw
+{{198758357-0-209537:}}Shield Throw
+{{198758357-0-209538:}}Shield Throw
+{{198758357-0-209539:}}Shield Throw
+{{198758357-0-209540:}}Shield Throw
+{{198758357-0-209541:}}Shield Throw
+{{198758357-0-209542:}}Shield Throw
+{{198758357-0-209543:}}Shield Throw
+{{198758357-0-209544:}}Shield Throw
+{{198758357-0-209545:}}Shield Throw
+{{198758357-0-209546:}}Shield Throw
+{{198758357-0-209547:}}Shield Throw
+{{198758357-0-209631:}}Cleave
+{{198758357-0-209634:}}Cleave
+{{198758357-0-209635:}}Cleave
+{{198758357-0-209670:}}Blood Craze
+{{198758357-0-209672:}}Blood Craze
+{{198758357-0-209673:}}Blood Craze
+{{198758357-0-209674:}}Blood Craze
+{{198758357-0-209724:}}Puncture
+{{198758357-0-209726:}}Low Slash
+{{198758357-0-209727:}}Low Slash
+{{198758357-0-209735:}}Flurry
+{{198758357-0-209736:}}Flurry
+{{198758357-0-210146:}}Cleave
+{{198758357-0-210147:}}Uppercut
+{{198758357-0-210148:}}Uppercut
+{{198758357-0-210149:}}Uppercut
+{{198758357-0-210193:}}Low Slash
+{{198758357-0-210194:}}Low Slash
+{{198758357-0-210196:}}Power Bash
+{{198758357-0-210197:}}Power Bash
+{{198758357-0-210198:}}Power Bash
+{{198758357-0-210304:}}Shield Charge
+{{198758357-0-210306:}}Shield Charge
+{{198758357-0-210307:}}Shield Charge
+{{198758357-0-210308:}}Shield Charge
+{{198758357-0-210309:}}Shield Charge
+{{198758357-0-210310:}}Shield Charge
+{{198758357-0-210311:}}Shield Charge
+{{198758357-0-210312:}}Shield Charge
+{{198758357-0-210639:}}Whirlwind
+{{198758357-0-210640:}}Whirlwind
+{{198758357-0-210914:}}Whirlwind
+{{198758357-0-211594:}}Power Bash
+{{198758357-0-211595:}}Power Bash
+{{198758357-0-211596:}}Power Bash
+{{198758357-0-211764:}}Cleave
+{{198758357-0-211765:}}Cleave
+{{198758357-0-211769:}}Cleave
+{{198758357-0-212179:}}Shield Charge
+{{198758357-0-212180:}}Shield Charge
+{{198758357-0-212181:}}Shield Charge
+{{198758357-0-212183:}}Shield Charge
+{{198758357-0-212196:}}Shield Charge
+{{198758357-0-212197:}}Shield Charge
+{{198758357-0-212198:}}Shield Charge
+{{198758357-0-212200:}}Shield Charge
+{{198758357-0-212946:}}Stampede
+{{198758357-0-212947:}}Stampede
+{{198758357-0-212948:}}Stampede
+{{198758357-0-213794:}}Absorb
+{{198758357-0-213795:}}Absorb
+{{198758357-0-213796:}}Absorb
+{{198758357-0-213798:}}Absorb
+{{198758357-0-213799:}}Absorb
+{{198758357-0-213800:}}Absorb
+{{198758357-0-213801:}}Absorb
+{{198758357-0-213802:}}Absorb
+{{198758357-0-213803:}}Absorb
+{{198758357-0-213804:}}Absorb
+{{198758357-0-213805:}}Absorb
+{{198758357-0-213848:}}Volley
+{{198758357-0-213849:}}Volley
+{{198758357-0-213850:}}Volley
+{{198758357-0-213851:}}Volley
+{{198758357-0-213852:}}Volley
+{{198758357-0-213929:}}Shield Throw
+{{198758357-0-213931:}}Shield Throw
+{{198758357-0-213932:}}Shield Throw
+{{198758357-0-213933:}}Shield Throw
+{{198758357-0-213934:}}Shield Throw
+{{198758357-0-213935:}}Shield Throw
+{{198758357-0-213936:}}Shield Throw
+{{198758357-0-213937:}}Shield Throw
+{{198758357-0-213938:}}Shield Throw
+{{198758357-0-213939:}}Shield Throw
+{{198758357-0-213940:}}Shield Throw
+{{198758357-0-213941:}}Shield Throw
+{{198758357-0-213943:}}Shield Throw
+{{198758357-0-213944:}}Shield Throw
+{{198758357-0-214011:}}Whirlwind
+{{198758357-0-214322:}}Shield Throw
+{{198758357-0-214323:}}Shield Throw
+{{198758357-0-214970:}}Vault
+{{198758357-0-214971:}}Vault
+{{198758357-0-214981:}}Vault
+{{198758357-0-214990:}}Vault
+{{198758357-0-214999:}}Vault
+{{198758357-0-215086:}}Shield Charge
+{{198758357-0-215087:}}Shield Charge
+{{198758357-0-215088:}}Shield Charge
+{{198758357-0-215301:}}Shield Charge
+{{198758357-0-215302:}}Shield Charge
+{{198758357-0-215303:}}Shield Charge
+{{198758357-0-215304:}}Shield Charge
+{{198758357-0-215305:}}Shield Charge
+{{198758357-0-215308:}}Shield Charge
+{{198758357-0-215309:}}Shield Charge
+{{198758357-0-215811:}}Puncture
+{{198758357-0-215866:}}Arrow Spray
+{{198758357-0-215867:}}Arrow Spray
+{{198758357-0-215874:}}Cleave
+{{198758357-0-215875:}}Cleave
+{{198758357-0-215876:}}Cleave
+{{198758357-0-215889:}}Low Slash
+{{198758357-0-215890:}}Low Slash
+{{198758357-0-216056:}}Cleave
+{{198758357-0-216287:}}Power Bash
+{{198758357-0-216288:}}Power Bash
+{{198758357-0-216289:}}Power Bash
+{{198758357-0-216432:}}Snipe
+{{198758357-0-216440:}}Arrow Spray
+{{198758357-0-216441:}}Arrow Spray
+{{198758357-0-216580:}}Low Slash
+{{198758357-0-216672:}}Vault
+{{198758357-0-216675:}}Vault
+{{198758357-0-216676:}}Vault
+{{198758357-0-216683:}}Cleave
+{{198758357-0-216692:}}Cleave
+{{198758357-0-216694:}}Cleave
+{{198758357-0-216766:}}Cleave
+{{198758357-0-216779:}}Cleave
+{{198758357-0-216782:}}Cleave
+{{198758357-0-216801:}}Vault
+{{198758357-0-217061:}}Shield Throw
+{{198758357-0-217062:}}Shield Throw
+{{198758357-0-217063:}}Shield Throw
+{{198758357-0-217066:}}Shield Throw
+{{198758357-0-217069:}}Shield Throw
+{{198758357-0-217070:}}Shield Throw
+{{198758357-0-217073:}}Shield Throw
+{{198758357-0-217074:}}Shield Throw
+{{198758357-0-217087:}}Shield Throw
+{{198758357-0-217092:}}Deadly Bash
+{{198758357-0-217101:}}Shield Throw
+{{198758357-0-217102:}}Shield Throw
+{{198758357-0-217103:}}Shield Throw
+{{198758357-0-217104:}}Shield Throw
+{{198758357-0-217186:}}Smash
+{{198758357-0-217187:}}Smash
+{{198758357-0-217197:}}Smash
+{{198758357-0-217198:}}Smash
+{{198758357-0-217228:}}Elemental Explosion
+{{198758357-0-217242:}}Elemental Explosion
+{{198758357-0-217244:}}Elemental Explosion
+{{198758357-0-217252:}}Elemental Explosion
+{{198758357-0-217261:}}Elemental Explosion
+{{198758357-0-217275:}}Mender's Bond
+{{198758357-0-217286:}}Mender's Bond
+{{198758357-0-217289:}}Mender's Bond
+{{198758357-0-217295:}}Mender's Bond
+{{198758357-0-217342:}}Traveling Knife
+{{198758357-0-217349:}}Traveling Knife
+{{198758357-0-217354:}}Ruffian
+{{198758357-0-217367:}}Traveling Knife
+{{198758357-0-217370:}}Mender's Bond
+{{198758357-0-217372:}}Traveling Knife
+{{198758357-0-217474:}}Traveling Knife
+{{198758357-0-217481:}}Traveling Knife
+{{198758357-0-217494:}}Shield Charge
+{{198758357-0-217496:}}Shield Charge
+{{198758357-0-217497:}}Shield Charge
+{{198758357-0-217498:}}Shield Charge
+{{198758357-0-217809:}}Shield Throw
+{{198758357-0-217815:}}Shield Throw
+{{198758357-0-217873:}}Traveling Knife
+{{198758357-0-217964:}}Mender's Bond
+{{198758357-0-217969:}}Mender's Bond
+{{198758357-0-218147:}}Arrow Spray
+{{198758357-0-218248:}}Cleave
+{{198758357-0-218256:}}Cleave
+{{198758357-0-218263:}}Regeneration
+{{198758357-0-218265:}}Rapid Regeneration
+{{198758357-0-218266:}}Radiating Regeneration
+{{198758357-0-218272:}}Shield Throw
+{{198758357-0-218287:}}Smash
+{{198758357-0-218291:}}Elemental Explosion
+{{198758357-0-218293:}}Mender's Bond
+{{198758357-0-218538:}}Shield Charge
+{{198758357-0-218542:}}Shield Charge
+{{198758357-0-218546:}}Shield Charge
+{{198758357-0-218607:}}Vault
+{{198758357-0-218672:}}Uppercut
+{{198758357-0-218673:}}Uppercut
+{{198758357-0-218674:}}Uppercut
+{{198758357-0-218675:}}Uppercut
+{{198758357-0-218676:}}Uppercut
+{{198758357-0-218677:}}Uppercut
+{{198758357-0-218774:}}Blessing of Restoration
+{{198758357-0-218784:}}Combat Prayer
+{{198758357-0-218785:}}Combat Prayer
+{{198758357-0-218786:}}Combat Prayer
+{{198758357-0-218787:}}Combat Prayer
+{{198758357-0-218967:}}Uppercut
+{{198758357-0-218968:}}Uppercut
+{{198758357-0-218969:}}Uppercut
+{{198758357-0-218970:}}Uppercut
+{{198758357-0-219028:}}Low Slash
+{{198758357-0-219029:}}Low Slash
+{{198758357-0-219030:}}Power Bash
+{{198758357-0-219045:}}Shield Throw
+{{198758357-0-219048:}}Shield Throw
+{{198758357-0-219049:}}Shield Throw
+{{198758357-0-219050:}}Shield Throw
+{{198758357-0-219052:}}Shield Throw
+{{198758357-0-219053:}}Shield Throw
+{{198758357-0-219054:}}Shield Throw
+{{198758357-0-219055:}}Shield Throw
+{{198758357-0-219056:}}Shield Throw
+{{198758357-0-219057:}}Shield Throw
+{{198758357-0-219058:}}Shield Throw
+{{198758357-0-219059:}}Shield Throw
+{{198758357-0-219060:}}Shield Throw
+{{198758357-0-219062:}}Shield Throw
+{{198758357-0-219129:}}Shield Charge
+{{198758357-0-219130:}}Shield Charge
+{{198758357-0-219132:}}Shield Charge
+{{198758357-0-219133:}}Shield Charge
+{{198758357-0-219134:}}Shield Charge
+{{198758357-0-219135:}}Shield Charge
+{{198758357-0-219136:}}Shield Charge
+{{198758357-0-219205:}}Traveling Knife
+{{198758357-0-219206:}}Traveling Knife
+{{198758357-0-219648:}}Shield Charge
+{{198758357-0-219659:}}Shield Charge
+{{198758357-0-219660:}}Shield Charge
+{{198758357-0-219661:}}Shield Charge
+{{198758357-0-219671:}}Shield Charge
+{{198758357-0-219675:}}Shield Charge
+{{198758357-0-219676:}}Shield Charge
+{{198758357-0-219711:}}Elemental Explosion
+{{198758357-0-219775:}}Smash
+{{198758357-0-219860:}}Shield Charge
+{{198758357-0-219861:}}Shield Charge
+{{198758357-0-219862:}}Shield Charge
+{{198758357-0-219864:}}Shield Charge
+{{198758357-0-219865:}}Shield Charge
+{{198758357-0-219866:}}Shield Charge
+{{198758357-0-219867:}}Shield Charge
+{{198758357-0-219868:}}Shield Charge
+{{198758357-0-219875:}}Shield Charge
+{{198758357-0-219876:}}Shield Charge
+{{198758357-0-219877:}}Shield Charge
+{{198758357-0-219879:}}Shield Charge
+{{198758357-0-219880:}}Shield Charge
+{{198758357-0-219881:}}Shield Charge
+{{198758357-0-219882:}}Shield Charge
+{{198758357-0-219883:}}Shield Charge
+{{198758357-0-219951:}}Mender's Bond
+{{198758357-0-220032:}}Shield Charge
+{{198758357-0-220049:}}Shield Charge
+{{198758357-0-220050:}}Shield Charge
+{{198758357-0-220052:}}Shield Charge
+{{198758357-0-220053:}}Shield Charge
+{{198758357-0-220054:}}Shield Charge
+{{198758357-0-220055:}}Shield Charge
+{{198758357-0-220056:}}Shield Charge
+{{198758357-0-220428:}}Regeneration
+{{198758357-0-220475:}}Regeneration
+{{198758357-0-220476:}}Regeneration
+{{198758357-0-220551:}}Smash
+{{198758357-0-220552:}}Smash
+{{198758357-0-220746:}}Mender's Bond
+{{198758357-0-220752:}}Power Bash
+{{198758357-0-220753:}}Power Bash
+{{198758357-0-220762:}}Mender's Bond
+{{198758357-0-220954:}}Mender's Bond
+{{198758357-0-221032:}}Smash
+{{198758357-0-221112:}}Slaughter
+{{198758357-0-221113:}}Slaughter
+{{198758357-0-221130:}}Mender's Bond
+{{198758357-0-221187:}}Elemental Explosion
+{{198758357-0-221216:}}Power Bash
+{{198758357-0-221217:}}Power Bash
+{{198758357-0-221218:}}Power Bash
+{{198758357-0-221604:}}Vault
+{{198758357-0-221650:}}Smash
+{{198758357-0-221661:}}Smash
+{{198758357-0-221671:}}Smash
+{{198758357-0-221708:}}Smash
+{{198758357-0-221760:}}Mender's Bond
+{{198758357-0-221931:}}Shield Throw
+{{198758357-0-221932:}}Shield Throw
+{{198758357-0-221933:}}Shield Throw
+{{198758357-0-221934:}}Shield Throw
+{{198758357-0-221935:}}Shield Throw
+{{198758357-0-221936:}}Shield Throw
+{{198758357-0-221937:}}Shield Throw
+{{198758357-0-221938:}}Shield Throw
+{{198758357-0-221939:}}Shield Throw
+{{198758357-0-221940:}}Shield Throw
+{{198758357-0-221941:}}Shield Throw
+{{198758357-0-221942:}}Shield Throw
+{{198758357-0-221944:}}Shield Throw
+{{198758357-0-221945:}}Shield Throw
+{{198758357-0-222020:}}Follow Up
+{{198758357-0-222094:}}Shield Charge
+{{198758357-0-222095:}}Shield Charge
+{{198758357-0-222096:}}Shield Charge
+{{198758357-0-222098:}}Shield Charge
+{{198758357-0-222099:}}Shield Charge
+{{198758357-0-222100:}}Shield Charge
+{{198758357-0-222101:}}Shield Charge
+{{198758357-0-222102:}}Shield Charge
+{{198758357-0-222410:}}Uppercut
+{{198758357-0-222411:}}Uppercut
+{{198758357-0-222412:}}Uppercut
+{{198758357-0-222485:}}Cleave
+{{198758357-0-222486:}}Cleave
+{{198758357-0-222487:}}Cleave
+{{198758357-0-222488:}}Cleave
+{{198758357-0-222489:}}Cleave
+{{198758357-0-222490:}}Cleave
+{{198758357-0-222491:}}Cleave
+{{198758357-0-222492:}}Cleave
+{{198758357-0-222668:}}Shield Charge
+{{198758357-0-222726:}}Shield Charge
+{{198758357-0-222747:}}Vault
+{{198758357-0-222783:}}Shield Charge
+{{198758357-0-223206:}}Cleave
+{{198758357-0-223207:}}Cleave
+{{198758357-0-224167:}}Regeneration
+{{198758357-0-224168:}}Regeneration
+{{198758357-0-224169:}}Regeneration
+{{198758357-0-225137:}}Whirlwind
+{{198758357-0-225139:}}Whirlwind
+{{198758357-0-225140:}}Whirlwind
+{{198758357-0-225141:}}Whirlwind
+{{198758357-0-225142:}}Whirlwind
+{{198758357-0-226499:}}Low Slash
+{{198758357-0-226500:}}Low Slash
+{{198758357-0-226552:}}Puncture
+{{198758357-0-227299:}}Volley
+{{198758357-0-227300:}}Volley
+{{198758357-0-227301:}}Volley
+{{198758357-0-227302:}}Volley
+{{198758357-0-227303:}}Volley
+{{198758357-0-227386:}}Whirlwind
+{{198758357-0-227469:}}Cleave
+{{198758357-0-227470:}}Cleave
+{{198758357-0-227533:}}Carve
+{{198758357-0-227631:}}Rapid Fire
+{{198758357-0-227632:}}Rapid Fire
+{{198758357-0-227960:}}Arrow Spray
+{{198758357-0-227961:}}Volley
+{{198758357-0-227964:}}Arrow Spray
+{{198758357-0-227965:}}Volley
+{{198758357-0-227986:}}Power Bash
+{{198758357-0-227987:}}Power Bash
+{{198758357-0-227988:}}Power Bash
+{{198758357-0-228278:}}Arrow Spray
+{{198758357-0-228317:}}Shield Charge
+{{198758357-0-228318:}}Shield Charge
+{{198758357-0-228319:}}Shield Charge
+{{198758357-0-228320:}}Shield Charge
+{{198758357-0-228321:}}Shield Charge
+{{198758357-0-228322:}}Shield Charge
+{{198758357-0-228324:}}Shield Charge
+{{198758357-0-228325:}}Shield Charge
+{{198758357-0-228329:}}Shield Charge
+{{198758357-0-228331:}}Arrow Spray
+{{198758357-0-228345:}}Volley
+{{198758357-0-228346:}}Volley
+{{198758357-0-228348:}}Volley
+{{198758357-0-228515:}}Cleave
+{{198758357-0-228885:}}Flurry
+{{198758357-0-228886:}}Flurry
+{{198758357-0-229348:}}Smash
+{{198758357-0-229857:}}Elemental Explosion
+{{198758357-0-229867:}}Flurry
+{{198758357-0-229890:}}Flurry
+{{198758357-0-230138:}}Cleave
+{{198758357-0-230310:}}Low Slash
+{{198758357-0-230318:}}Low Slash
+{{198758357-0-230600:}}Cleave
+{{198758357-0-231389:}}Cleave
+{{198758357-0-231918:}}Flurry
+{{198758357-0-231923:}}Flurry
+{{198758357-0-231924:}}Flurry
+{{198758357-0-231925:}}Flurry
+{{198758357-0-231926:}}Flurry
+{{198758357-0-231928:}}Flurry
+{{198758357-0-231929:}}Flurry
+{{198758357-0-231930:}}Flurry
+{{198758357-0-231931:}}Flurry
+{{198758357-0-231932:}}Flurry
+{{198758357-0-231933:}}Flurry
+{{198758357-0-231934:}}Flurry
+{{198758357-0-231999:}}Lacerate
+{{198758357-0-232003:}}Lacerate
+{{198758357-0-233648:}}Volley
+{{198758357-0-233649:}}Volley
+{{198758357-0-233766:}}Whirlwind
+{{198758357-0-234959:}}Onslaught
+{{198758357-0-234960:}}Onslaught
+{{198758357-0-234962:}}Onslaught
+{{198758357-0-234963:}}Onslaught
+{{198758357-0-234965:}}Onslaught
+{{198758357-0-235112:}}Arrow Spray
+{{198758357-0-235113:}}Arrow Spray
+{{198758357-0-235416:}}Low Slash
+{{198758357-0-235417:}}Low Slash
+{{198758357-0-235484:}}Smash
+{{198758357-0-235527:}}Power Bash
+{{198758357-0-236495:}}Regeneration
+{{198758357-0-236500:}}Regeneration
+{{198758357-0-236941:}}Cleave
+{{198758357-0-236954:}}Cleave
+{{198758357-0-236986:}}Flurry
+{{198758357-0-236988:}}Flurry
+{{198758357-0-237269:}}Shield Throw
+{{198758357-0-237272:}}Shield Throw
+{{198758357-0-237273:}}Shield Throw
+{{198758357-0-237274:}}Shield Throw
+{{198758357-0-237275:}}Shield Throw
+{{198758357-0-237276:}}Shield Throw
+{{198758357-0-237277:}}Shield Throw
+{{198758357-0-237278:}}Shield Throw
+{{198758357-0-237279:}}Shield Throw
+{{198758357-0-237280:}}Shield Throw
+{{198758357-0-237281:}}Shield Throw
+{{198758357-0-237282:}}Shield Throw
+{{198758357-0-237283:}}Shield Throw
+{{198758357-0-237284:}}Shield Throw
+{{198758357-0-237292:}}Power Bash
+{{198758357-0-237293:}}Power Bash
+{{198758357-0-237294:}}Power Bash
+{{198758357-0-237297:}}Shield Charge
+{{198758357-0-237298:}}Shield Charge
+{{198758357-0-237299:}}Shield Charge
+{{198758357-0-237300:}}Shield Charge
+{{198758357-0-237301:}}Shield Charge
+{{198758357-0-237302:}}Shield Charge
+{{198758357-0-237594:}}Shield Charge
+{{198758357-0-237595:}}Shield Charge
+{{198758357-0-237597:}}Shield Charge
+{{198758357-0-237598:}}Shield Charge
+{{198758357-0-237599:}}Shield Charge
+{{198758357-0-237600:}}Shield Charge
+{{198758357-0-238146:}}Arrow Spray
+{{198758357-0-238289:}}Low Slash
+{{198758357-0-238928:}}Regeneration
+{{198758357-0-238929:}}Regeneration
+{{198758357-0-239260:}}Regeneration
+{{198758357-0-239307:}}Regeneration
+{{198758357-0-239308:}}Regeneration
+{{198758357-0-239737:}}Puncture
+{{198758357-0-241468:}}Power Bash
+{{198758357-0-241519:}}Power Bash
+{{198758357-0-241520:}}Power Bash
+{{198758357-0-241573:}}Power Bash
+{{198758357-0-241580:}}Low Slash
+{{198758357-0-241581:}}Low Slash
+{{198758357-0-241734:}}Whirlwind
+{{198758357-0-241735:}}Whirlwind
+{{198758357-0-242065:}}Low Slash
+{{198758357-0-242072:}}Low Slash
+{{198758357-0-242171:}}Snipe
+{{198758357-0-243044:}}Uppercut
+{{198758357-0-243046:}}Uppercut
+{{198758357-0-243116:}}Snipe
+{{198758357-0-243344:}}Essence Drain
+{{198758357-0-243345:}}Essence Drain
+{{198758357-0-243353:}}Essence Drain
+{{198758357-0-243354:}}Smash
+{{198758357-0-243366:}}Essence Drain
+{{198758357-0-243388:}}Essence Drain
+{{198758357-0-243393:}}Essence Drain
+{{198758357-0-243394:}}Essence Drain
+{{198758357-0-243687:}}Mender's Bond
+{{198758357-0-243713:}}Mender's Bond
+{{198758357-0-243839:}}Shield Wall
+{{198758357-0-243840:}}Shield Wall
+{{198758357-0-243885:}}Essence Drain
+{{198758357-0-243886:}}Essence Drain
+{{198758357-0-243887:}}Essence Drain
+{{198758357-0-243954:}}Uppercut
+{{198758357-0-243955:}}Uppercut
+{{198758357-0-243956:}}Uppercut
+{{198758357-0-244099:}}Whirlwind
+{{198758357-0-244114:}}Whirlwind
+{{198758357-0-244115:}}Whirlwind
+{{198758357-0-244116:}}Whirlwind
+{{198758357-0-244117:}}Whirlwind
+{{198758357-0-244118:}}Whirlwind
+{{198758357-0-244716:}}Smash
+{{198758357-0-245408:}}Uppercut
+{{198758357-0-245409:}}Uppercut
+{{198758357-0-245410:}}Uppercut
+{{198758357-0-245412:}}Whirlwind
+{{198758357-0-245414:}}Whirlwind
+{{198758357-0-245473:}}Flurry
+{{198758357-0-245477:}}Flurry
+{{198758357-0-245703:}}Whirlwind
+{{198758357-0-245704:}}Whirlwind
+{{198758357-0-245705:}}Whirlwind
+{{198758357-0-245706:}}Whirlwind
+{{198758357-0-245707:}}Whirlwind
+{{198758357-0-245786:}}Cleave
+{{198758357-0-246083:}}Cleave
+{{198758357-0-246328:}}Rapid Fire
+{{198758357-0-246329:}}Toxic Barrage
+{{198758357-0-246707:}}Regeneration
+{{198758357-0-247641:}}Whirlwind
+{{198758357-0-247642:}}Whirlwind
+{{198758357-0-247974:}}Blade Cloak
+{{198758357-0-247975:}}Blade Cloak
+{{198758357-0-248516:}}Cleave
+{{198758357-0-248517:}}Cleave
+{{198758357-0-249231:}}Whirlwind
+{{198758357-0-249232:}}Whirlwind
+{{198758357-0-249403:}}Uppercut
+{{198758357-0-249405:}}Uppercut
+{{198758357-0-250023:}}Volley
+{{198758357-0-250024:}}Volley
+{{198758357-0-250029:}}Smash
+{{198758357-0-250093:}}Smash
+{{198758357-0-250094:}}Smash
+{{198758357-0-250101:}}Smash
+{{198758357-0-250102:}}Smash
+{{198758357-0-250103:}}Smash
+{{198758357-0-250658:}}Uppercut
+{{198758357-0-250659:}}Uppercut
+{{198758357-0-252379:}}Cleave
+{{198758357-0-252384:}}Volley
+{{198758357-0-252385:}}Volley
+{{198758357-0-255461:}}Low Slash
+{{198758357-0-255772:}}Low Slash
+{{198758357-0-255773:}}Low Slash
+{{200697509-0-30:}}Bow
+{{200697509-0-35:}}Restoration Staff
+{{206046340-0-118438:}}Puncture
+{{206046340-0-221104:}}Blessing of Protection
+{{215700677-0-59:}}Executioner
+{{215700677-0-317:}}Light's Champion
+{{217370677-0-8:}}Bow
+{{217370677-0-12:}}Restoration Staff
+{{221887989-0-59:}}Executioner
+{{221887989-0-317:}}Light's Champion
+{{222921557-0-88:}}Volley
+{{222921557-0-89:}}Shield Charge
+{{222921557-0-92:}}Blade Cloak
+{{222921557-0-104:}}Flurry
+{{241484741-0-135:}}Bow
+{{242841733-0-79513:}}Bow
+{{242841733-0-79517:}}Restoration Staff
+{{244845717-0-88:}}Endless Hail
+{{244845717-0-89:}}Shielded Assault
+{{244845717-0-92:}}Quick Cloak
+{{244845717-0-104:}}Rapid Strikes
+{{244874389-0-88:}}Arrow Barrage
+{{244874389-0-89:}}Invasion
+{{244874389-0-92:}}Deadly Cloak
+{{244874389-0-104:}}Bloodthirst
+{{267697733-0-2153:}}Bow
