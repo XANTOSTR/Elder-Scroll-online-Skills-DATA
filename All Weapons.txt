@@ -1,0 +1,150 @@
+									Bow
+Rapid Fire
+	Ballista
+	Toxic Barrage
+Snipe
+	Focused Aim
+	Lethal Arrow
+Volley
+	Arrow Barrage
+	Endless Hail
+Scatter Shot
+	Draining Shot
+	Magnum Shot
+Arrow Spray
+	Acid Spray
+	Bombard
+Poison Arrow
+	Poison Injection
+	Venom Arrow
+Vault
+Vinedusk Training
+Accuracy
+Ranger
+Hawk Eye
+Hasty Retreat
+									Destruction Staff
+Elemental Storm
+	Elemental Rage
+	Eye of the Storm
+Force Shock
+	Crushing Shock
+	Force Pulse
+Wall of Elements
+	Elemental Blockade
+	Unstable Wall of Elements
+Destructive Touch
+	Destructive Clench
+	Destructive Reach
+Weakness to Elements
+	Elemental Drain
+	Elemental Susceptibility
+Impulse
+	Elemental Ring
+	Pulsar
+Elemental Explosion
+Tri Focus
+Penetrating Magic
+Elemental Force
+Ancient Knowledge
+Destruction Expert
+									Dual Wield
+Lacerate
+	Rent
+	Thrive in Chaos
+Flurry
+	Bloodthirst
+	Rapid Strikes
+Twin Slashes
+	Blood Craze
+	Rending Slashes
+Whirlwind
+	Steel Tornado
+	Whirling Blades
+Blade Cloak
+	Deadly Cloak
+	Quick Cloak
+Hidden Blade
+	Flying Blade
+	Shrouded Daggers
+Traveling Knife
+Slaughter
+Dual Wield Expert
+Controlled Fury
+Ruffian
+Twin Blade and Blunt
+									One Hand and Shield
+Shield Wall
+	Shield Discipline
+	Spell Wall
+Puncture
+	Pierce Armor
+	Ransack
+Low Slash
+	Deep Slash
+	Heroic Slash
+Defensive Posture
+	Absorb Missile
+	Defensive Stance
+Shield Charge
+	Invasion
+	Shielded Assault
+Power Bash
+	Power Slam
+	Reverberating Bash
+Shield Throw
+Fortress
+Sword and Board
+Deadly Bash
+Deflect Bolts
+Battlefield Mobility
+									Restoration Staff
+Panacea
+	Life Giver
+	Light's Champion
+Grand Healing
+	Healing Springs
+	Illustrious Healing
+Regeneration
+	Radiating Regeneration
+	Rapid Regeneration
+Blessing of Protection
+	Blessing of Restoration
+	Combat Prayer
+Steadfast Ward
+	Healing Ward
+	Ward Ally
+Force Siphon
+	Quick Siphon
+	Siphon Spirit
+Mender's Bond
+Essence Drain
+Restoration Expert
+Cycle of Life
+Absorb
+Restoration Master
+									Two Handed
+Berserker Strike
+	Berserker Rage
+	Onslaught
+Uppercut
+	Dizzying Swing
+	Wrecking Blow
+Critical Charge
+	Critical Rush
+	Stampede
+Cleave
+	Brawler
+	Carve
+Reverse Slash
+	Executioner
+	Reverse Slice
+Momentum
+	Forward Momentum
+	Rally
+Smash
+Forceful
+Heavy Weapons
+Balanced Blade
+Follow Up
+Battle Rush
