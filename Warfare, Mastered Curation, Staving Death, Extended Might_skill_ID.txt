@@ -1,0 +1,133 @@
+{{52420949-0-4202:}}Force of Nature
+{{87722757-0-10:}}Extended Might
+{{87722757-0-20:}}Staving Death
+{{87722757-0-99:}}Mastered Curation
+{{87722757-0-108:}}Mastered Curation
+{{99527054-0-44759:}}Master-at-Arms
+{{99527054-0-102265:}}Master-At-Arms
+{{168675493-0-2349:}}Force of Nature
+{{198758357-0-5857:}}Ironclad
+{{198758357-0-6174:}}Riposte
+{{198758357-0-10820:}}Riposte
+{{198758357-0-13739:}}Backstabber
+{{198758357-0-57364:}}Preparation
+{{198758357-0-59353:}}Ironclad
+{{198758357-0-59526:}}Foresight
+{{198758357-0-59530:}}Foresight
+{{198758357-0-59630:}}Blessed
+{{198758357-0-60229:}}Riposte
+{{198758357-0-60230:}}Riposte
+{{198758357-0-60413:}}Last Stand
+{{198758357-0-61546:}}Piercing
+{{198758357-0-63844:}}Hardy
+{{198758357-0-63847:}}Thaumaturge
+{{198758357-0-63851:}}Quick Recovery
+{{198758357-0-63868:}}Mighty
+{{198758357-0-63880:}}Exploiter
+{{198758357-0-64067:}}Reinforced
+{{198758357-0-64079:}}Bulwark
+{{198758357-0-82574:}}Preparation
+{{198758357-0-92134:}}Master-at-Arms
+{{198758357-0-92423:}}Ironclad
+{{198758357-0-102736:}}Riposte
+{{198758357-0-102739:}}Riposte
+{{198758357-0-102786:}}Riposte
+{{198758357-0-102787:}}Riposte
+{{198758357-0-104048:}}Riposte
+{{198758357-0-104049:}}Riposte
+{{198758357-0-105704:}}Riposte
+{{198758357-0-105705:}}Riposte
+{{198758357-0-116742:}}Precision
+{{198758357-0-124779:}}Riposte
+{{198758357-0-134307:}}Resilience
+{{198758357-0-135301:}}Bulwark
+{{198758357-0-135302:}}Bulwark
+{{198758357-0-135653:}}Reinforced
+{{198758357-0-136389:}}Riposte
+{{198758357-0-136414:}}Riposte
+{{198758357-0-141744:}}Arcane Supremacy
+{{198758357-0-141773:}}Endless Endurance
+{{198758357-0-141895:}}Piercing
+{{198758357-0-141898:}}Precision
+{{198758357-0-141899:}}Fighting Finesse
+{{198758357-0-141900:}}Resilience
+{{198758357-0-141901:}}Preparation
+{{198758357-0-141928:}}Blessed
+{{198758357-0-141929:}}Quick Recovery
+{{198758357-0-141930:}}Mighty
+{{198758357-0-141931:}}War Mage
+{{198758357-0-141941:}}Wrathful Strikes
+{{198758357-0-141942:}}Rejuvenator
+{{198758357-0-141997:}}Biting Aura
+{{198758357-0-141998:}}Soothing Tide
+{{198758357-0-141999:}}Deadly Aim
+{{198758357-0-142000:}}Focused Mending
+{{198758357-0-142001:}}Thaumaturge
+{{198758357-0-142002:}}Swift Renewal
+{{198758357-0-142003:}}Cleansing Revival
+{{198758357-0-142005:}}Cleansing Revival
+{{198758357-0-142006:}}Backstabber
+{{198758357-0-142007:}}Reaving Blows
+{{198758357-0-142008:}}Reaving Blows
+{{198758357-0-142010:}}Occult Overload
+{{198758357-0-142011:}}Occult Overload
+{{198758357-0-142012:}}Cutting Defense
+{{198758357-0-142013:}}Cutting Defense
+{{198758357-0-146960:}}Untamed Aggression
+{{198758357-0-147888:}}Tireless Discipline
+{{198758357-0-149273:}}Elemental Aegis
+{{198758357-0-149274:}}Hardy
+{{198758357-0-149275:}}Flawless Ritual
+{{198758357-0-149276:}}Battle Mastery
+{{198758357-0-149305:}}Eldritch Insight
+{{198758357-0-149439:}}Blessed
+{{198758357-0-151748:}}Unassailable
+{{198758357-0-151749:}}Duelist's Rebuff
+{{198758357-0-151750:}}Enduring Resolve
+{{198758357-0-152119:}}Occult Overload
+{{198758357-0-155859:}}Weapons Expert
+{{198758357-0-155978:}}Salve of Renewal
+{{198758357-0-155981:}}Salve of Renewal
+{{198758357-0-155991:}}Salve of Renewal
+{{198758357-0-155992:}}Hope Infusion
+{{198758357-0-155996:}}Hope Infusion
+{{198758357-0-156008:}}Enlivening Overflow
+{{198758357-0-156011:}}Enlivening Overflow
+{{198758357-0-156012:}}Enlivening Overflow
+{{198758357-0-156017:}}From the Brink
+{{198758357-0-156019:}}From the Brink
+{{198758357-0-156020:}}From the Brink
+{{198758357-0-156022:}}From the Brink
+{{198758357-0-156599:}}Bulwark
+{{198758357-0-156600:}}Bulwark
+{{198758357-0-156601:}}Bulwark
+{{198758357-0-157258:}}Bulwark
+{{198758357-0-159655:}}Riposte
+{{198758357-0-159972:}}Ironclad
+{{198758357-0-160079:}}Bulwark
+{{198758357-0-160080:}}Bulwark
+{{198758357-0-160082:}}Bulwark
+{{198758357-0-160085:}}Bulwark
+{{198758357-0-160086:}}Bulwark
+{{198758357-0-160087:}}Bulwark
+{{198758357-0-160088:}}Bulwark
+{{198758357-0-174250:}}Force of Nature
+{{198758357-0-174252:}}Force of Nature
+{{198758357-0-178196:}}Riposte
+{{198758357-0-184389:}}Occult Overload
+{{198758357-0-196718:}}Bulwark
+{{198758357-0-196719:}}Bulwark
+{{198758357-0-196720:}}Bulwark
+{{198758357-0-196721:}}Bulwark
+{{198758357-0-196722:}}Bulwark
+{{198758357-0-196723:}}Bulwark
+{{198758357-0-216677:}}Unassailable
+{{198758357-0-216678:}}Unassailable
+{{198758357-0-216679:}}Unassailable
+{{198758357-0-216732:}}Unassailable
+{{198758357-0-222152:}}War Mage
+{{198758357-0-225095:}}Occult Overload
+{{198758357-0-233794:}}Riposte
+{{198758357-0-233804:}}Riposte
+{{224768149-0-163:}}Bulwark
+{{232566869-0-16:}}War Mage

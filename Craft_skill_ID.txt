@@ -1,0 +1,62 @@
+{{8290981-0-69859:}}Treasure Hunter
+{{12529189-0-1133:}}Out of Sight
+{{18173141-0-248:}}Treasure Hunter
+{{18173141-0-5884:}}Treasure Hunter
+{{38727365-0-305:}}Treasure Hunter
+{{87370069-0-20112:}}Treasure Hunter
+{{166964069-1-1:}}Master Gatherer
+{{172030117-0-1133:}}Out of Sight
+{{198758357-0-60494:}}Inspiration Boost
+{{198758357-0-60555:}}Master Gatherer
+{{198758357-0-60566:}}Treasure Hunter
+{{198758357-0-61426:}}Shadowstrike
+{{198758357-0-62274:}}War Mount
+{{198758357-0-63663:}}Plentiful Harvest
+{{198758357-0-64244:}}Shadowstrike
+{{198758357-0-64245:}}Shadowstrike
+{{198758357-0-72909:}}Shadowstrike
+{{198758357-0-140520:}}Shadowstrike
+{{198758357-0-142121:}}Professional Upkeep
+{{198758357-0-142123:}}Sustaining Shadows
+{{198758357-0-142125:}}Steed's Blessing
+{{198758357-0-142203:}}Fleet Phantom
+{{198758357-0-142204:}}Out of Sight
+{{198758357-0-142205:}}Breakfall
+{{198758357-0-142206:}}Wanderer
+{{198758357-0-142207:}}Fortune's Favor
+{{198758357-0-142208:}}Inspiration Boost
+{{198758357-0-142210:}}Gilded Fingers
+{{198758357-0-142211:}}Steadfast Enchantment
+{{198758357-0-142213:}}Friends in Low Places
+{{198758357-0-142215:}}Infamous
+{{198758357-0-142217:}}Master Gatherer
+{{198758357-0-142218:}}Treasure Hunter
+{{198758357-0-142219:}}Shadowstrike
+{{198758357-0-142220:}}Plentiful Harvest
+{{198758357-0-142223:}}War Mount
+{{198758357-0-142224:}}Meticulous Disassembly
+{{198758357-0-142225:}}Meticulous Disassembly
+{{198758357-0-142226:}}Meticulous Disassembly
+{{198758357-0-142227:}}Meticulous Disassembly
+{{198758357-0-142228:}}Fade Away
+{{198758357-0-142230:}}Rationer
+{{198758357-0-142231:}}Liquid Efficiency
+{{198758357-0-142232:}}Soul Reservoir
+{{198758357-0-142233:}}Reel Technique
+{{198758357-0-142234:}}Angler's Instincts
+{{198758357-0-142235:}}Cutpurse's Art
+{{198758357-0-142236:}}Homemaker
+{{198758357-0-149286:}}Gifted Rider
+{{198758357-0-151860:}}Shadowstrike
+{{198758357-0-151861:}}Shadowstrike
+{{198758357-0-151862:}}Shadowstrike
+{{198758357-0-151865:}}Shadowstrike
+{{198758357-0-152310:}}Fade Away
+{{198758357-0-152360:}}Friends in Low Places
+{{198758357-0-152364:}}Wanderer
+{{198758357-0-152367:}}Steadfast Enchantment
+{{198758357-0-152371:}}Fortune's Favor
+{{198758357-0-152372:}}Master Gatherer
+{{198758357-0-152373:}}Rationer
+{{198758357-0-242521:}}Discipline Artisan
+{{242841733-0-114160:}}Treasure Hunter
